@@ -76,3 +76,34 @@ body.nk-editing section.sheet{outline:2px dashed #c4b5fd;outline-offset:6px;bord
   .nk-pb::after{display:none}
   body.nk-sectpage section.sheet h2[id]{break-before:page;page-break-before:always}
 }
+
+
+/* ---------- 顶部常驻工具栏（Word 式） ---------- */
+#nk-ribbon{position:fixed;top:0;left:0;right:0;z-index:9996;
+  background:rgba(252,251,248,.96);-webkit-backdrop-filter:saturate(180%) blur(12px);
+  backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid #e7e5df;
+  font:14px/1.5 -apple-system,"PingFang SC","Hiragino Sans GB",sans-serif;color:#111418}
+.nk-rb{display:flex;align-items:center;gap:8px;padding:7px 10px;max-width:100%}
+.nk-mode{flex:none;border:1px solid #d8dbe2;background:#fff;border-radius:9px;font-size:12.5px;
+  font-weight:700;padding:6px 12px;color:#146d68;line-height:1.3}
+.nk-mode:active{transform:scale(.97)}
+body.nk-editing .nk-mode{background:#146d68;color:#fff;border-color:#146d68}
+.nk-rb-state{flex:none;font-size:11px;color:#6d7780;font-weight:600;letter-spacing:.02em}
+.nk-tools{display:none;gap:6px;align-items:center;overflow-x:auto;flex:1;padding:2px 0;
+  -webkit-overflow-scrolling:touch;scrollbar-width:none}
+.nk-tools::-webkit-scrollbar{display:none}
+body.nk-editing .nk-tools{display:flex}
+body.nk-editing .nk-rb-state{display:none}
+.nk-tb{flex:none;font-size:12.5px;padding:5px 9px;border-radius:8px;border:1px solid #e2e4e8;
+  background:#fff;color:#374151;line-height:1.4;cursor:pointer}
+.nk-tb:active{background:#f3f4f6}
+.nk-tsep{flex:none;width:1px;height:18px;background:#e7e5df;margin:0 1px}
+.nk-rb-btn{flex:none;border:1px solid #e2e4e8;background:#fff;border-radius:9px;font-size:13px;
+  padding:5px 9px;line-height:1.3;cursor:pointer}
+#nk-ribbon .nk-sw{width:22px;height:22px;border-radius:6px}
+body.nk-ribbon-on{padding-top:47px}
+body.nk-ribbon-on #nk-fab{bottom:74px}
+@media print{
+  #nk-ribbon{display:none!important}
+  body.nk-ribbon-on{padding-top:0!important}
+}

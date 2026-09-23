@@ -75,50 +75,6 @@
         '<button class="nk-btn ghost" data-act="edit-reset">恢复原始版本</button></div>' +
       '</div>' +
       '<div class="nk-sep"></div>' +
-      '<div class="nk-row" data-act="fmt"><span class="nk-ic">Aa</span><span class="nk-lab">文字格式 / 分页<span class="nk-sub" id="nk-fmtstate">　换色 · 高亮 · 加粗</span></span></div>' +
-      '<div class="nk-bar" id="nk-fbar">' +
-        '<div class="nk-hint">先<b>选中要改的文字</b>再点下面的按钮；会自动打开编辑模式，改完自动保存。</div>' +
-        '<div class="nk-fmt"><span class="nk-flab">字体色</span>' +
-          '<button class="nk-sw" data-act="fore" data-v="#202a35" style="--c:#202a35" title="墨黑"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#b4453c" style="--c:#b4453c" title="红"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#146d68" style="--c:#146d68" title="青"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#3b6ea8" style="--c:#3b6ea8" title="蓝"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#b96f2a" style="--c:#b96f2a" title="橙"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#6b5b95" style="--c:#6b5b95" title="紫"></button>' +
-          '<button class="nk-sw" data-act="fore" data-v="#6d7780" style="--c:#6d7780" title="灰"></button>' +
-          '<button class="nk-sw nk-swx" data-act="fore-clear" title="恢复默认色">∅</button>' +
-        '</div>' +
-        '<div class="nk-fmt"><span class="nk-flab">高亮</span>' +
-          '<button class="nk-sw" data-act="hilite" data-v="#fff3a3" style="--c:#fff3a3" title="黄"></button>' +
-          '<button class="nk-sw" data-act="hilite" data-v="#d7f0d0" style="--c:#d7f0d0" title="绿"></button>' +
-          '<button class="nk-sw" data-act="hilite" data-v="#d6e9ff" style="--c:#d6e9ff" title="蓝"></button>' +
-          '<button class="nk-sw" data-act="hilite" data-v="#ffd9e6" style="--c:#ffd9e6" title="粉"></button>' +
-          '<button class="nk-sw" data-act="hilite" data-v="#ffe0c2" style="--c:#ffe0c2" title="橙"></button>' +
-          '<button class="nk-sw nk-swx" data-act="hilite-clear" title="取消高亮">∅</button>' +
-        '</div>' +
-        '<div class="nk-fmt"><span class="nk-flab">字形</span>' +
-          '<button class="nk-fbtn" data-act="bold"><b>B</b></button>' +
-          '<button class="nk-fbtn" data-act="italic"><i>I</i></button>' +
-          '<button class="nk-fbtn" data-act="underline"><u>U</u></button>' +
-          '<button class="nk-fbtn" data-act="strike"><s>S</s></button>' +
-          '<button class="nk-fbtn" data-act="fs-s">小</button>' +
-          '<button class="nk-fbtn" data-act="fs-l">大</button>' +
-          '<button class="nk-fbtn" data-act="fs-xl">特大</button>' +
-          '<button class="nk-fbtn" data-act="fmt-clear">清除格式</button>' +
-        '</div>' +
-        '<div class="nk-fmt"><span class="nk-flab">对齐</span>' +
-          '<button class="nk-fbtn" data-act="al-l">左</button>' +
-          '<button class="nk-fbtn" data-act="al-c">居中</button>' +
-          '<button class="nk-fbtn" data-act="al-r">右</button>' +
-        '</div>' +
-        '<div class="nk-fmt"><span class="nk-flab">分页</span>' +
-          '<button class="nk-fbtn" data-act="pb-add">插入分页符</button>' +
-          '<button class="nk-fbtn" data-act="pb-del">删除分页符</button>' +
-          '<button class="nk-fbtn" data-act="pb-sect" id="nk-pbsect">按节分页：关</button>' +
-        '</div>' +
-        '<div class="nk-hint">「按节分页」开启后，打印 / 存 PDF 时每一节都从新的一页开始；关闭即是合页连续排版。</div>' +
-      '</div>' +
-      '<div class="nk-sep"></div>' +
       '<div class="nk-row" data-act="note"><span class="nk-ic">📌</span><span class="nk-lab">便签 / 定位笔记<span class="nk-sub" id="nk-ncount">　0 条</span></span></div>' +
       '<div class="nk-bar" id="nk-nbar">' +
         '<div class="nk-hint" id="nk-nhint">点下面的按钮开始：进入便签模式后，<b>点正文里任意位置</b>即可在那里钉一条笔记。</div>' +
@@ -154,6 +110,49 @@
       '<div class="nk-row" data-act="top"><span class="nk-ic">↑</span><span class="nk-lab">回到顶部</span></div>' +
     '</div>' +
     '<div id="nk-toast"></div>';
+  /* ---------- 顶部常驻工具栏（Word 式） ---------- */
+  var SW = function (act, v, title) {
+    return '<button class="nk-sw" data-act="' + act + '" data-v="' + v + '" style="--c:' + v + '" title="' + title + '"></button>';
+  };
+  var TB = function (act, label, title) {
+    return '<button class="nk-tb" data-act="' + act + '"' + (title ? ' title="' + title + '"' : '') + '>' + label + '</button>';
+  };
+  var ribbon = document.createElement('div');
+  ribbon.id = 'nk-ribbon';
+  ribbon.innerHTML =
+    '<div class="nk-rb">' +
+      '<button class="nk-mode" data-act="mode" id="nk-modebtn">✏️ 编辑</button>' +
+      '<span class="nk-rb-state" id="nk-rb-state">阅读</span>' +
+      '<div class="nk-tools" id="nk-tools">' +
+        TB('bold', '<b>B</b>') + TB('italic', '<i>I</i>') + TB('underline', '<u>U</u>') + TB('strike', '<s>S</s>') +
+        '<span class="nk-tsep"></span>' +
+        SW('fore', '#202a35', '墨黑') + SW('fore', '#b4453c', '红') + SW('fore', '#146d68', '青') +
+        SW('fore', '#3b6ea8', '蓝') + SW('fore', '#b96f2a', '橙') + SW('fore', '#6b5b95', '紫') +
+        SW('fore', '#6d7780', '灰') + '<button class="nk-sw nk-swx" data-act="fore-clear" title="默认色">∅</button>' +
+        '<span class="nk-tsep"></span>' +
+        SW('hilite', '#fff3a3', '黄') + SW('hilite', '#d7f0d0', '绿') + SW('hilite', '#d6e9ff', '蓝') +
+        SW('hilite', '#ffd9e6', '粉') + SW('hilite', '#ffe0c2', '橙') +
+        '<button class="nk-sw nk-swx" data-act="hilite-clear" title="取消高亮">∅</button>' +
+        '<span class="nk-tsep"></span>' +
+        TB('fs-s', '小') + TB('fs-l', '大') + TB('fs-xl', '特大') +
+        '<span class="nk-tsep"></span>' +
+        TB('al-l', '左') + TB('al-c', '居中') + TB('al-r', '右') +
+        '<span class="nk-tsep"></span>' +
+        TB('pb-add', '分页符 +') + TB('pb-del', '分页符 −') +
+        '<button class="nk-tb" data-act="pb-sect" id="nk-pbsect">按节分页：关</button>' +
+        TB('fmt-clear', '清格式') +
+      '</div>' +
+      '<button class="nk-rb-btn" data-act="search-open" title="搜索">🔍</button>' +
+    '</div>';
+  document.body.appendChild(ribbon);
+  document.body.classList.add('nk-ribbon-on');
+  var modeBtn = $('#nk-modebtn'), rbState = $('#nk-rb-state');
+  function syncRibbon() {
+    var on = state.editing;
+    modeBtn.textContent = on ? '👁 阅读' : '✏️ 编辑';
+    rbState.textContent = on ? '编辑中 · 自动保存' : '阅读';
+  }
+
   document.body.appendChild(root);
 
   var fab = $('#nk-fab'), panel = $('#nk-panel'), badge = $('.nk-badge', fab);
@@ -253,6 +252,7 @@
       else { s.removeAttribute('contenteditable'); }
     });
     $('#nk-estate').textContent = on ? '　编辑中' : '　点击开启';
+    if (typeof syncRibbon === 'function') syncRibbon();
     toggleBar('nk-ebar', on);
     if (on) { clearHits(); togglePanel(true); toast('编辑模式已开：直接改正文，自动保存', 2600); }
     else { saveContent(true); toast('编辑结束，已保存', 1800); }
@@ -405,6 +405,7 @@
       LS.set('notes', JSON.stringify(state.notes));
     }
     if (LS.get('sectpage') === '1') toggleSectionPaging(true);
+    syncRibbon();
     noteCount(); renderNotes(); renderMarkers();
   }
   $('#nk-file').addEventListener('change', function (e) {
@@ -569,6 +570,39 @@
     toast(on ? '已开启按节分页：每节从新的一页开始（打印 / 存 PDF 生效）' : '已合页：恢复连续排版', 2800);
   }
 
+  ribbon.addEventListener('click', function (e) {
+    var t = e.target.closest('[data-act]'); if (!t) return;
+    e.preventDefault();
+    ribbonClick(t.getAttribute('data-act'), t);
+  });
+  function ribbonClick(act, t) {
+    switch (act) {
+      case 'mode': setEdit(!state.editing); break;
+      case 'search-open':
+        togglePanel(true); toggleBar('nk-sbar', true);
+        setTimeout(function () { qInput.focus(); }, 80);
+        break;
+      case 'fore': execFmt('foreColor', t.getAttribute('data-v')); break;
+      case 'fore-clear': execFmt('foreColor', '#202a35'); break;
+      case 'hilite': execFmt('hiliteColor', t.getAttribute('data-v')); break;
+      case 'hilite-clear': execFmt('hiliteColor', 'transparent'); break;
+      case 'bold': execFmt('bold'); break;
+      case 'italic': execFmt('italic'); break;
+      case 'underline': execFmt('underline'); break;
+      case 'strike': execFmt('strikeThrough'); break;
+      case 'fs-s': wrapSelection('nk-fs-s'); break;
+      case 'fs-l': wrapSelection('nk-fs-l'); break;
+      case 'fs-xl': wrapSelection('nk-fs-xl'); break;
+      case 'fmt-clear': execFmt('removeFormat'); break;
+      case 'al-l': execFmt('justifyLeft'); break;
+      case 'al-c': execFmt('justifyCenter'); break;
+      case 'al-r': execFmt('justifyRight'); break;
+      case 'pb-add': insertPageBreak(); break;
+      case 'pb-del': removePageBreak(); break;
+      case 'pb-sect': toggleSectionPaging(); break;
+    }
+  }
+
   /* ---------- 面板事件 ---------- */
   root.addEventListener('click', function (e) {
     var t = e.target.closest('[data-act]'); if (!t) return;
@@ -582,7 +616,7 @@
       case 'edit-reset':
         if (confirm('放弃本机所有编辑，恢复最初版本？（服务器上的内容不受影响）')) { LS.del('content'); location.reload(); }
         break;
-      case 'fmt': toggleBar('nk-fbar'); break;
+      case 'search-open': togglePanel(true); toggleBar('nk-sbar', true); break;
       case 'fore': execFmt('foreColor', t.getAttribute('data-v')); break;
       case 'fore-clear': execFmt('foreColor', '#202a35'); break;
       case 'hilite': execFmt('hiliteColor', t.getAttribute('data-v')); break;
