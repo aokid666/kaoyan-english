@@ -1,0 +1,1088 @@
+<!DOCTYPE html><html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>2027 考研英语写作 · 讲义（勘误干净版）</title>
+<style>
+:root{--line:#d8dbe2;--dim:#6b7280;--paper:#fff;--ink:#111418}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;padding:0;background:#e9ebee;
+ font:15px/1.72 "Times New Roman","Songti SC","SimSun",Georgia,serif;color:var(--ink)}
+.sheet{width:21cm;margin:20px auto;background:var(--paper);padding:2.4cm 3.1cm;
+ box-shadow:0 0 0 1px #dcdfe4,0 8px 30px rgba(0,0,0,.12)}
+.cover{text-align:center;padding-top:5.4cm;padding-bottom:2.6cm}
+.cover .kicker{color:var(--dim);font-size:14px;letter-spacing:2px;margin:0 0 14px}
+.cover h1{font-size:30px;margin:0 0 10px;letter-spacing:1px}
+.cover .sub{font-size:15px;color:#39404e;margin:0 0 4px}
+.cover .by{font-size:13.5px;color:var(--dim);margin:0 0 40px}
+.cover .note{display:inline-block;text-align:left;font-size:13px;color:#4b5464;line-height:1.9;
+ border:1px solid var(--line);border-radius:6px;padding:12px 16px;background:#fafbfc}
+h1.doctitle{display:none}
+h2{font-size:17.5px;margin:22px 0 8px;padding-bottom:3px;border-bottom:1.5px solid var(--line);
+ page-break-after:avoid}
+.h2rest{font-weight:400;color:#3d4657;font-size:.92em}
+p{margin:5px 0;word-wrap:break-word}
+b.tag{color:#1f3a93;font-weight:700}
+p.lbl{font-weight:700;margin:12px 0 4px;color:#22293a}
+p.examtitle{font-weight:700;margin:12px 0 4px}
+p.exam{color:#5b6473;font-size:13.6px;margin:2px 0}
+p.salut{margin:12px 0 5px}
+p.sign{text-align:right;margin:1px 0}
+p.step{font-weight:700;margin-top:10px}
+h2.toc{text-align:center;font-size:19px;border:0;margin:0 0 6px}
+p.tip{text-align:center;color:var(--dim);font-size:13px;margin:0 0 18px}
+ol.toc{list-style:none;margin:0;padding:0;columns:2;column-gap:2.2em;font-size:13.4px}
+ol.toc li{margin:0 0 3px;break-inside:avoid}
+ol.toc a{display:flex;align-items:baseline;color:#22304a;text-decoration:none}
+ol.toc .t{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:92%}
+ol.toc .d{flex:1;border-bottom:1px dotted #b9c0cc;margin:0 3px;transform:translateY(-3px)}
+.foot{color:#8b919c;text-align:center;font-size:12.5px;margin:6px auto 46px;width:21cm}
+.top{position:fixed;right:14px;bottom:18px;background:#2b3446;color:#fff;border-radius:22px;
+ padding:8px 14px;font-size:13px;text-decoration:none;opacity:.85;font-family:-apple-system,sans-serif}
+@media (max-width:860px){
+ body{background:var(--paper)}
+ .sheet{width:auto;margin:0;padding:14px 15px;box-shadow:none}
+ .cover{padding-top:26px;padding-bottom:8px}
+ .cover h1{font-size:24px}
+ ol.toc{columns:1}
+ .foot{width:auto;padding:0 15px}
+}
+@media print{
+ @page{size:A4;margin:2.3cm 2.9cm}
+ body{background:#fff}
+ .sheet{width:auto;margin:0;padding:0;box-shadow:none}
+ .top,.foot{display:none}
+ .cover{page-break-after:always;padding-top:6cm}
+ ol.toc{columns:2}
+ h2{page-break-after:avoid}
+}
+</style></head><body id="top">
+<section class="sheet cover">
+<p class="kicker">2027 考研英语一 · 写作</p>
+<h1>2027 考研英语写作<br>思路拓展 &amp; 语料补充</h1>
+<p class="sub">勘 误 干 净 版</p>
+<p class="by">原文 By Vita-W（B 站 / 公众号同名）</p>
+<p class="note">
+· 本版在原讲义基础上修正 <b>130 处</b>语法、拼写、搭配与语用问题<br>
+· 结构、语料与讲解思路与原讲义保持一致，仅删去与内容无关的水印文字<br>
+· 模板句已统一补出主语（Earnestly hope → I earnestly hope 等）<br>
+· 不可数名词（advice / confusion / funding / cohesion …）已改为正确形式<br>
+· 已被断行拆散的句子已重新拼接，可直接阅读、背诵或打印
+</p>
+</section>
+<section class="sheet">
+<h2 class="toc">目 录</h2>
+<p class="tip">共 29 节 · 点击条目可直接跳转</p>
+<ol class="toc"><li><a href="#s1"><span class="t">词汇背诵 拼写 + 发音 (表音文字) + 词性</span><span class="d"></span></a></li><li><a href="#s2"><span class="t">题型分类 应用文写作 + 议论文写作</span><span class="d"></span></a></li><li><a href="#s3"><span class="t">应用文分类 = 信件邮件 + 通知告示 + 会议纪要</span><span class="d"></span></a></li><li><a href="#s4"><span class="t">议论文分类 = 图画作文 + 图表作文 + 材料作文</span><span class="d"></span></a></li><li><a href="#s5"><span class="t">应用文-信件邮件-撰写格式</span><span class="d"></span></a></li><li><a href="#s6"><span class="t">信件邮件-称呼 判断关系的远近</span><span class="d"></span></a></li><li><a href="#s7"><span class="t">信件邮件-首段-自我介绍 判断关系的远近</span><span class="d"></span></a></li><li><a href="#s8"><span class="t">信件邮件-首段-写信目的 判断对话中上下位关系</span><span class="d"></span></a></li><li><a href="#s9"><span class="t">信件邮件-尾段-重申目的 判断信件的类型</span><span class="d"></span></a></li><li><a href="#s10"><span class="t">信件邮件-尾段-表达期待 判断期待值的高低</span><span class="d"></span></a></li><li><a href="#s11"><span class="t">信件邮件-祝福语</span><span class="d"></span></a></li><li><a href="#s12"><span class="t">信件邮件-次段-邀请信 细节论证 or 原因论证</span><span class="d"></span></a></li><li><a href="#s13"><span class="t">写作热点话题词补充 1 科技 - AI</span><span class="d"></span></a></li><li><a href="#s14"><span class="t">信件邮件-次段-建议信 围绕具体问题给出相应措施</span><span class="d"></span></a></li><li><a href="#s15"><span class="t">信件/邮件-次段-投诉信 原因论证 + 措施论证</span><span class="d"></span></a></li><li><a href="#s16"><span class="t">写作热点词汇补充 2 外卖 + 预制菜 食品安全问题 + 诚信</span><span class="d"></span></a></li><li><a href="#s17"><span class="t">信件邮件-次段-道歉信 原因论证 + 措施论证 + 获取谅解</span><span class="d"></span></a></li><li><a href="#s18"><span class="t">写作热点补充 3 学术不端 – 诚信 + 科技 + 榜样 2016</span><span class="d"></span></a></li><li><a href="#s19"><span class="t">信件邮件-次段-推荐信-景点推荐 大概率与其他信件结合考察</span><span class="d"></span></a></li><li><a href="#s20"><span class="t">信件邮件-次段-求职信 自身优势 → 对方获益</span><span class="d"></span></a></li><li><a href="#s21"><span class="t">应用文-通知告示-题型分类 notice</span><span class="d"></span></a></li><li><a href="#s22"><span class="t">通知告示-撰写格式</span><span class="d"></span></a></li><li><a href="#s23"><span class="t">历年图画作文-词汇拓展</span><span class="d"></span></a></li><li><a href="#s24"><span class="t">题型分类 图画 + 图表 + 材料</span><span class="d"></span></a></li><li><a href="#s25"><span class="t">图画作文-解题思路 描述图画 + 利弊论证 + 措施论证</span><span class="d"></span></a></li><li><a href="#s26"><span class="t">图表作文-解题思路 图表描述 + 利弊论证 + 措施论证</span><span class="d"></span></a></li><li><a href="#s27"><span class="t">写作热点词汇补充 4 网络暴力 – 科技 + 校园安全 + 绿色</span><span class="d"></span></a></li><li><a href="#s28"><span class="t">写作热点词汇补充 5 知识产权 – 诚信 + 科技的利弊</span><span class="d"></span></a></li><li><a href="#s29"><span class="t">中国文化负载词-语料储备 1 传统节日</span><span class="d"></span></a></li></ol>
+</section>
+<section class="sheet">
+<h2 id="s1">词汇背诵 <span class="h2rest">拼写 + 发音 (表音文字) + 词性</span></h2>
+<h2 id="s2">题型分类 <span class="h2rest">应用文写作 + 议论文写作</span></h2>
+<h2 id="s3">应用文分类 <span class="h2rest">= 信件邮件 + 通知告示 + 会议纪要</span></h2>
+<h2 id="s4">议论文分类 <span class="h2rest">= 图画作文 + 图表作文 + 材料作文</span></h2>
+<h2 id="s5">应用文-信件邮件-撰写格式</h2>
+<p>称呼 (Dear xxx),</p>
+<p>首段: 自我介绍 + 写信目的</p>
+<p>次段: 承上启下 + 分点论述 (总分原则)</p>
+<p>尾段: 重申目的 + 表达期待</p>
+<p>祝福语,</p>
+<p>署名</p>
+<h2 id="s6">信件邮件-称呼 <span class="h2rest">判断关系的远近</span></h2>
+<p>情况一 给熟悉的人写信 朋友 - 同学 - 家庭成员</p>
+<p class="salut">Dear 名字 (删除姓氏),</p>
+<p>… (Jack / John / Tom / Jerry / Vita)</p>
+<p>Dear 家庭称谓 (Mom / Dad / Brother / Sister …)</p>
+<p>情况二 给关系一般的人写信 老师 - 教授 - 专家</p>
+<p class="salut">Dear Mr. / Ms. 姓氏,</p>
+<p>…</p>
+<p class="salut">Dear Prof. Smith, … || Dear Dr. Smith,</p>
+<p>…</p>
+<p>情况三 给组织写信 图书馆 - 校医院 - 报社 - 学生会 - 社区</p>
+<p class="salut">Dear 整个团队名称,</p>
+<p>…</p>
+<p>[Library Staff || Medical Staff || Student Union Members || Editor]</p>
+<p class="salut">Dear Sir or Madam, … || To Whom It May Concern,</p>
+<p>… (至相关人士)</p>
+<h2 id="s7">信件邮件-首段-自我介绍 <span class="h2rest">判断关系的远近</span></h2>
+<p>情况 1 给熟悉的人写信 一定删除该步骤 + 适当寒暄</p>
+<p><b class="tag"><b class="tag">[寒暄语的撰写]</b></b> 判断信件方向且事件性质</p>
+<p>对方来信且分享好事 Congratulations on 好事!</p>
+<p>对方来信但同步坏事 Sorry to know that.</p>
+<p>主动写信且长期失联 How have you been these days?</p>
+<p>情况 2 给关系一般/机构写信 一定要加该步骤</p>
+<p>告知姓名 This is xxx = This letter / email comes from xxx</p>
+<p>告知身份 As 写信人身份, … (作为…)</p>
+<p>As a student majoring in 专业, … (次段的展开需要与专业互文)</p>
+<p>As a student from our college, …</p>
+<p>As a local citizen = resident, … (给校外人士写信)</p>
+<p>As one of your consumers / customers, … (仅用于投诉信)</p>
+<h2 id="s8">信件邮件-首段-写信目的 <span class="h2rest">判断对话中上下位关系</span></h2>
+<p>邀请信 it gives me immense pleasure to cordially invite you to grace the 活动名称 with your presence.</p>
+<p>建议信 I am writing in the hope that you might find the following tips and insights beneficial = conducive = actionable to your <b class="tag">[具体事件]</b>.</p>
+<p>投诉信 it is with deep regret and utmost reluctance that I find myself compelled to lodge a complaint about …</p>
+<p>推荐信 书籍 - 电影 - 景点 I am writing to endorse 推荐项, which is carefully curated (策展/精选) for your consideration / reference.</p>
+<p>求职信 I am writing to express my keen interest in being recruited = employed = engaged as a(n) 职位名称 at your esteemed company.</p>
+<p>道歉信 I am humbly writing to offer my sincerest apologies for any inconvenience caused by …</p>
+<p>信件载体 回复信 首段-营造交互感</p>
+<p><b class="tag"><b class="tag">[回信关键词]</b></b> reply - hear from - write sb back - ask you to do</p>
+<p>一定删除自我介绍 + 适当寒暄. → In response to your letter - problems - requests - 心情名词, I am writing to 核心目的.</p>
+<p><b class="tag"><b class="tag">[心情名词]</b></b> anxiety - confusion - tension - irritation - frustration (坏事)</p>
+<p><b class="tag"><b class="tag">[心情名词]</b></b> delight - excitement - interest and curiosity (好事)</p>
+<p><b class="tag"><b class="tag">&lt;同步坏事&gt;</b></b> Fully understanding your 坏心情, I am writing to 目的.</p>
+<p><b class="tag"><b class="tag">&lt;分享好事&gt;</b></b> Sharing your immense 好心情, I am writing to 目的.</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 题干中三方已知信息, 不要大面积摘抄</p>
+<h2 id="s9">信件邮件-尾段-重申目的 <span class="h2rest">判断信件的类型</span></h2>
+<p>邀请信 I earnestly hope you will honor us with your attendance.</p>
+<p>建议/推荐 I trust you will find these advice / recommendations practical.</p>
+<p>投诉信 I strongly hope this matter can be promptly resolved.</p>
+<p>求职信 I genuinely hope you will take my application into account.</p>
+<p>道歉信 I sincerely hope you will accept my deepest apologies.</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 能力差的同学参考去年的句式</p>
+<h2 id="s10">信件邮件-尾段-表达期待 <span class="h2rest">判断期待值的高低</span></h2>
+<p>期待值较高 有求于他人的信件</p>
+<p>Your swift response and decision would be highly appreciated.</p>
+<p>期待值一般 处于对话上位的信件</p>
+<p>I eagerly await your response in due course (合适的时机)</p>
+<p>期待值较低 回复信 代价 → 条件状语 若有问题, 再联系</p>
+<p>Please feel free to reach out to me if you have further confusion.</p>
+<h2 id="s11">信件邮件-祝福语</h2>
+<p class="sign">Yours,</p>
+<p>… = Yours sincerely, … → 给熟人</p>
+<p class="sign">Best wishes,</p>
+<p>… = Best Regards, … → 给生人/机构</p>
+<h2 id="s12">信件邮件-次段-邀请信 <span class="h2rest">细节论证 or 原因论证</span></h2>
+<p class="step">STEP ONE 中心句 相关细节如下</p>
+<p><b class="tag"><b class="tag">[短句式]</b></b> Relevant details are as follows.</p>
+<p><b class="tag"><b class="tag">[长句式]</b></b> Relevant details can be listed as follows.</p>
+<p class="step">STEP TWO 细节论证</p>
+<p>细节 1 时间 - 地点 - 目的 <b class="tag">[注意]</b> 此句时常拆解出位其他信件服务</p>
+<p>该活动将于某月某日某点在某地举办, 我们想要借此机会做某事</p>
+<p>First, with a view to <b class="tag">[目的]</b>, the <b class="tag">[活动名称]</b> will officially commence on 日期 at 时间 in 地点（on + 具体日期 / at + 时间点 / in + 地点）</p>
+<p><b class="tag"><b class="tag">[地点]</b></b> on the playground | on the cloud-based conference room 111</p>
+<p><b class="tag"><b class="tag">[地点]</b></b> in / at 均可接地点: auditorium - stadium - the Student Center</p>
+<p><b class="tag"><b class="tag">[时间]</b></b> 数字 o’ clock in the morning / afternoon / evening</p>
+<p><b class="tag"><b class="tag">[日期]</b></b> 月份 May - June - July - September - December (一定不缩写)</p>
+<p><b class="tag"><b class="tag">[日期]</b></b> 日号 1st 2nd 3rd 4th … 11th 12th 13th … 21st 22nd 23rd … 31st</p>
+<p><b class="tag"><b class="tag">[目的-潜在写法]</b></b></p>
+<p>比赛/营地 → 激发兴趣 stimulate and cultivate students’ interest in …</p>
+<p>会议 → 讨论话题 hold discussions over …</p>
+<p>毕业典礼 → 送别毕业生 see off the graduating students</p>
+<p>开学典礼 → 欢迎新生 welcome the newly enrolled students</p>
+<p>细节 2 活动过程</p>
+<p class="lbl">&lt;比赛类&gt; 实时投票 - 及时角逐</p>
+<p>Simultaneously, an online polling channel will be available, aiming to determine the winner based entirely on audience votes.</p>
+<p class="lbl">&lt;会议类&gt; 圆桌会议 - 交换观点</p>
+<p>Simultaneously, attendees will be divided into specific groups for in-depth panel discussions, where views can freely flow.</p>
+<p class="lbl">&lt;文艺类&gt; 沉浸体验 - 改善体验</p>
+<p>immerse oneself in sth / doing sth + appreciate the charm of …</p>
+<p>hands-on experiences (动手体验) || interactive workshop (互动工坊) try one’s hand at doing sth (尝试做某事)</p>
+<p>细节 3 活动准备 体现 AI/智慧校园的微创新</p>
+<p><b class="tag"><b class="tag">&lt;通用&gt;</b></b> 线上直播 online livestreaming → 弹幕 on-screen comments</p>
+<p>→ 实时问答墙 real-time Q&amp;A wall</p>
+<p>Third, the session will feature a synchronized livestream, allowing you to engage with virtual attendees through a real-time Q&amp;A wall and on-screen comments.</p>
+<p><b class="tag"><b class="tag">&lt;宣发&gt;</b></b> 集赞 gather thumbs-up || 虚拟积分 virtual credits → 微公益</p>
+<p>micro-charity (matching donation) + 纪念徽章 digital campus badge</p>
+<p>Third, to generate buzz, a post that collects likes or virtual credits will be translated into micro-charity (like matching donations) and a campus badge.</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 邀请信变体 题干无 invite 等一些衍生词 但存在活动名称</p>
+<p>会议 meeting = conference = session = seminar = forum = symposium</p>
+<p>会议纪要 meeting minute (会议流程 + 会议精神)</p>
+<p>比赛 contest = competition = match = race = game | debate</p>
+<p>营地活动 camp activities (summer camp + winter camp)</p>
+<p>典礼 ceremony</p>
+<p><b class="tag"><b class="tag">[课后作业]</b></b> 2019 E2 小作文真题</p>
+<p class="salut">Dear Prof. Smith,</p>
+<p>Thanks for your trust! In response to your request, I am writing to inform you of some potential arrangements about the debate.</p>
+<p>Relevant details are as follows. First of all, according to my nascent blueprint, the theme would focus on“Should the Autonomous Driving be Promoted” since it has already triggered some ethical hazards like trolley or tunnel dilemma. Also, this debate will officially commence in the auditorium at 2 o’clock in the afternoon on June 10th. In addition, it will feature online streaming, which enables some netizens to put forward some questions through a real-time Q&amp;A wall and on-screen comments.</p>
+<p>I hope these arrangements are acceptable to you. Please feel free to reach out to me if you have further questions.</p>
+<p class="sign">Yours,</p>
+<p class="sign">Li Ming</p>
+<h2 id="s13">写作热点话题词补充 1 <span class="h2rest">科技 - AI</span></h2>
+<p>生成式 AI - Generative AI</p>
+<p>ChatGPT = Chat Generative Pre-trained Transformers || Gemini</p>
+<p>普及速度快 high popularization rate</p>
+<p>使用门槛低 low barriers to entry</p>
+<p>结果个性化 individualized = personalized = customized searching results</p>
+<p>学术剽窃 academic plagiarism || plagiarize the academic results from sb</p>
+<p>捏造数据 falsify = fabricate data</p>
+<p>学术不端 academic misconduct → 学术诚信 academic integrity</p>
+<p>自动驾驶 autonomous driving = driverless cars</p>
+<p>算法存在偏差 the algorithm is, to some extent, biased and subjective.</p>
+<p>电车难题 trolley dilemma (to benefit most people at the cost of the few)</p>
+<p>隧道难题 tunnel dilemma (to sacrifice the passengers or passers-by)</p>
+<h2 id="s14">信件邮件-次段-建议信 <span class="h2rest">围绕具体问题给出相应措施</span></h2>
+<p class="step">STEP ONE 中心句</p>
+<p>相关建议如下. || Relevant suggestions are as follows.</p>
+<p class="step">STEP TWO 具体建议 将自己的做法当成建议写出即可</p>
+<p><b class="tag"><b class="tag">[得分点]</b></b> HOW 动作具体化 → WHAT 结果具体化</p>
+<p><b class="tag"><b class="tag">[替换]</b></b> 表示建议的表达</p>
+<p>had better do = ought to do sth = be expected / supposed to do</p>
+<p>it is in one’s best interest to do sth (做某事是最符合某人利益的) it behooves (理应/有必要) sb to do sth <b class="tag">[语气最重]</b></p>
+<p>sb would be well-advised to do sth</p>
+<p><b class="tag"><b class="tag">[问题 1]</b></b> 单词不认识 → <b class="tag">[措施 1]</b> 背单词</p>
+<p>首先, 你应该下载一个词汇软件 (HOW 1) - 设定一个每日计划</p>
+<p>(HOW2) → 以此扩大词汇量 (WHAT).</p>
+<p>First, you should leverage digital vocabulary platforms = vocabulary-building software and make = customize = tailor a daily regimen, which serves to enlarge = enrich your vocabulary = expand your lexical resources.</p>
+<p><b class="tag"><b class="tag">[问题 2]</b></b> 语法薄弱 → <b class="tag">[措施 2]</b> 补语法</p>
+<p>其次, 你应该观看一些网课 (HOW1) - 复习学过的语法知识 (HOW2)</p>
+<p>- 分析句子结构 (WHAT)</p>
+<p>Second, you should turn to online courses and review = brush up on previously acquired grammar rules, thereby allowing you to deconstruct complex sentences.</p>
+<p><b class="tag"><b class="tag">[问题 3]</b></b> 母语太差 → <b class="tag">[措施 3]</b> 补母语</p>
+<p>最后, 你应该多多参考母语的文本 (HOW1) - 积累一些地道的表达</p>
+<p>(HOW 2) - 以此润色自己的译文 (WHAT).</p>
+<p>Third, you should refer to some materials of your mother tongue and accumulate diverse authentic phrases, with the ultimate goal of elevating your translation outputs.</p>
+<p><b class="tag"><b class="tag">[课后作业]</b></b> 2024 年 E1</p>
+<p><b class="tag"><b class="tag">[题干分析]</b></b> 不会准备口头报告 → 建议围绕报告展开</p>
+<p><b class="tag"><b class="tag">[题干分析]</b></b> 回复信考察 → 交互感</p>
+<p><b class="tag"><b class="tag">[问题 1]</b></b> 查找资料 → <b class="tag">[措施 1]</b> 在网上检索</p>
+<p>首先, 你可以利用一些 AI 驱动的智能体 (HOW 1), 检索一些较为出</p>
+<p>名的科学家 (HOW 2), 会有大量现成文献供你参考 , 节约时间 (WHAT).</p>
+<p><b class="tag"><b class="tag">[问题 2]</b></b> 信息展示受阻 → <b class="tag">[措施 2]</b> 列大纲</p>
+<p>其次, 你应该借助 ppt (HOW 1), 帮助自己理清这个汇报逻辑</p>
+<p>(HOW 2) - 以便于听众可以更好地理解你的内容 (WHAT)</p>
+<p><b class="tag"><b class="tag">[问题 3]</b></b> 会紧张 → <b class="tag">[措施 3]</b> 预排练</p>
+<p>最后, 你应该多多对镜练习 (HOW 1), 以此避免一些口误/表达错误 (WHAT).</p>
+<p class="salut">Dear Paul,</p>
+<p>Fully understanding your anxiety and confusion, I am writing to offer you some tips on the oral report.</p>
+<p>Relevant suggestions are as follows. First, it is in your best interest to hunt for = search for some information regarding those most famous ancient scientists in China by means of AI-powered websites like = including Gemini or ChatGPT since there are massive existing materials for you to refer to, which is rather time-saving. Second, it behooves you to outline your key points under the help of a Power Point, with the aim of helping your audience better understand your content.</p>
+<p>Finally, you should rehearse more in front of a mirror so as to avoid slips and ease your nerves.</p>
+<p>Once again, I hope you can accept my tips. Please feel free to reach out to me if you have further questions. || Good Luck!</p>
+<p class="sign">Yours,</p>
+<p class="sign">Li Ming</p>
+<h2 id="s15">信件/邮件-次段-投诉信 <span class="h2rest">原因论证 + 措施论证</span></h2>
+<p class="step">STEP ONE 中心句</p>
+<p>相关理由如下 || Relevant reasons for my complaint are as follows.</p>
+<p class="step">STEP TWO 原因论证 商品/服务自身问题 + 客服不作为</p>
+<p>场景 1 电子产品的购置 phones - computers - laptops - tablet - watch</p>
+<p>Upon unboxing the device, I immediately noticed <b class="tag">[设备问题 1 - 外观瑕疵]</b>, which <b class="tag">[负面评价/影响 1]</b>. Worse still, <b class="tag">[设备问题 2-系统运行缺陷]</b>.</p>
+<p>外观&amp;瑕疵</p>
+<p>屏幕 screen = display panel = front glass = touchpad</p>
+<p>外壳 case = exterior housing (外机壳) = rear panel (后盖)</p>
+<p>刮擦 scratched || 凹陷 dented || 劣质 flimsy || 变形 deformed</p>
+<p>碎裂 cracked = shattered = fractured</p>
+<p><b class="tag"><b class="tag">[副词备选项]</b></b> slightly - heavily - completely - severely - irreparably 系统运行缺陷</p>
+<p>无法开机 it cannot be turned on = powered on = switched on = booted up</p>
+<p>运行卡顿 the machine suffers from frequent freezes and severe latency</p>
+<p>续航较差 the battery drains / depletes at an abnormally rapid pace</p>
+<p>难以充电 the charging port is too loose to maintain a stable power connection</p>
+<p>场景 2 瓜果蔬菜的购置</p>
+<p>Upon unboxing the package, I immediately noticed <b class="tag">[状态问题 1 - 不够新鲜]</b>, which <b class="tag">[负面评价/影响 1]</b>. Worse still, <b class="tag">[状态问题 2-缺斤少两]</b>.</p>
+<p>不新鲜 果蔬名称 turned = became = grew = went 具象形容词</p>
+<p>发蔫/缺水 wilted → withered → limp (软趴趴的)</p>
+<p>软烂/过熟 mushy → overripe (熟过头了的)</p>
+<p>受损/变色 bruised → discolored → blemished (长黑斑的)</p>
+<p>变质/腐坏 spoiled → rotten → moldy → rancid (馊了的)</p>
+<p><b class="tag"><b class="tag">[副词备选项]</b></b> slightly - heavily - completely - severely - visibly</p>
+<p>缺斤少两 there was also a severe shortfall in weight / measure</p>
+<p>场景 3 送餐/外卖的购置</p>
+<p>Upon unboxing the takeaways = takeouts, I immediately noticed <b class="tag">[送餐问题 1 - 食物状态]</b>, which <b class="tag">[负面评价/影响 1]</b>. Worse still, <b class="tag">[送餐问题 2-严重超时]</b>.</p>
+<p>食物状态糟糕</p>
+<p>stone-cold and soggy (凉透的且软塌塌的) completely squashed / crushed (压扁的) a severe spill in the packaging (包装不严-撒漏) a missing set of cutlery (没给餐具) a missing item in my order (订单中遗漏了商品)</p>
+<p>严重超时</p>
+<p>there was also an unacceptable delay of over two hours 通用角度 客服不作为</p>
+<p>Although I repeatedly reached out to your customer support, the representative remained completely uncooperative in addressing my concerns.</p>
+<p class="step">STEP THREE 措施论证</p>
+<p>退款 issue a full / partial refund</p>
+<p>换货 dispatch a new item at your expense</p>
+<p>赔钱 pay me an indemnity of 金额</p>
+<p><b class="tag"><b class="tag">&lt;相对礼貌&gt;</b></b> To adequately compensate for the losses incurred, I kindly request you to ____.</p>
+<p><b class="tag"><b class="tag">&lt;语气强硬&gt;</b></b> To rectify this situation and offset the losses incurred, I expect your company to ____.</p>
+<h2 id="s16">写作热点词汇补充 2 <span class="h2rest">外卖 + 预制菜 食品安全问题 + 诚信</span></h2>
+<p>外卖 takeaways = takeouts (order / deliver ~) || 外卖员 deliveryman</p>
+<p>预制菜 pre-packaged meals = ready-to-cook meals = pre-made meals</p>
+<p>食品添加剂 food additives || 防腐剂 preservatives || 保质期 shelf-life</p>
+<p>料理包 meal kits → 营养流失 nutritional losses</p>
+<p>劣质肉类/边角料 inferior meat and food scraps</p>
+<p>重料掩盖异味 heavily seasoned to mask staleness</p>
+<p>高糖/高盐/高脂肪 be excessive = high in salt, sugar and saturated fat</p>
+<p>慢性疾病 chronic diseases (such as diabetes and obesity) → 长期结果</p>
+<p>损害肠胃健康 damage / impair one’s digestive health → 短期结果</p>
+<p>侵犯知情权 violate = breach consumers’ right to know</p>
+<p>食品监管存在漏洞 reveal loopholes in food safety supervision</p>
+<h2 id="s17">信件邮件-次段-道歉信 <span class="h2rest">原因论证 + 措施论证 + 获取谅解</span></h2>
+<p class="step">STEP ONE 原因论证 论述清楚粗心/意外其内容为何 过去式</p>
+<p>错拿了 I mistakenly took yours for mine</p>
+<p>赶飞机, 比较着急 I was in a hurry when I went to the airport</p>
+<p><b class="tag"><b class="tag">[思路]</b></b> 下位者 → 婉转 → 语言结构拉长 → 增设无效有用信息</p>
+<p>由于 ______ (错误原因), ______ (具体过错 – 修改题干), 这给你带了巨大的不便.</p>
+<p>The root of this unfortunate oversight (疏忽) lies in = consists in the unexpected circumstance that <b class="tag">[小句-错误原因]</b>, thereby creating a blind spot where <b class="tag">[小句-具体过错-修改题干]</b>, an outcome that undoubtedly caused considerable inconvenience on your end.</p>
+<p class="step">STEP TWO 措施论证</p>
+<p>邮寄回去 mail the CD to you as soon as possible</p>
+<p>给钱重买 I will pay for it and you can buy a brand-new one</p>
+<p><b class="tag"><b class="tag">&lt;私对私&gt;</b></b> To rectify this at once, I would like to ______ <b class="tag">[补救措施]</b>, trusting it won’t cast a shadow over your day.</p>
+<p><b class="tag"><b class="tag">&lt;公对私&gt;</b></b> To resolve this promptly, I would like to _____ <b class="tag">[补救措施]</b>, standing by should you need further adjustments.</p>
+<p class="step">STEP THREE 获取谅解 肯定感受 – 转折 – 保证 – 谅解</p>
+<p>While your disappointment / frustration / anger is entirely justified, you have my assurance this will not recur. || <b class="tag">&lt;祈使句&gt;</b> I deeply appreciate your understanding.</p>
+<h2 id="s18">写作热点补充 3 <span class="h2rest">学术不端 – 诚信 + 科技 + 榜样 2016</span></h2>
+<p>学术诚信 academic integrity</p>
+<p>学术不端 academic misconduct (错误行径) / dishonesty</p>
+<p class="lbl">&lt;造假主体&gt;</p>
+<p>学生 students || 教授 professors → WHO 分人群</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 可以添加一些修饰成分</p>
+<p>面向学生: degree-obsessed / diploma-starved (adj): 唯学位是从的</p>
+<p>面向学生: academically deficient = struggling (adj):学术能力欠缺的</p>
+<p>二者均可: 身份名词 + 后置定语 <b class="tag">&lt;分词做后置定语&gt;</b></p>
+<p>身份名词 burdened with immense … anxiety (身负…压力的)</p>
+<p>身份名词 blinded by … (被…蒙蔽双眼的)</p>
+<p>身份名词 lured by … (被…所诱惑的)</p>
+<p>面对教授: fame-seeking and profit-driven (adj): 追名逐利的</p>
+<p>面对教授: morally compromised (沦丧的) | unscrupulous (肆无忌惮的)</p>
+<p><b class="tag"><b class="tag">&lt;造假动机&gt;</b></b> → WHY <b class="tag">&lt;固定结构: driven by … = out of …&gt;</b></p>
+<p>功利主义 utilitarianism + 走捷径 to take a shortcut</p>
+<p>工具化 instrumentalism / instrumentalization</p>
+<p class="lbl">&lt;造假手段&gt;</p>
+<p>论文代写 essay – paper – thesis – dissertation ghostwriting</p>
+<p>学术职责外包给第三方 outsource one’s academic duties to third parties</p>
+<p>逐句抄袭 lift = plagiarize passages verbatim from …</p>
+<p>捏造数据 fabricate = falsify data out of thin air (凭空)</p>
+<p>美化数据 cook (加工) and massage (粉饰) data</p>
+<p class="lbl">&lt;造假结果&gt; → WHAT &lt;小 → 大&gt;</p>
+<p>利己结果 egoistic = cherry-pick results</p>
+<p>挥霍公共经费 squander precious public funding for academia (小)</p>
+<p>阻碍科技创新 derail (阻碍) the genuine technological innovation (中)</p>
+<p>动摇学术诚信 fundamentally shatter the academic integrity (大)</p>
+<h2 id="s19">信件邮件-次段-推荐信-景点推荐 <span class="h2rest">大概率与其他信件结合考察</span></h2>
+<p class="lbl">&lt;景点介绍句式&gt; = &lt;非遗介绍句式&gt;</p>
+<p>As + {形容词 → 景点功能性地位}, 景点名称 perfectly embodies = brilliantly showcases = serves as a testament to = epitomizes (是…的缩影)</p>
+<p>+ 宾语, which → 引出意义.</p>
+<p><b class="tag"><b class="tag">[景点与其功能性地位]</b></b></p>
+<p>故宫 the Palace Museum → an imperial residence 皇家住地</p>
+<p>长城 the Great Wall → a defensive barrier 防御屏障</p>
+<p>天坛 Temple of Heaven → a sacrificial complex 祭祀综合体</p>
+<p>颐和园 the Summer Palace → an imperial summer retreat 避暑胜地</p>
+<p>夫子庙 Confucius Temple → a sanctuary of Confucianism 儒家神殿</p>
+<p>鸡鸣寺 Ji Ming Temple → a Buddhist sanctuary 佛教圣地</p>
+<p>南京博物院 Nanjing Museum → a repository of civilization 文明宝库</p>
+<p><b class="tag"><b class="tag">[非遗与其功能地位]</b></b> intangible cultural heritage</p>
+<p>中国结 Chinese Knotting → a cord art 绳艺</p>
+<p>皮影戏 shadow puppetry → a narrative art 叙事手段</p>
+<p>潍坊风筝 Wei Fang Kites → traditional flying toys 传统玩具</p>
+<p>芜湖铁花 Wu Hu Iron Picture → a blacksmithing art 锻造工艺</p>
+<p>中国剪纸 Chinese paper cutting → a hollowed-out paper art 镂空纸艺</p>
+<p><b class="tag"><b class="tag">[形容词储备语料]</b></b> 下述语料放置在 <b class="tag">&lt;功能性地位&gt;</b> 前 + 选择结构</p>
+<p>time-honored (adj): 历史悠久的 || heritage-rich (adj): 底蕴深厚的时间名词-old (adj): 历史悠久的 <b class="tag">&lt;age / century / millennia&gt;</b></p>
+<p>unparalleled (adj): 无与伦比的 || venerated = revered (adj): 备受尊重的</p>
+<p><b class="tag"><b class="tag">[宾语的储备语料]</b></b></p>
+<p>aesthetics (美学) → traditional Oriental ~ (传统东方美学) appeal = charm = glamor = allure (魅力) | harmony (和谐) symmetry (对称) | elegance (优雅) | ambience = vibe (意境) craftsmanship (工艺) | artistry (艺术造诣) | finesse (非凡技巧) virtuosity (精湛绝伦的技艺)</p>
+<p><b class="tag"><b class="tag">[引出意义-储备语料]</b></b> 受众: 外国人</p>
+<p>方向 1 了解中国文化 注意三单</p>
+<p>open a mesmerizing (迷人的) window for sb to explore China offer sb a breathtaking glimpse into the elegance of China transcend cultural barriers, adding a splash of Oriental color to sb</p>
+<p>方向 2 引发共鸣</p>
+<p>allow sb to step back in time and feel an intimate connection with sb captivate your imagination and prompt a deep reflection on sth create a timeless dialogue where words go unnecessary and beauty speaks for itself</p>
+<p>方向 3 改善游玩体验</p>
+<p>offer sb a peaceful sanctuary from hustle and bustle of life offer a profound antidote to frantic pace of modern life offer sb an unprecedented visual feast of …</p>
+<p class="lbl">&lt;书籍介绍句式&gt; = &lt;戏剧/影视介绍句式&gt;</p>
+<p>实词首字母大写 + 虚词首字母不大写 + 斜体撰写</p>
+<p>As + {书/剧功能性地位}, 书/剧名称, 插入语 <b class="tag">&lt;解释历史地位&gt;</b>, perfectly embodies = brilliantly showcases = serves as a testament to = epitomizes (是…的缩影) + 宾语, which → 引出意义.</p>
+<p><b class="tag"><b class="tag">[书剧与其功能性地位]</b></b> 已考察 2025 – E2</p>
+<p>西游 Journey to the West → an epic of heroic religious trip 英雄史诗</p>
+<p>the harmonious integration of Buddhist, Taoist and Confucian philosophies wrapped in a folkloric (民俗的) adventure</p>
+<p>水浒 Water Margins → an epic saga of righteous outlaws 侠盗史诗</p>
+<p>the compelling (引人入胜的) narrative of anti-feudal resistance</p>
+<p>三国 Romances of the Three Kingdoms → a sweeping (波澜壮阔的) historical and political epic || the complex interplay of power, loyalty and historical inevitability during a tumultuous (动荡的) era</p>
+<p><b class="tag"><b class="tag">&lt;插入语&gt;</b></b> one of the greatest classical novels in ancient China</p>
+<p><b class="tag"><b class="tag">[书籍与其功能性地位]</b></b> 潜在考察 四书五经</p>
+<p>论 语 The Analects of Confucius → the undeniable cornerstone of Confucianism (儒家思想的基石) || the systematic cultivation of morality, filial piety and social harmony</p>
+<p><b class="tag"><b class="tag">&lt;插入语&gt;</b></b> one of the Four Books and Five Classics</p>
+<p>诗 经 The Book of Songs → the undisputed fountainhead ( 源 头 ) of Chinese poetic tradition || the authentic portrayal of early Chinese civilization and unfiltered human emotions</p>
+<p><b class="tag"><b class="tag">&lt;插入语&gt;</b></b> one of the Four Books and Five Classics</p>
+<h2 id="s20">信件邮件-次段-求职信 <span class="h2rest">自身优势 → 对方获益</span></h2>
+<p class="step">STEP ONE 中心句</p>
+<p>我的能力如下. || My competence for this position can be listed as follows.</p>
+<p class="step">STEP TWO 能力 → 红利 经验足 + 跨学科 + 性格好</p>
+<p>角度 1 跨学科</p>
+<p>First, my 学科能力 A perfectly complementing my {学科能力 B acumen}</p>
+<p>(敏锐程度), I am uniquely equipped to <b class="tag">[对方获益 do sth]</b>.</p>
+<p class="lbl">&lt;学科能力 A 拓展素材&gt;</p>
+<p>bilingual/multilingual proficiency (语言能力) | cross-cultural localization (跨文化本地化) | data and analytical skills (数据能力) | digital and content operations (运营能力) | AI literacy and tech adoption (前沿技术) | event and logistics management (统筹后勤)</p>
+<p class="lbl">&lt;学科能力 B 拓展素材&gt;</p>
+<p>公司通用: marketing (营销) | interpersonal (人际) | user-centric (用户导向) | product-centric (产品导向) | organizational (组织架构)</p>
+<p>科研助理: theoretical (理论) | empirical (实证) | investigative (调研) | experimental (实验) | diagnostic (纠错)</p>
+<p class="lbl">&lt;对方获益补充语料&gt;</p>
+<p>streamline (精简) | expedite (提速) | consolidate (巩固) | overhaul (革新) spearhead (牵头) | troubleshoot (排查) | eradicate (消除) | optimize (优化) maximize (最大化) + minimize (最小化) | forge (缔造)</p>
+<p>角度 2 经验足 internship | intern (实习生; 实习)</p>
+<p>Second, fortified by my previous internship / practical experience, I possess the foresight ( 远 见 ) to anticipate operational bottlenecks and circumvent potential pitfalls (隐患), ensuring an uninterrupted output generation for your ongoing research | commerce.</p>
+<p>角度 3 性格好</p>
+<p>Anchored by (以…为依托) <b class="tag">[性格描述]</b> under pressure, I excel at <b class="tag">[性格优势]</b> and <b class="tag">[对方获益]</b>.</p>
+<p class="lbl">&lt;性格描述补充语料&gt;</p>
+<p>an unflappable (沉着冷静的) demeanor = disposition (性格/气质) steadfast emotional resilience (稳定韧性) unwavering composure (毫不动摇的镇静)</p>
+<p class="lbl">&lt;性格优势补充语料&gt;</p>
+<p>maintaining a clear mind / head || navigating severe ambiguity || retaining sharp analytical focus | de-escalating team anxieties</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 上述素材大方向一定对, 但小细节需要结合题干修改</p>
+<p><b class="tag"><b class="tag">[作业]</b></b> 翻译 PDF 材料 + 应聘教师</p>
+<p class="salut">Dear Sir or Madam,</p>
+<p><b class="tag"><b class="tag">&lt;自我介绍-身份&gt;</b></b> As a postgraduate majoring in Second Language</p>
+<p>Acquisition / Teaching Methodology = Pedagogy, <b class="tag">&lt; 写信目的 &gt;</b> I am</p>
+<p>writing to express my keen interest in being an online Chinese tutor.</p>
+<p><b class="tag"><b class="tag">&lt;中心句&gt;</b></b> My competence for this position can be listed as follows. <b class="tag">&lt;分点 1&gt;</b> First, my bilingual proficiency perfectly complementing my pedagogical acumen, I am uniquely equipped to cultivate her linguistic interest and also systematically elevate her grades. <b class="tag">&lt;分点 2&gt;</b> fortified by my extensive practical experience in teaching younger learners, I possess the foresight to anticipate cognitive bottlenecks and circumvent potential learning pitfalls, ensuring an engaging and frictionless learning journey. <b class="tag">&lt;分点 3&gt;</b> Anchored by a highly patient and adaptive demeanor, I excel at maintaining a stimulating virtual classroom environment（virtual 是“虚拟的”，不用“真实的”） and maximizing your daughter’s efficiency. Also, my availability depends on your schedule.</p>
+<p><b class="tag"><b class="tag">&lt;重申目的&gt;</b></b> I genuinely hope you will take my application into account. <b class="tag">&lt;表达期待&gt;</b> Your swift response would be appreciated.</p>
+<p class="sign">Best wishes,</p>
+<p class="sign">Li Ming</p>
+<p><b class="tag"><b class="tag">[求职信-补丁]</b></b> 教师应聘</p>
+<p><b class="tag"><b class="tag">&lt;学科能力 B 补充素材&gt;</b></b> ~ acumen pedagogical (教学) | student-specific = student-oriented = differentiated-instruction (因材施教) | pastoral (德育) and behavioral (行为) | Ed-tech = EdTech (教育科技) | digital-learning (数字化学习)</p>
+<p class="lbl">&lt;瓶颈期补充素材&gt;</p>
+<p>motivational slumps (动力塌房) | cognitive overload (认知超载) | virtual</p>
+<p>distractions (走神/分心) | technical glitches (技术故障)</p>
+<p class="lbl">&lt;学生获益补充素材&gt;</p>
+<p>demystify complex academic concepts (化繁为简) ignite students’ intrinsic motivation (激发学习动力) maximize virtual students engagement (最大化参与度)</p>
+<h2 id="s21">应用文-通知告示-题型分类 <span class="h2rest">notice</span></h2>
+<p>类型 1 → 活动类通知 20 E1 → 对接邀请信次段思路</p>
+<p>类型 2 → 招募类通知 23 E1 → 对接求职信次段思路 {要求+原因}</p>
+<h2 id="s22">通知告示-撰写格式</h2>
+<p>标题 &lt;A Notice about 活动名称 || Call for 职位名称&gt;</p>
+<p>日期 <b class="tag">&lt;邀请信细节 1&gt;</b>, 2026</p>
+<p>首段: 背景介绍 + 通知目的</p>
+<p>次段: 承上启下 + 分点论述</p>
+<p>尾段: 联系方式 + 分点论述</p>
+<p>署名 <b class="tag">&lt;组织名/机构名&gt;</b></p>
+<p><b class="tag"><b class="tag">[首段-背景介绍]</b></b> 对接邀请信细节 1 的句式做修改</p>
+<p>With a view to <b class="tag">[目的]</b>, 活动名称 will commence next month in 地点.</p>
+<p><b class="tag"><b class="tag">[首段-通知目的]</b></b> 因果逻辑</p>
+<p>Against this backdrop, we officially launch a targeted recruitment for …</p>
+<p><b class="tag"><b class="tag">[次段-中心句]</b></b> 相关资质要求如下.</p>
+<p>Relevant qualifications for potential candidates = applicants are as follows.</p>
+<p><b class="tag"><b class="tag">[次段-分点论述]</b></b> 原因 → 要求 {跨学科 – 经验足 – 性格好}</p>
+<p>角度 1 特定挑战/目的 → 跨学科能力</p>
+<p>Driven by the urgent need to <b class="tag">[组织面临的挑战/目标]</b>, it is imperative that candidates possess <b class="tag">[学科能力 A]</b> perfectly complementing their <b class="tag">[学科能力 B]</b> acumen.</p>
+<p class="lbl">&lt;挑战/目标-补充语料&gt;</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 数据整理 compile a comprehensive dataset for …</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 文献梳理 conduct an exhaustive review of existing references</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 突破新领域 break new ground in the realm of …</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 挑战范式 challenge conventional paradigms in the field of …</p>
+<p><b class="tag"><b class="tag">[公益岗]</b></b> 满足多样化需求 cater to the diverse needs of …</p>
+<p><b class="tag"><b class="tag">[公益岗]</b></b> 提供接待服务 offer impeccable hospitality to …</p>
+<p><b class="tag"><b class="tag">[公益岗]</b></b> 驾驭后勤工作 navigate the logistical complexities of …</p>
+<p>角度 2 工作性质繁琐 → 丰富工作经验</p>
+<p>In light of the intricate nature of our <b class="tag">[具体工作内容]</b>, ideal applicants must be fortified by previous practical experience, possessing the foresight to {对接求职信角度 2}</p>
+<p class="lbl">&lt;具体工作内容-补充语料&gt;</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 变量监督 real-time monitoring of volatile (不稳定的)variables</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 设备维护 daily lab equipment maintenance and scheduling</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 文献核对 cross-referencing extensive citation networks</p>
+<p><b class="tag"><b class="tag">[公益岗]</b></b> 多方协调 multi-party coordination</p>
+<p><b class="tag"><b class="tag">[科研岗]</b></b> 弥合差异 bridging cultural gaps in real-time exchange</p>
+<p>角度 3 工作环境/氛围 → 性格稳定</p>
+<p>Considering <b class="tag">[工作情况]</b> in this role, we highly value those anchored by <b class="tag">[性格描述]</b> under pressure.</p>
+<p class="lbl">&lt;工作情况-补充语料&gt;</p>
+<p>低容错率 zero margin for error</p>
+<p>多线程工作 concurrent tasks | 上手门槛高 steep learning curves</p>
+<p><b class="tag"><b class="tag">[尾段-联系方式]</b></b></p>
+<p>Please submit your application form to our email address 111@gmail.com if you are interested.</p>
+<h2 id="s23">历年图画作文-词汇拓展</h2>
+<p><b class="tag"><b class="tag">&lt;2001&gt;</b></b> 主题: 爱心/奉献 devotion = dedication = commitment</p>
+<p class="lbl">&lt;2001&gt; 主题: 爱心/奉献 selfless sacrifice</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 反证: 自私 selfish = egotistic = self-centric = self-oriented ↓</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 二次考察: 可能会与疫情结合</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 油灯 lamp 发光 glow (柔光) = gleam (微光) = glimmer</p>
+<p class="lbl">&lt;2002&gt; = &lt;2010&gt; ≈ &lt;2021&gt; ≈ &lt;2023&gt;</p>
+<p>主题 1: 文化交流 cultural communication = exchange = integration</p>
+<p><b class="tag"><b class="tag">&lt;近义补充&gt;</b></b> interaction = interchange = dialogue = fusion</p>
+<p>主题: 1 多元文化 multiple cultures | 文化多样性 cultural diversity</p>
+<p>主题 2: 文化继承 cultural inheritance = inheritance = preservation</p>
+<p>主题 2: 文化继承 cultural continuity (提防-非遗的绑定)</p>
+<p>主题 3: 文化复兴 cultural renaissance = revival = revitalization</p>
+<p>主题 3: 文化复兴 cultural rejuvenation (juvenile – rejuvenate)</p>
+<p>预测主题 4: 文化弘扬 carry forward = promote = popularize = glorify</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 火锅 hot pot | 道教 Taoism | 仁爱 benevolence | 礼 rites</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 佛教 Buddhism | 结构 structure + deconstructionism</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 后现代主义 post-modernism | 启蒙 the Enlightenment</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 龙舟赛 Dragon Boat race (row ~) | 热闹 bustling = lively</p>
+<p><b class="tag"><b class="tag">&lt;2003&gt;</b></b> 主题: 溺爱 spoiling children = over / excessive protection</p>
+<p class="lbl">&lt;2003&gt; 主题: 直升机父母 helicopter parenting</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 温室 greenhouse | 温室花朵 hothouse flower</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 盛开 flourish = bloom = blossom | 凋谢 wither = fade</p>
+<p class="lbl">&lt;2004&gt; = &lt;2019&gt;</p>
+<p>主题 1: 坚持 insistence = persistence = adherence = perseverance</p>
+<p><b class="tag"><b class="tag">&lt;拓展&gt;</b></b> insist on doing sth = persist in doing = adhere to doing</p>
+<p><b class="tag"><b class="tag">&lt;拓展&gt;</b></b> persevere in / with doing sth (坚持做某事)</p>
+<p>主题 2: 毅力 willpower = stamina = resilience = fortitude = tenacity</p>
+<p><b class="tag"><b class="tag">&lt;2005&gt;</b></b> = <b class="tag">&lt;2014&gt;</b> = <b class="tag">&lt;2025 E2&gt;</b> = <b class="tag">&lt;2026 E1&gt;</b></p>
+<p>主题: 养老 attend to = look after = take care of = support the old</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 球场 football field + court | 球门 goal (hit ~ | defend ~)</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 守门员 goalkeeper = goalie | 射手 shooters</p>
+<p class="lbl">&lt;2006&gt; = &lt;2016&gt;</p>
+<p>主题 1: 追星 follow = chase after = worship = pursue = idolize stars</p>
+<p><b class="tag"><b class="tag">[拓展]</b></b> star = personalities + celebrities + online influencers + idols</p>
+<p>主题 2: 树立榜样 erect = set = establish examples / models</p>
+<p class="lbl">&lt;2007&gt;</p>
+<p>主题 1: 自信 confidence = assurance = conviction = self-possession</p>
+<p>主题 2: 自卑 inferiority = self-abasement = self-humiliation = timidity</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 该话题考虑反证法展开</p>
+<p class="lbl">&lt;2008&gt;</p>
+<p>主题: 合作 cooperation = collaboration = teamwork = win-win</p>
+<p>主题: 合作 reciprocity (互惠互利)</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 瘸 lame | 截肢者 amputee | 拐杖 cane = crutch</p>
+<p class="lbl">&lt;2009&gt; = &lt;2015 E1&gt; = &lt;2010 E2&gt;</p>
+<p>主题: 网络 the Internet = network = web = cyberspace</p>
+<p>主题: 手机 mobile phones = handset = cellphones = smartphone</p>
+<p><b class="tag"><b class="tag">[拓展]</b></b> scroll = finger one’s phones</p>
+<p class="lbl">&lt;2011&gt;</p>
+<p>主题: 环境保护 environmental protection = conservation = preservation</p>
+<p>主题: 环境污染 environmental pollution = contamination = degradation</p>
+<p>主题: 破坏公物 vandalism | vandalize public property</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 垃圾 rubbish = garbage = litter = waste = dust = trash</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 垃圾 drop litter carelessly = freely (随手乱扔垃圾)</p>
+<p class="lbl">&lt;2012&gt;</p>
+<p>主题 1: 乐观 being optimistic = optimism = being an optimist</p>
+<p>主题 2: 悲观 pessimistic = pessimism = pessimist</p>
+<p>主题 3: 盲目乐观 blind = excessive optimism</p>
+<p class="lbl">&lt;2013&gt;</p>
+<p>主题: 选择的重要 the importance of choices = options</p>
+<p><b class="tag"><b class="tag">[描述词]</b></b> 求职 being employed | 创业 being self-employed</p>
+<p class="lbl">&lt;2017&gt; = &lt;2020&gt;</p>
+<p>主题: 行动重要性 the importance of action | get down to work</p>
+<p>主题: 空谈 empty talks = mere theory = daydreaming</p>
+<p>主题 2: 拖延 procrastination = stalling = putting things off</p>
+<p><b class="tag"><b class="tag">[拓展]</b></b> work at the eleventh hour 临时抱佛脚</p>
+<p class="lbl">&lt;2018&gt; = &lt;2022&gt;</p>
+<p>主题: 学习深度 in-depth study = thorough exploration</p>
+<p>主题: 浅层学习 superficial = shallow = cursory study</p>
+<p>主题 2: 水课 Mickey Mouse courses = an easy A = a bird course</p>
+<p class="lbl">&lt;2024&gt; = &lt;2021 E2&gt; = &lt;2023 E2&gt;</p>
+<p>主题: 身体素质 physical fitness</p>
+<h2 id="s24">题型分类 <span class="h2rest">图画 + 图表 + 材料</span></h2>
+<h2 id="s25">图画作文-解题思路 <span class="h2rest">描述图画 + 利弊论证 + 措施论证</span></h2>
+<p>发现问题 → 分析问题 → 解决问题 = 论述闭环</p>
+<p><b class="tag"><b class="tag">[首段]</b></b> 话题引出 &amp; 具体描述</p>
+<p>A/An 形容词 visual metaphor = conceit (奇喻) for 话题词 &lt;名词/名短</p>
+<p>语&gt; is artfully framed = is masterfully unrolled = is laid bare, where = wherein = in which + 图画描述.</p>
+<p class="lbl">&lt;形容词-补充语料-判断主题的褒贬&gt;</p>
+<p>正面: incisive / telling / graphic / apt (adj): 恰如其分的</p>
+<p>正面: poignant (一针见血) / pertinent (针砭时弊) / eloquent (传神的)</p>
+<p>负面: ironical / satirical / sobering / biting (尖刻) / striking</p>
+<p>负面: preposterous = grotesque / farcical (滑稽) / fatuous (愚昧) / hilarious</p>
+<p>中性: introspective (内省的) / contemplative (深思的) / revelatory (顿悟)</p>
+<p>中性: heuristic (启发的) / polysemous (多角度解读) / enigmatic</p>
+<p><b class="tag"><b class="tag">[图画描述-具体方法论]</b></b> 分梯队进行信息呈现 (主 → 次)</p>
+<p>第一梯队: 核心人物 (动作最多) + 核心动作 (主题相关)</p>
+<p>第二梯队: 次要人物 (有何动作) or 核心人物特征 <b class="tag">&lt;表情/衣着&gt;</b></p>
+<p><b class="tag"><b class="tag">&lt;构句思路 1&gt;</b></b> 核心人物 can be observed doing, with 次要人物 doing</p>
+<p class="lbl">&lt;构句思路 2&gt; 使用倒装结构 分词短语/表语前置, 触发完全倒装</p>
+<p>a student is waiting for the bus → waiting for the bus is a student a house is hidden in the forest → hidden in the forest is house</p>
+<p>某人做某事 is exemplifying this topic exemplifying = epitomizing = mirroring = testifying to this topic is 核心</p>
+<p>人物 doing sth, with 其他人物 doing sth.</p>
+<p class="lbl">&lt;润色思维 1&gt; 若图画中存在对话, 建议改直接引语为间接引语</p>
+<p>saying,“…” → saying = noting = adding that … | 第一/二→ 第三人称</p>
+<p class="lbl">&lt;润色思路 2&gt; 根据不同语境将 saying 替换为具体的动作</p>
+<p>An eloquent visual metaphor for <b class="tag">&lt;dedication&gt;</b> is artfully framed, wherein a lamp can be observed gleaming in the darkness, with a smile on its face</p>
+<p>|| exemplifying this topic is a lamp gleaming in the darkness, with a smile on its face.</p>
+<p class="lbl">&lt;注意 1&gt; 图画中的文字除对话外, 一律不翻译</p>
+<p>…, wherein an American girl can be observed donning (穿戴) a traditional</p>
+<p>Chinese attire (服装/装束), with a cheerful smile beaming on her face.</p>
+<p class="lbl">&lt;注意 2&gt; 图画描述一定要凸显出主题词</p>
+<p>表示“立场” championing = holding = arguing = suggesting = implying</p>
+<p>表示“反驳” refuting = countering = rebutting = dismissing</p>
+<p>表示“赞同” echoing = favoring = affirming = supporting</p>
+<p>表示“不满” complaining = murmuring | grumbling/ lamenting / moaning</p>
+<p>表示“安慰” reassuring = consoling = soothing = allaying</p>
+<p>表示“命令” ordering = commanding = compelling = instructing sb to do</p>
+<p>表示“批评” rebuking = reproaching = blaming = criticizing</p>
+<p>表示“讽刺” satirizing = scoffing = lampooning = sneering = quipping</p>
+<p>表示“讽刺” ironically saying that …</p>
+<p><b class="tag"><b class="tag">&lt;通用结构&gt;</b></b> 副词 saying = noting = adding that …</p>
+<p>激动: feverishly = excitedly = elatedly = passionately = enthusiastically</p>
+<p>激动: exuberantly</p>
+<p>开心: delightedly = joyfully = beamingly = gleefully = cheerfully</p>
+<p>激动: lightheartedly (轻松地)</p>
+<p>伤心: sorrowfully = disconsolately = dejectedly = despondently</p>
+<p class="lbl">&lt;注意&gt; 对话中的语气助词考虑转为副词对 saying 做修饰</p>
+<p><b class="tag"><b class="tag">[次段-利弊论证]</b></b> 讨论话题词所具备的优缺点</p>
+<p class="step">STEP ONE 表明立场 两个极端 or 中立观点</p>
+<p>情况 1 极端立场</p>
+<p>主题词 is, from the author’s view, a game-changing windfall ↔️ an insidious cancer. Most importantly, … In addition, … Finally, …</p>
+<p>情况 2 中立观点</p>
+<p>主题词 does, from the author’s view, straddle two opposing sides = exhibit a dialectical (辩证的) interplay of pros and cons.</p>
+<p>On the upside, 优点论述; On the downside, 缺点论述</p>
+<p>On the credit (收入) side, 优点论述; On the debit (负债) side, 缺点论述.</p>
+<p class="step">STEP TWO 具体利弊 = 论点 (固定句式) ＜ 论据 (自身观点)</p>
+<p class="lbl">&lt;论点-固定句式&gt;</p>
+<p>主题词 could translate into a tangible elevation in 对象 A</p>
+<p>主题词 could invariably rebound to the benefit of 对象 B.</p>
+<p>主题词 might deliver a blow to 对象 A.</p>
+<p>主题词 might wreak havoc on 对象 B.</p>
+<p class="lbl">&lt;论点与论据的衔接方法-因果衔接&gt;</p>
+<p>论点 1 because 论据 1 because = on the grounds that = inasmuch as = given that = seeing that …</p>
+<p>论点 1, …论据 1</p>
+<p>…, proceeding from the premise (前提) that …</p>
+<p>…, predicated on (以…为依据) the observation that …</p>
+<p>论据 2. So, 论点 2.</p>
+<p>So, = Thus, - Thereby, - Hence, - Therefore, - As a result, …</p>
+<p>So, = At its core, - To boil it down, - In a real sense, - Substantively, …</p>
+<p>So, = Namely, - Put differently, - Phrased differently, …</p>
+<p><b class="tag"><b class="tag">&lt;补充&gt;</b></b> 表示“某种程度而言”的短语 (插入论点) to some extent / degree, … || in one sense, … || from one perspective, …</p>
+<p>up to a point, … || in some measure, …</p>
+<p class="lbl">&lt;论据的撰写方向&gt; 用自己的观点解释主题词为何具备如此利弊</p>
+<p class="lbl">&lt;论据的扩写维度&gt; WHO – HOW – WHAT – WHEN</p>
+<p>WHO 人称具体化 不同场景会赋予“人”何种社会身份</p>
+<p class="lbl">&lt;路径 1&gt; 分人群 &lt;可考虑: 大范围 → 小范围&gt;</p>
+<p>大范围身份, especially = particularly = notably 小范围身份, …</p>
+<p>大范围身份, 小范围身份 in particular, …</p>
+<p>大范围身份, 小范围身份 as a case in point (典例), …</p>
+<p>学校场景 学生 &amp; 老师</p>
+<p>students: pupils (小学生) → truant (逃课者) → prodigies (天赋出众) students: college students &lt;freshmen – sophomore – juniors - seniors&gt;</p>
+<p>students: undergraduates → graduates → postgraduates teachers <b class="tag">&lt;授业解惑&gt;</b>: tutor (针对性教学) – professors – scholars teachers = science communicators {demystifiers + disseminators}</p>
+<p><b class="tag"><b class="tag">&lt;注意身份&gt;</b></b> 文盲 the illiterate {drop-outs + non-literate}</p>
+<p>家庭场景 孩子 &amp; 家长 sharenting = share parenting (晒娃) children: newborns → infants → toddlers – preschoolers → Gen</p>
+<p>Alpha <b class="tag">&lt;digital natives 13 - 25&gt;</b> → adolescents <b class="tag">&lt;社交欲望最强&gt;</b></p>
+<p>families: parents → helicopter parents → snowplow parents families: tiger parents <b class="tag">&lt;虎爸虎妈&gt;</b> || free-range parents <b class="tag">&lt;放养式父母&gt;</b></p>
+<p>families: grandparents {the senior/aged = twilight generations}</p>
+<p>families: the digitally illiterate <b class="tag">&lt;数字文盲&gt;</b></p>
+<p>vulnerable groups {people with disabilities = disability community}</p>
+<p>vulnerable groups {the jobless = the unemployed | displaced workers}</p>
+<p>工作场景 上班族 jobholders = corporate professionals</p>
+<p>freelancers | C-Suite | farmers = rural residents | migrant workers</p>
+<p>→ 空巢老人 empty nesters = solitary elderly <b class="tag">&lt;25 E2 + 26 E1&gt;</b></p>
+<p>→ 留守儿童 left-behind children <b class="tag">&lt;注意: 与 Alpha 的关联&gt;</b></p>
+<p>网络场景 网友 netizens</p>
+<p>博主 content creators = vloggers + bloggers + ploggers</p>
+<p>网红 mega influencers + KOL (Key Opinion Leaders) + viral stars</p>
+<p>网暴者 cyberbullies = trolls + flamers + social bots (水军)</p>
+<p>网暴者 catfish (交友骗子)</p>
+<p>网诈者 defrauder + scammer + phishers (钓鱼) + romance scammers</p>
+<p>开盒者 hackers + doxxers <b class="tag">&lt;27 重点关注&gt;</b></p>
+<p class="lbl">&lt;路径 2&gt; 加定语</p>
+<p>单词结构 判断人群类型</p>
+<p>孩子: rebellious (叛逆的) / spoiled = pampered (被溺爱的)</p>
+<p>学生: diligent = assiduous = studious (好学) | inquisitive (好奇/探索)</p>
+<p>学生: resourceful = versatile (足智多谋) | aspirational (有志向)</p>
+<p>教师: erudite (知识渊博) – well-read (学问深厚) – encyclopedic (知识多)</p>
+<p>教师: omnivorous (涉猎广泛) | facilitative (引导性) | dedicated (专注/敬业的)</p>
+<p>老人: frail (虚弱) – immobilized (行动不便) – marginalized (边缘化)</p>
+<p>老人: <b class="tag">&lt;后置&gt;</b> 老人人群 cut off from … (与…脱节)</p>
+<p>网暴: anonymous (匿名) – vitriolic (恶毒) – malignant / malevolent (恶意)</p>
+<p>构词法 名词-savvy (adj) / 名词-minded (adj) <b class="tag">&lt;有头脑的/看重的&gt;</b></p>
+<p>构词法 名词-oriented (adj) = 名词-centric (adj) = 名词-specific (adj)</p>
+<p>构词法 名词-obsessed (adj) = 名词-addicted (adj) | 名词-deprived (adj)</p>
+<p>构词法 名词-blind (adj) <b class="tag">&lt;对…视而不见的&gt;</b></p>
+<p>HOW 动作具体化 HOW 的撰写与 WHO 的定位强绑定</p>
+<p class="lbl">&lt;注意&gt; 描述侧面动作 – 如果要写年龄/时代龄/时代</p>
+<p>WHAT 意义具体化 WHO – HOW. → WHAT.</p>
+<p class="lbl">&lt;中性结构&gt; 基于此, …</p>
+<p>WHO – HOW. By the same token, = In the same vein, WHAT.</p>
+<p>WHO – HOW. With this in mind, = This being the case, WHAT.</p>
+<p>WHO – HOW. As it unfolds, = As time elapses, WHAT.</p>
+<p class="lbl">&lt;负面结构&gt;</p>
+<p>WHO – HOW. Amid unchecked festering, WHAT.</p>
+<p>WHO – HOW. Under prolonged neglect, WHAT.</p>
+<p class="lbl">&lt;正面结构&gt;</p>
+<p>WHO – HOW. Thanks to these tailwinds, WHAT.</p>
+<p>WHO – HOW. With this favorable climate in place, WHAT.</p>
+<p>WHO – HOW. On the back of this momentum, WHAT.</p>
+<p>WHEN 背景具体化 选写维度 + 参考句式 前置: 论据 or 论点前</p>
+<p>with the rollout and infiltration of 名词, … (随着…的出现与普及)</p>
+<p><b class="tag"><b class="tag">&lt;正面形容词聚合&gt;</b></b> systemic – smooth – seamless – multidimensional</p>
+<p><b class="tag"><b class="tag">&lt;负面形容词聚合&gt;</b></b> aggressive – creeping – relentless – reckless in such an increasingly 形容词 era = epoch, … (如今日益…的时代) in this ultra-形容词 = hyper-形容词 landscape, …</p>
+<p class="lbl">&lt;形容词-聚合&gt; 以-ized 结尾且译为“…化”形容词 &lt;Dou 老师&gt;</p>
+<p>globalized – heterogenized | industrialized – urbanized – decarbonized – ecologized | digitalized – informationalized – datafied – algorithmized – intellectualized – homogenized | commercialized – streamlined – platformized | McDonaldized – institutionalized = standardized</p>
+<p>in today’s 名词-fixated milieu (社会氛围) / paradigm (范式), …</p>
+<p class="lbl">&lt;论据的润色思路&gt;</p>
+<p>改中文的有灵主语为英语的无灵主语 人做某事 → 物让某人做</p>
+<p>某物 enable = allow = permit = entitle sb to do sth; render sb able to do sth（render 不接 to do）</p>
+<p>某物 grant 某人 ample / scant leeway (余地) in doing sth</p>
+<p>某物 endow 某人 with unprecedented / circumscribed latitude in doing</p>
+<p class="lbl">&lt;注意 1&gt; 上述思路仅用于 WHO – HOW 的润色且仅用一次</p>
+<p><b class="tag"><b class="tag">&lt;注意 2&gt;</b></b> 与完成时相互结合 &lt;have enabled / granted / endowed&gt;</p>
+<p>将中文主谓宾的思维定式转为英语主系表为基础的身份名词结构</p>
+<p>动词 → 表语 {形容词 or 名词}</p>
+<p>A is a 身份名词/抽象名词 for sth / for sb to do sth {-er = -or = -ant = ent}</p>
+<p>促进 promoter = facilitator | springboard = impetus = propellant</p>
+<p>协助 assistant | scaffold = lever = tailwind | 正向激励 spur</p>
+<p>缓解 reliever = mitigator = alleviator | buffer = cushion = balm</p>
+<p>保护 guardian | shield = bulwark (防线) = moat (护城河)</p>
+<p>保障/保证 guarantee = safeguard = fail-safe</p>
+<p><b class="tag"><b class="tag">&lt;中性&gt;</b></b> 导致 contributor = trigger = incubator = catalyst for sth</p>
+<p>阻碍 preventer = blocker = inhibitor = limiter = deterrent</p>
+<p>阻碍 liability (拖油瓶) = millstone (沉重包袱) = straitjacket</p>
+<p>破坏 saboteur = disruptor = bane</p>
+<p>加剧 = 恶化 aggravator = intensifier = exacerbator = compounder</p>
+<p>消耗 drainer = siphon (虹吸) = 名词-sink <b class="tag">&lt;time/effort/attention&gt;</b></p>
+<p>A is a {身份名词/抽象名词} for sth / for sb to do sth</p>
+<p><b class="tag"><b class="tag">&lt;be 动词的替换&gt;</b></b> act as = serve as = function as = stand as = emerge as <b class="tag">&lt;be 动词的替换&gt;</b> operate as (充当 = 起到…的作用)</p>
+<p><b class="tag"><b class="tag">[中性]</b></b> de facto | subtly = imperceptibly | intangibly | immeasurably = incalculably | largely = primarily = principally</p>
+<p><b class="tag"><b class="tag">[负向]</b></b> stealthily (暗中) | ominously (不祥) | starkly (赤裸) | eerily (悚然)</p>
+<p><b class="tag"><b class="tag">[负向]</b></b> sinisterly (阴险) | catastrophically (灾难) | ruthlessly (冷酷)</p>
+<p><b class="tag"><b class="tag">[负向]</b></b> tyrannically (专横) | morbidly (病态) | relentlessly</p>
+<p><b class="tag"><b class="tag">[正向]</b></b> seamlessly (完美) | impregnably (坚定) | enduringly = persistently</p>
+<p><b class="tag"><b class="tag">[正向]</b></b> splendidly = invaluably <b class="tag">&lt;极好&gt;</b></p>
+<p><b class="tag"><b class="tag">[特殊副词]</b></b> hypocritically (伪善地) || ostensibly (表面上)</p>
+<p class="lbl">&lt;注意&gt; 上述结构在使用时, 需遵从“正向身份 → 负面递进”转折</p>
+<p><b class="tag"><b class="tag">&lt;写作范式&gt;</b></b> A ~ / ~ / superficially / seemingly serve as a 身份名词 1 but a 身份名词 2 for sth / for sb to do sth.</p>
+<p>WHAT 的内部链接 WHAT 1 – WHAT 2 – WHAT 3</p>
+<p>WHAT 1, which WHAT 2.</p>
+<p>WHAT 1, a phenomenon/ practice/ mechanism that 定语从句 (WHAT2)</p>
+<p>WHAT 1 {主体 – doing / being done}, WHAT 2 {完整句子-自行展开}</p>
+<p><b class="tag"><b class="tag">[尾段-措施论证]</b></b> 针对次段中提出的利弊给出建议 <b class="tag">&lt;简单论述即可&gt;</b></p>
+<p>综上所述, …不可仅凭一己之力, 各界需齐心协力, 尤其是…</p>
+<p>By and large, <b class="tag">&lt;主语&gt;</b> is by no means a solitary endeavor; it hinges upon the concerted efforts of all social sectors, wherein <b class="tag">&lt;建议主体&gt;</b> underpin the entire framework.</p>
+<p class="lbl">&lt;主语-补充素材&gt;</p>
+<p>负面话题 → tackling this thorny issue = social vice at its core, 中性话题 → separating the wheat <b class="tag">&lt;麦粒&gt;</b> from the chaff <b class="tag">&lt;糠/谷壳&gt;</b></p>
+<p>正面话题 品质类 → upholding this commendable (值得赞美的) virtue</p>
+<p>正面话题 现象类 → championing this sound way of living</p>
+<p class="lbl">&lt;建议主体-补充素材&gt;</p>
+<p>政府 administrative authorities | 媒体 media outlets</p>
+<p>学校 educational institutions | 家庭 households</p>
+<p>平台运营商 platform operators | 基层组织 grassroots organizations</p>
+<p>公共组织 public institutions | 学术界 academic practitioners</p>
+<h2 id="s26">图表作文-解题思路 <span class="h2rest">图表描述 + 利弊论证 + 措施论证</span></h2>
+<p><b class="tag"><b class="tag">&lt; 单个图表 &gt;</b></b> 主题词 is quantitatively = empirically = numerically</p>
+<p>captured = outlined = evidenced = delineated by the data: 数据描述.</p>
+<p><b class="tag"><b class="tag">&lt;双图表&gt;</b></b> Against the backdrop – canvas – current of 表格 1 背景-名词</p>
+<p>结构 || that 表格 1 背景-句子, 主题词 is quantitatively = empirically = numerically captured = outlined = evidenced = delineated by the data: 数据描述.</p>
+<p><b class="tag"><b class="tag">&lt;画表结合&gt;</b></b> Against the backdrop – canvas – current of 表格 1 背景-名</p>
+<p>词结构 || that 表格 1 背景-句子, a visual metaphor for 主题词 is artfully framed —— 图画描述.</p>
+<p>数据描述 <b class="tag">&lt;动态图&gt;</b> = 主体状态, with 次体状态</p>
+<p><b class="tag"><b class="tag">[主体状态]</b></b> 对象 1, 插入语 {起始数据}, 趋势 + 终止数据</p>
+<p>要素 1 变化对象 观察表头信息</p>
+<p>…的数量 the number of 可数/集合名词 || the amount of 不可数名词</p>
+<p>…的数量 the quantity of 任意名词 <b class="tag">&lt;通用结构&gt;</b></p>
+<p>…的占比 the percentage – proportion – ratio – rate – share of sth</p>
+<p>某地人口 the population in someplace <b class="tag">&lt;一定不与 number 连用&gt;</b></p>
+<p>插入语撰写 引出数据基准线</p>
+<p class="lbl">&lt;通用结构&gt;</p>
+<p>…, registering 初始数据 at the outset (初始年份), …</p>
+<p>…, occupying a position of 初始数据 in 初始年份, …</p>
+<p class="lbl">&lt;单调递增&gt;</p>
+<p>…, springing from a 初始年份 base of 初始数据, …</p>
+<p>…, evolving from a count of 初始数据 in 初始年份, …</p>
+<p class="lbl">&lt;单调递减&gt;</p>
+<p>…, receding from a baseline of 初始数据 in 初始年份, …</p>
+<p>…, eroding from a 初始年份 base of 初始数据, …</p>
+<p>要素 2 变化趋势 上升 – 下降 – 不变 – 波动 过去式</p>
+<p class="lbl">&lt;上升-语料储备&gt;</p>
+<p>ascended (ascent) – swelled – mounted – rose (rise) – grew (growth) 普通</p>
+<p>climbed = inched up = crept up = trended up 缓慢上升</p>
+<p>soared = rocketed = leaped = ballooned = surged = exploded 激增暴涨</p>
+<p class="lbl">&lt;下降-语料储备&gt;</p>
+<p>descended (descent) = declined = dropped = dipped = fell (fall) 普通</p>
+<p>slid (slide) = shrunk (shrink) = diminished = dwindled 缓慢下降</p>
+<p>plummeted = plunged = tumbled = nosedived = collapsed 暴跌骤降</p>
+<p class="lbl">&lt;维持不变-语料储备&gt;</p>
+<p>remained = stayed = kept + stable = constant = firm = unchanged at 数值</p>
+<p>levelled off at 数值 = flattened out at 数值</p>
+<p class="lbl">&lt;来回波动-语料储备&gt; 单独出现 – 通常为负面话题</p>
+<p>fluctuate = oscillate (钟摆式摆动) within the range of A – B</p>
+<p>went see-saw (跷跷板) from A to B || hover around AB 均值</p>
+<p>要素 3 变化程度 快速 – 缓慢</p>
+<p class="lbl">&lt;快速-剧烈-副词储备&gt;</p>
+<p>swiftly = sharply = steeply = violently = drastically = dramatically precipitously = substantially = exponentially = meteorically</p>
+<p class="lbl">&lt;缓慢-轻微-副词储备&gt;</p>
+<p>gradually = marginally = moderately = slightly = progressively</p>
+<p>fractionally = gently = softly</p>
+<p>表示极值的结构</p>
+<p>最高点 peak = zenith = ceiling = apex = maximum</p>
+<p>最低点 bottom = nadir = trough = minimum</p>
+<p><b class="tag"><b class="tag">[注意]</b></b> 多组数据同期对比, 第二/第三组数据宏观描述即可</p>
+<p><b class="tag"><b class="tag">&lt;路径 1&gt;</b></b> 对象 1, 插入语 {起始数据}, 趋势 – 极值 – 终止数据, with 对象 2 undergoing = exhibiting = tracing a/an 类似/相反 trajectory</p>
+<p>= course = curve = dynamics = profile.</p>
+<p>类似 comparable = analogous = congruent = concordant</p>
+<p>相反 opposite = inverse = contrasting = divergent = antithetical (对立)</p>
+<p class="lbl">&lt;注意&gt; 同期对比下, 大范围对象本质相同, 此时考虑使用指示代词</p>
+<p>counterpart = equivalent = parallel 指代对象 1</p>
+<p><b class="tag"><b class="tag">&lt;路径 2&gt;</b></b> 对象 1, 插入语 {起始数据}, 趋势 – 极值 – 终止数据, with the timeframe under review = the observed span = the concurrent period witnessing – recording – registering a/an 类似/相反 trajectory = course = curve = dynamics = profile in 对象 2.</p>
+<p>数据描述 <b class="tag">&lt;静态图&gt;</b> 具体问题具体分析</p>
+<p class="lbl">&lt;路径 1&gt; 极值视角 – 主题词 = A 代表的单项</p>
+<p>accounting for the lion’s share at A%, A stands as the predominant category, far outstripping = outpacing B (B%), C (C%) and D (D%)</p>
+<p class="lbl">&lt;路径 2&gt; 分区视角 – 主题词 = 表头中的宏观话题</p>
+<p>shaped by a primary-subordinate dichotomy, A and B command a core X%</p>
+<p>(A + B), while the periphery is shared among C (C%) and D (D%).</p>
+<p class="lbl">&lt;注意-次段-补充&gt; 视角对调 题干中 WHO/HOW 已然确定</p>
+<p><b class="tag"><b class="tag">&lt;良性循环&gt;</b></b> WHEN1, WHO1 - HOW1 - WHAT1. Better still, WHO 2 - HOW2 - WHAT 2. Encouragingly, = More compellingly, = In a promising turn of events, a self-reinforcing paradigm || a positive feedback loop || a synergistic (协同的) ecosystem is steadily taking root / crystallizing / coalescing.</p>
+<p><b class="tag"><b class="tag">&lt;恶性循环&gt;</b></b> WHEN1, WHO1 – HOW1 – WHAT. Worse still, WHO2 - HOW2 - WHAT2. Ominously = More troublingly = Compounding this crisis, a self-perpetuating trap || a self-feeding quagmire (沼泽/泥潭) || an inescapable vortex (漩涡) is steadily taking root / locking into place / threatening to entrench itself.</p>
+<p>得分点 1: 总结原文要义 A – B</p>
+<p>得分点 2: 明确表明自己立场 (赞同/反对/中立)</p>
+<p><b class="tag"><b class="tag">[材料作文-思路]</b></b> 总结材料 – 利弊论证 (同前) – 措施论证 (同前)</p>
+<p><b class="tag"><b class="tag">[首段-框架构筑]</b></b> 引出话题 + 营造对立感 + 考生自身立场</p>
+<p>Opinions on 主题词 are locked in a permanent tug of war <b class="tag">&lt;拉锯战&gt;</b>.</p>
+<p>Anchoring one end, the excerpt makes a case for <b class="tag">&lt;主张/支持&gt;</b> its benefits</p>
+<p>/ drawbacks since 材料原因. → 笔者表态.</p>
+<p>The conversation on 主题词 remains an endless seesaw. Weighing one end down, the excerpt makes a case for its benefits / drawbacks since 材料原因. → 笔者表态.</p>
+<p class="lbl">&lt;笔者表态-参考句式&gt; 副词 – 形容词 – 衔接词</p>
+<p>赞同 This view, indeed, stands on solid ground = holds water flawlessly = is an ironclad <b class="tag">&lt;包铁的/坚不可摧的&gt;</b> argument.</p>
+<p>反对 This view, however, is built on quicksand (流沙) = is a fragile house of cards = exposes chinks (裂缝) in its armor.</p>
+<p>中立 This view, from my perspective, is a rose with thorns = is a mixed blessing.</p>
+<p class="lbl">&lt;材料撰写-逻辑&gt; 思路可视化</p>
+<p>·针对某个话题发表赞美/批判的立场 → 材料论点</p>
+<p>·论述之所以赞美/批判该话题的原因 → 材料论据 (找原句-做改写)</p>
+<p>话题</p>
+<p>立场</p>
+<p>原因原句</p>
+<p>尝试改写</p>
+<p class="lbl">&lt;改写-具体思维路径&gt;</p>
+<p>·对某个单词进行同词性-类词义的单词替换 <b class="tag">&lt;rob – deprive&gt;</b></p>
+<p>·将句中的某个意群整体替换为一个单词 <b class="tag">&lt;less biased – impartial&gt;</b></p>
+<p>· 对单词进行词性转换 &lt;excel – excellent | academic – academically&gt;</p>
+<p>·保证不超纲, 将单词转为意群 &lt;biodegradable – biologically degraded&gt;</p>
+<p>·对某个术语进行上下义词的平替 (上义词范围不可过大) canine 犬科 ← 狗 → 萨摩耶 + 秋田 + 泰迪</p>
+<p>不可再生资源 ← 化石燃料 → 煤炭/天然气/石油</p>
+<p class="lbl">&lt;注意 1&gt; 部分材料可能会出现两个不同理由</p>
+<p class="lbl">&lt;注意 2&gt; 部分材料可能会采取反证法 (前后阅读存在割裂感)</p>
+<p>材料作文样题</p>
+<p>2023~2026 年考研英语一 样卷 Sample One</p>
+<p><b class="tag"><b class="tag">[1]</b></b> Many of us, whatever our field of work, fear that showing uncertainty can damage our image and we may compensate by expressing overconfidence in an attempt to win trust. <b class="tag">[2]</b> But in many situations people are willing to trust those who can admit they don't have a definitive answer.</p>
+<p><b class="tag"><b class="tag">[3]</b></b> Recent studies found that communicating uncertainty and even admitting our mistakes is not harmful and can even be beneficial to trustworthiness. <b class="tag">[4]</b> So, failure in“expertise” can be compensated by higher integrity and benevolence. <b class="tag">[5]</b> When communicating uncertainty in a transparent way, we are perceived as less biased and willing to tell the truth.</p>
+<p>话题 表示自身的不确定</p>
+<p>立场 √</p>
+<p>原因原句 we are perceived as less biased and willing to tell the truth.</p>
+<p>尝试改写 we are regarded as less prejudiced = impartial = fair = objective and honest = frank = sincere = candid.</p>
+<p>Opinions on showing uncertainty are locked in a permanent tug of war.</p>
+<p>Anchoring one end, the excerpt makes a case for its benefits since we are regarded as objective and honest. This view, however, is built on quicksand.</p>
+<p>2023~2026 年考研英语二 样卷 Sample One</p>
+<p><b class="tag"><b class="tag">[1]</b></b> Studies in the U.S. and the U.K. consistently show that children have lost the right to wander (玩). <b class="tag">[2]</b> This is why many of our youth turn to (向…求助) technology. <b class="tag">[3]</b> They aren’t addicted to the computer; they are addicted to interaction, and being around their friends. <b class="tag">[4]</b> Children, and especially teenagers, don’t want to only socialize with parents and siblings;</p>
+<p>they want to play with their peers. <b class="tag">[5]</b> That’s how they make sense of the world. <b class="tag">[6]</b> And we’ve robbed (剥夺) them of {that opportunity}. <b class="tag">[7]</b> We’re raising our children in captivity and they turn to technology to socialize, learn, and relax. <b class="tag">[8]</b> Why are we blaming the screens?</p>
+<p>话题 在线社交 online socialization = exchange = communication</p>
+<p>立场 √</p>
+<p>原因原句 we’ve robbed them of that opportunity to play with their peers</p>
+<p>尝试改写 parents have stripped = deprived children of the chance to interact with their mates / friends</p>
+<p>Opinions on online socialization are locked in a permanent tug of war.</p>
+<p>Anchoring one end, the excerpt makes a case for its benefits since parents have stripped children of the chance to interact with their mates. This view, however, is built on quicksand.</p>
+<p>材料作文-模拟练习 1</p>
+<p>Homeschooling in China is in an emerging stage, with about 18,000 children across the country receiving education at home. Most of homeschooling kids have previously attended conventional schools.</p>
+<p>Research has shown that <b class="tag">&lt;理由 1&gt;</b> homeschooled children often excel in many areas of academic endeavor. According to a study done on the homeschool movement, homeschoolers often achieve academic success and admission into elite universities. As parents, <b class="tag">&lt;理由 2&gt;</b> they know which kind of teaching method fit their kids most and it is much easier to adjust during the process.“There were two reasons for me to educate him myself:</p>
+<p>school education does not fit my son very much, but more importantly, I think I'm more suitable to teach my son. I'm sure that after two years' homeschooling, my son will be excellent at a lot of topics,” Zhang said.</p>
+<p>话题 homeschooling <b class="tag">&lt;在家上学但不在学校就读&gt;</b></p>
+<p>立场 √</p>
+<p>原因原句 1 homeschooled children often excel in many areas of academic endeavor.</p>
+<p>尝试改写 1 homeschooled children are academically excellent</p>
+<p>原因原句 2 they know which kind of teaching method fit their kids most and it is much easier to adjust during the process. = 因材施教</p>
+<p>尝试改写 2 student-oriented = talent-driven = children-centric</p>
+<p>尝试改写 2 student-specific (adj): 因材施教的 | region-specific</p>
+<p>Opinions on student-oriented homeschooling are locked in a permanent tug of war. Anchoring one end, the excerpt makes a case for its benefits since homeschooled children are academically excellent. This view, however, is built on quicksand.</p>
+<p>材料作文-模拟练习 2</p>
+<p>Now the trend towards banning plastic shopping bags comes in the wake of new finding regarding the extent and harm of plastic in our environment.</p>
+<p>Since <b class="tag">&lt;理由 1&gt;</b> plastic isn’t biodegradable, it ends up either in landfills or as litter on the landscape and in waterways and the ocean. Plastic can take hundreds of years to decompose and release toxins into the soil and water in the process. Another reason for banning plastic bags is <b class="tag">&lt;理由 2&gt;</b> their burden on fossil fuel. The fact that the use of millions, or even billions of plastic grocery bags each year means we are drilling for or are importing millions of barrels worth of oil and natural gas for a convenient way to carry home a few groceries.</p>
+<p>话题 plastic shopping bags</p>
+<p>立场 ×</p>
+<p>原因原句 1 plastic isn’t biodegradable <b class="tag">&lt;词汇 – 短句&gt;</b></p>
+<p>尝试改写 1 plastic isn’t biologically degraded / bio-decomposable</p>
+<p>原因原句 2 their burden on fossil fuel</p>
+<p>尝 试改 写 2 it stresses unrenewable resources (coal/petroleum/natural gases)</p>
+<p>材料作文-模拟练习 3</p>
+<p>Amid a slowdown in the country’s economic growth, the good time for job-hoppers (跳槽者) might be coming to an end. Employers started to shun = avoid the job-hoppers in 2012, and the trend has become more apparent as of late. About 90 percent of companies simply reject the candidate if they find traces indicating job-hopping in the resumes. They would not even give an interview. || Usually, the candidate will adapt to all the changes in the job in the first year, make some fine tuning in the second year, speed up his or her progress in the third years and start to seek more stable development in the ensuing year. Only in this way can employees can improve their adaptability, gain persistence and grasp the basic skills for the job.</p>
+<p>话题 job-hopping 跳槽 or 不跳槽</p>
+<p>立场 ×</p>
+<p>原因原句 1 employees cannot improve their adaptability, gain persistence and grasp the basic skills for the job.</p>
+<p>尝试改写 1 workers = staff = personnel fail to be adaptive, persistent and qualified.</p>
+<p>Against the canvas of the Internet penetration, digital illiteracy is numerically evidenced: shaped by a primary-subordinate dichotomy, the lack = deficiency of computer skills and limited educational attainment account for a core 74.1%, while the periphery is shared among inadequate device access and age constraints.</p>
+<p>Digital illiteracy is, from the author’s standpoint, an insidious cancer.</p>
+<p>Most importantly, in this hyper-digitized epoch, <b class="tag">&lt;C1&gt;</b> it might deliver a blow to one’s daily autonomy, stemming from the observation that <b class="tag">&lt;R1&gt;</b></p>
+<p>with the relentless rollout and infiltration of the cyberspace, apprehension over missteps = technophobia plus the resistance to cumbersome = labyrinthine interfaces have granted twilight generations, notably empty nesters, scant leeway in accepting digital services for the public ranging from e-payment, QR-code-based ordering to digital social security. Amid unchecked festering, such an extreme technological avoidance would de facto and sinisterly operate as a catalyst for them to be alienated and marginalized by this tech-oriented time. Worse still, the platforms’</p>
+<p>designers are skewed towards younger generations, lacking critical adjustment for senior-accessible = silver-friendly interfaces or modes.</p>
+<p>Ominously, a self-feeding quagmire is steadily threatening to entrench itself.</p>
+<p>By and large, resolving this social vice is by no means a solitary endeavor; it needs concerted efforts from social sectors, wherein households and platform operators underpin the entire framework.</p>
+<p><b class="tag"><b class="tag">&lt;后缀&gt;</b></b> -phobia 表示“对…的恐惧症” hydrophobia | social phobia</p>
+<p>WHO 老人 (大范围) → 空巢老人 (小范围)</p>
+<p>HOW 害怕出错 + 嫌操作繁琐 + 完全拒绝公共服务数字化接口</p>
+<p>HOW 案例: 移动支付 &amp; 扫码点餐 &amp; 电子社保 等</p>
+<p>WHAT 基于此, 他们逐渐与社会脱节 – 成为现代文明的边缘人物</p>
+<p>WHEN 高度数据化 + 网络来临 (负面)</p>
+<p>WHO 2 软件/平台/设备设计者 <b class="tag">&lt;视角对调&gt;</b></p>
+<p>HOW 2 仅考虑年轻人的需求 + 不设计老人友好型界面/模式</p>
+<p>Express service is empirically captured by the data: the general / overall quantity of express packages, springing from a 2018 base of 51 billion, ascended precipitously = soared to a peak of 83 billion in 2020, with the rural counterpart = equivalent = parallel undergoing an analogous dynamic.</p>
+<p>the number of netizens ascended / climbed</p>
+<p>主题词 is artfully framed</p>
+<h2 id="s27">写作热点词汇补充 4 <span class="h2rest">网络暴力 – 科技 + 校园安全 + 绿色</span></h2>
+<p>网络暴力 online violence = cyberbullying</p>
+<p>虚拟性与匿名性 virtual and anonymous nature of the Internet</p>
+<p>虚拟性与匿名性 virtuality and anonymity</p>
+<p>盲从心理 herd mentality = herd thinking</p>
+<p>流量推手 traffic pushers</p>
+<p>恶意营销号 malicious marketing accounts</p>
+<p>深谙算法与网友心理 be proficient in algorithms and netizen psychology</p>
+<p>断章取义 take quotes out of context | 夸大事实 exaggerate facts</p>
+<p>捏造话题 concoct false narratives</p>
+<p>挑起对立 provoke confrontation among the public</p>
+<p><b class="tag"><b class="tag">&lt;目的&gt;</b></b> 博取眼球 court undue attention / sensationalism</p>
+<p><b class="tag"><b class="tag">&lt;目的&gt;</b></b> 蹭炒热度 exploit public trends = news-jacking</p>
+<p class="lbl">&lt;目的&gt; 粉丝增长 amass and farm followers</p>
+<p>网络黑客 online hackers</p>
+<p>网络开盒者 cyber-doxxers (privacy leakers = doxxing perpetrators)</p>
+<p><b class="tag"><b class="tag">&lt;词源&gt;</b></b> doxx = document – docs – dox – doxxing</p>
+<p>痕迹追踪 follow the digital breadcrumbs and track down users’ account</p>
+<p>痕迹追踪 through inadvertently exposed geolocation or avatar profiles</p>
+<p>购买数据 financially incentivize telecom insiders or delivery workers</p>
+<p>购买数据 to procure victims’ personally identifiable information (PII)</p>
+<p>伪装潜入 masquerade as acquaintances to sneak into social media</p>
+<p>伪装潜入 to harvest sensitive and non-public data</p>
+<p>通信轰炸 overwhelm the victims’ phones with harassing calls</p>
+<p>通信轰炸 through“cell bomber” software or SMS flooding scripts</p>
+<p>邮寄物品 mailing intimidating items &lt;funeral wreaths / burial shrouds&gt;</p>
+<p>网络水军 social bots = paid trolls</p>
+<p>“网络打手”团伙“Cyber Thug” Syndicates (团伙)</p>
+<p>谩骂 hate speech + 刷屏 spamming feeds + 恶评 fake bad reviews</p>
+<p><b class="tag"><b class="tag">&lt;短语&gt;</b></b> brigade targets = victims with A, B and C.</p>
+<p>跟风网友 trend-following netizens</p>
+<p>键盘侠 online trolls &amp; clicktivists</p>
+<p>风凉话 sarcastic (讽刺的) commentaries (release = post ~)</p>
+<p>恶意梗 incendiary (挑拨的) memes (circulate ~)</p>
+<p>加剧网暴 amplify cyberbullies | 破坏和谐 fracture social cohesion</p>
+<p class="lbl">&lt;网暴的结果-WHAT&gt;</p>
+<p>合法权益遭受侵犯 lawful rights and interests are persistently violated</p>
+<p>隐私/名誉/肖像/荣誉 rights of privacy, honor, portraiture and reputation</p>
+<p>自我孤立 self-isolate from the physical world</p>
+<p>断绝来往 sever ties with their real-life friends and families</p>
+<h2 id="s28">写作热点词汇补充 5 <span class="h2rest">知识产权 – 诚信 + 科技的利弊</span></h2>
+<p>剽窃/抄袭 plagiarism + 盗版 piracy + 盗用 misappropriation</p>
+<p>剽窃者 plagiarists = digital free-riders <b class="tag">&lt;数字便车者&gt;</b> | 大范围</p>
+<p>盗版资源贩卖者 digital pirates = intellectual property poachers</p>
+<p>盗版资源贩卖者 copyright infringers <b class="tag">&lt;小范围&gt;</b></p>
+<p><b class="tag"><b class="tag">&lt;加定语&gt;</b></b> unscrupulous (adj): 肆无忌惮的, 毫无下限的</p>
+<p class="lbl">&lt;加定语&gt; brazen (adj): 厚颜无耻的, 明目张胆的</p>
+<p><b class="tag"><b class="tag">&lt;加定语&gt;</b></b> predatory (adj): 掠夺成性的 | parasitic (adj): 寄生的</p>
+<p><b class="tag"><b class="tag">&lt;加定语&gt;</b></b> underhand = sneaky (adj): 卑劣的, 偷偷摸摸的</p>
+<p class="lbl">&lt;加定语&gt; hypocritical (adj): 虚伪的, 伪善的</p>
+<p>抹去水印 strip away = crop out the original watermarks / signatures</p>
+<p>“忘记”引用 deliberately and conveniently forget to cite the references</p>
+<p>抹除作者存在 airbrush the original creators out of existence</p>
+<p>不劳而获 profit from others’ toil (辛勤劳作)</p>
+<p>寒蝉效应 a chilling effect <b class="tag">&lt;仅用于负面话题的论述&gt;</b></p>
+<p>→ 拒绝创作 intimidate talented individuals into silence</p>
+<h2 id="s29">中国文化负载词-语料储备 1 <span class="h2rest">传统节日</span></h2>
+<p>春节 the Spring Festival</p>
+<p>团聚庆典 the grandest overarching celebration of family reunion</p>
+<p>团圆幸福 the simple bliss of gathering with families <b class="tag">&lt;宾语&gt;</b></p>
+<p>新开始 the ritual of sweeping away bad luck to welcome prospect</p>
+<p>提供避风港 offer a much-needed emotional harbor for sb to do sth</p>
+<p class="lbl">&lt;春节习俗的表达拓展&gt;</p>
+<p>贴春联 paste Spring Festival couplets / paper cuttings onto the wall</p>
+<p>大扫除 undertake a thorough house cleaning</p>
+<p>→ 目的: 辞旧迎新 usher out the old and welcome the new</p>
+<p>发红包 give red envelopes stuffed with lucky money</p>
+<p>放鞭炮 set off fireworks and firecrackers</p>
+<p>→ 目的: 纳福驱邪 pass on blessings and ward off evil spirits</p>
+<p>中秋节 the Mid-Autumn Festival</p>
+<p>庆祝秋收 a poetic celebration for autumn harvest <b class="tag">&lt;功能地位&gt;</b></p>
+<p>思想/情感寄托 a deep sense of nostalgia and an emotional outlet (宾语)</p>
+<p>借物抒情 translate the full moon into a heartfelt gesture of love (意义)</p>
+<p class="lbl">&lt;中秋习俗的表达拓展&gt;</p>
+<p>品尝月饼 savor (细细回味) mooncakes</p>
+<p>庭院赏月 admire = gaze at the glorious Full Moon</p>
+<p>祭月/拜月 worship the moon deity</p>
+<p class="lbl">&lt;语法补充&gt; 为何独立主格 (句子 → 破坏谓语的结构)</p>
+<p>因为天气糟糕, 我们选择呆在家中</p>
+<p>Because the weather was bad, we stayed at home.</p>
+<p>→ The weather being bad, we stayed at home.</p>
+<p>有折扣提供, 最新的智能手机很快售罄.</p>
+<p>Discounts are offered, and the latest phones are sold out.</p>
+<p>→ Discounts being offered, the latest phones are sold out.</p>
+<p>人工智能正在重塑各个行业,传统的商业模式正以极快的速度被淘汰</p>
+<p>AI is reshaping every industry, and traditional business models are being eliminated.</p>
+<p>→ AI reshaping every industry, traditional business models are eliminated.</p>
+<p>An ironical visual metaphor for environmental pollution is artfully unrolled —— epitomizing this topic is a couple throwing rubbish into the lake, with massive garbage floating on the surface.</p>
+<p>Environmental contamination is, from the author’s perspective, an insidious cancer. Most importantly, <b class="tag">&lt;C1&gt;</b> it might deliver a blow to the eco-harmony inasmuch as in this ultra-industrialized landscape, some profit-driven enterprises and factories would discharge vast amounts of untreated industrial waste (carbon dioxide for example) into rivers, streams and even the atmosphere. Amid unchecked festering, local biodiversity could be eroded, the greenhouse effect intensified and the sustainable development compromised. In addition, <b class="tag">&lt;C2&gt;</b> in today’s environment-fixated milieu, aforementioned enterprises have resorted to deceptive greenwashing by marketing their commodities under the banner of sustainability. Cases in point include some vague labels and slogans printed on home appliances (like“carbon offset” etc.). By the same token, consumers are forced to pay a higher green premium, which further ruins public trust. Phrased differently, environmental degradation might, up to a point, wreak havoc on social credibility / integrity.</p>
+<p class="lbl">&lt;润色版本&gt;</p>
+<p>Environmental contamination is, from the author’s perspective, an insidious cancer. Most importantly, <b class="tag">&lt;C1&gt;</b> it might deliver a blow to the eco-harmony inasmuch as in this ultra-industrialized landscape, the relentless profit-driven mindset has granted some enterprises and factories ample leeway in discharging vast amounts of untreated industrial waste</p>
+<p>(carbon dioxide for example) into rivers, streams and even the atmosphere</p>
+<p>Amid unchecked festering, local biodiversity could be eroded and the greenhouse effect intensified, a phenomenon that has compromised the sustainable development. In addition, <b class="tag">&lt;C2&gt;</b> in today’s environment-fixated milieu, aforementioned enterprises have resorted to deceptive greenwashing by marketing their commodities under the banner of sustainability. Cases in point include some vague labels and slogans printed on home appliances (like“carbon offset” etc.). By the same token, consumers being forced to pay a higher green premium, it would hypocritically serve as a safeguard for our nature but a stealthy drainer for public trust. Phrased differently, environmental degradation might, up to a point, wreak havoc on social credibility / integrity.</p>
+<p>WHO 工厂/企业 <b class="tag">&lt;分人群&gt;</b> → <b class="tag">&lt;加定语&gt;</b> 唯利是图</p>
+<p>HOW <b class="tag">&lt;描述上述人群具体是如何显性破坏环境&gt;</b></p>
+<p>HOW 将未经处理的废水/废料排放至河流/大气中</p>
+<p>WHAT 如此一来, 蚕食生物多样性 → 加剧温室效应 → 可持续</p>
+<p>WHEN 工业化</p>
+<p>WHO 2 上述工厂/企业</p>
+<p>HOW 2 &lt;描述上述人群具体是如何隐形破坏环境 - greenwashing&gt;</p>
+<p>HOW 2 将自己的产品包装为环境友好型产品 <b class="tag">&lt;例子: 口号/标签&gt;</b></p>
+<p>WHAT 2 基于此, 消费者支付绿色溢价 + 蚕食了社会公信力</p>
+<p>WHEN 2 在如今人人都关注环境的氛围</p>
+<p>generation 世代</p>
+<p>An incisive visual metaphor for the influence of mobile phones is artfully framed —— epitomizing this topic are four youngsters fingering their screens, without communication among them.</p>
+<p>Smart phones are, from the author’s view, an insidious cancer. Most importantly, <b class="tag">&lt;分论点 1&gt;</b> <b class="tag">&lt;WHEN 2&gt;</b> in this ultra-digitalized landscape, they might deliver a blow to one’s interpersonal relationships ←</p>
+<p>inasmuch as → <b class="tag">&lt;WHEN 1&gt;</b> with the creeping rollout and relentless infiltration of smartphones, <b class="tag">&lt;WHO&gt;</b> college students, {phone-obsessed freshmen whose self-control has been deprived = deprived of self-control in particular, <b class="tag">&lt;HOW&gt;</b> would immerse themselves in the virtual realm conjured by video games or engage in ceaseless conversations with peers on social apps around the clock. ← Amid unchecked festering, → <b class="tag">&lt;WHAT&gt;</b> avenues for offline communication would be greatly curtailed = shrivel, which makes them gradually isolated and estranged = alienated = detached from the realities.</p>
+<p class="lbl">&lt;原论据&gt; 沉迷手机 &lt;WHO – HOW – WHAT - WHEN&gt;</p>
+<p>WHO 大学生 (大范围) → 痴迷手机 + 自控力差大一学生 (小范围)</p>
+<p>HOW 整天沉浸在游戏的虚拟世界中 or 在社交平台与他人畅聊</p>
+<p>WHAT 基于此, 线下沟通的机会减少 → 孤僻/疏离</p>
+<p>WHEN 随着智能手机的出现与普及 + 数字化</p>
+<p class="lbl">&lt;论点 + 论据&gt;</p>
+<p>An incisive visual metaphor for the revitalization of traditional cultures is artfully framed —— epitomizing this topic is an aged couple exclaiming that the Dragon Boat Race has become increasingly lively, with throngs of residents watching and cheering for it.</p>
+<p class="lbl">&lt;注意&gt; 对话中的语气助词考虑转为副词对 saying 做修饰</p>
+<p><b class="tag"><b class="tag">&lt;注意 3&gt;</b></b> 图画中同时存在 2 位以上人物, 判断性质 (动作/思想/言论)</p>
+<p>相同 → 将其全部作为核心人物</p>
+<p>不同 → 选择 A 作为核心人物, 选择 B 使用独立主格</p>
+<p>A grotesque visual metaphor for refusal to support the elderly is artfully framed, in which an aged patriarch (大家长) can be observed crouching = cowering = huddling and rolling like a ball, with his four grown children kicking him back and forth.</p>
+<p>A sobering visual metaphor for inferiority = self-abasement is masterfully unrolled, wherein a goalkeeper can be observed imagining that he is too diminutive to make the save, with another shooter considering his opponent is such an insurmountable giant that he cannot score = viewing him as an insurmountable giant impossible to score.</p>
+<p>An ironical visual metaphor for utilitarian learning = gain-oriented learning is masterfully unrolled —— epitomizing this topic is a girl arguing that it is futile to attend a lecture irrelevant to her major, with another student championing that they will definitely benefit from it.</p>
+<p class="lbl">&lt;润色思维 1&gt; 若图画中存在对话, 建议改直接引语为间接引语</p>
+<p>saying,“…” → saying = noting = adding that … | 第一/二→ 第三人称</p>
+<p>表示“立场” championing = holding = arguing = suggesting = implying</p>
+<p>With a view to studying campus sports activities, Prof. Smith’s academic project will commence next month in our school. Against this backdrop, we officially launch a targeted recruitment for an academic assistant.</p>
+<p>Relevant qualifications for potential applicants are as follows. First, driven by the urgent need to compile a comprehensive dataset for students’</p>
+<p>sports preferences and frequencies, it is imperative that candidates possess data and analytical skills perfectly complementing their investigative acumen. Second, in light of the intricate nature of our real-time monitoring of volatile variables regarding athletes, ideal applicants must be fortified by previous practical experience, possessing the foresight to … Also, considering zero margin for error in this role, we highly value those anchored by calmness under pressure.</p>
+<p>Please deliver your application form to our email address</p>
+<p>111@gmail.com if you are interested.</p>
+<p class="sign">Prof. Smith’s Team &amp; Lab</p>
+<p>Dear Students（面向特定群体）|| Dear Sir or Madam,（面向陌生人/机构） <b class="tag">&lt;自我介绍&gt;</b> As your tour guide this time, <b class="tag">&lt;写信目的&gt;</b> I am writing to inform you of some details regarding = concerning a historical tour.</p>
+<p><b class="tag"><b class="tag">&lt; 分论点 1&gt;</b></b> First, as a time-honored imperial residence, the Palace Museum, our destination, perfectly embodies traditional Oriental aesthetics, which offers you a breathtaking glimpse into the elegance of China. <b class="tag">&lt;分论点 2&gt;</b> Also, to ensure a better experience, it is in your best interest to install Alipay or WeChat, as cashless payment is prevalent in China. <b class="tag">&lt;分论点 3&gt;</b> Last, remember to bring your passports to claim tax refunds when purchasing some selected souvenirs.</p>
+<p><b class="tag"><b class="tag">&lt; 重申目 的&gt;</b></b> I trust you will find this advice and arrangement practical. <b class="tag">&lt;表达期待&gt;</b> Please feel free to reach out to me if you have further confusion. | <b class="tag">&lt;寒暄语&gt;</b> Safe travels! || Bon voyage!</p>
+<p class="sign">Best wishes,</p>
+<p class="sign">Li Ming</p>
+<p>HOW 下载/安装付款 APP</p>
+<p>WHAT 移动支付在中国普及 + 旅游体验改善</p>
+<p>right light write b</p>
+<p>As a famous urban lake, Xuanwu Lake perfectly embodies ancient</p>
+<p>Nanjing’s charm, which carries thousands of years of local history and peaceful natural beauty.</p>
+<p>Directions: You have recently received a complaint from one of your consumers. Please write a reply to:</p>
+<p>(1) make an apology and explain the situation;</p>
+<p>(2) put forward a feasible solution to his / her demand.</p>
+<p>condiment (n): 佐料 + season (n): 季节 / (v): 加佐料</p>
+<p><b class="tag"><b class="tag">[投诉信-课后作业]</b></b></p>
+<p>You recently bought some fruits and vegetables from an online grocery store, but you are highly dissatisfied with the quality and the delivery.</p>
+<p>Write a letter of complaint to the customer service to:</p>
+<p class="exam">1) state the problems clearly;</p>
+<p class="exam">2) propose your solutions.</p>
+<p class="exam">You should write about 100 words on the ANSWER SHEET. Do not use your own name; use "Li Ming" instead. Do not write your address.</p>
+<p class="salut">Dear Sir or Madam = To Whom It May Concern,</p>
+<p><b class="tag"><b class="tag">&lt;自我介绍&gt;</b></b> As one of your consumers, <b class="tag">&lt;写信目的&gt;</b> I am writing with deep regret and utmost reluctance to lodge a complaint about those apples I ordered the other day (前几天).</p>
+<p><b class="tag"><b class="tag">&lt;中心句&gt;</b></b> Relevant reasons for my complaint are as follows. &lt;原因</p>
+<p>论 证 &gt; Upon unboxing the package, I immediately noticed they had gone visibly moldy, which ruined / spoiled my appetite. Worse still, there was also a severe shortfall in weight. Although I repeatedly reached out to your customer support, the representative remained completely uncooperative in addressing my concerns. <b class="tag">&lt;措施论证&gt;</b> To rectify this situation and offset the losses incurred, I expect your store to issue a full refund.</p>
+<p><b class="tag"><b class="tag">&lt;重申目的&gt;</b></b> I strongly hope this matter can be promptly resolved. &lt;表</p>
+<p>达期待&gt; Your swift response and decision would be highly appreciated.</p>
+<p class="sign">Best wishes,</p>
+<p>Li Ming aerobic</p>
+<p>Direction:</p>
+<p>You recently bought some fruits and vegetables from an online grocery store, but you are highly dissatisfied with the quality and the delivery. Write a letter of complaint to the customer service to:</p>
+<p class="exam">1) state the problems clearly;</p>
+<p class="exam">2) propose your solutions.</p>
+<p class="exam">You should write about 100 words on the ANSWER SHEET. Do not use your own name; use "Li Ming" instead. Do not write your address.</p>
+<p>popularity 1 popularization 2 try to do sth 尝试做不一定成功 | try one’s best to do sth</p>
+<p><b class="tag"><b class="tag">[短语]</b></b> do sth at full steam = strain every nerve to do sth</p>
+<p><b class="tag"><b class="tag">[短语]</b></b> bend over backwards to do sth = give one’s best shot to do sth</p>
+<p>managed to do sth 尝试做且成功</p>
+<p>vote - poll - ballot</p>
+<p class="examtitle">51. Directions:</p>
+<p class="exam">Read the following email from Professor Smith and write him a reply.</p>
+<p class="salut">Dear Li Ming,</p>
+<p>As you achieved the highest score in the Chinese Writing contest, I would like to invite you to give a 20-minute presentation to share your writing experience with the freshmen next Friday afternoon. Please let me know if you are available to attend.</p>
+<p class="sign">Yours sincerely,</p>
+<p class="sign">Prof. Smith</p>
+<p class="exam">You should write about 100 words on the ANSWER SHEET.</p>
+<p class="exam">Do not use your own name in the email; use "Li Ming" instead. (10 points)</p>
+<p class="salut">Dear Prof. Smith,</p>
+<p><b class="tag"><b class="tag">&lt;适当寒暄&gt;</b></b> Thanks for your appreciation and recognition! <b class="tag">&lt;交互感&gt;</b></p>
+<p>In response to your invitation, <b class="tag">&lt;写信目的&gt;</b> I am writing to inform you of my outline.</p>
+<p class="examtitle">51. Directions:</p>
+<p class="exam">Read the following email from your foreign friend Mike and write him a reply.</p>
+<p class="salut">Hi Li Ming,</p>
+<p>A Chinese classmate has invited me to his home for dinner to celebrate the upcoming Mid-Autumn Festival. I am super excited but also a bit nervous. Could you tell me what kind of gift I should bring to his family?</p>
+<p>Furthermore, are there any specific table manners in China I should pay attention to?</p>
+<p class="sign">Yours,</p>
+<p class="sign">Mike</p>
+<p class="exam">You should write about 100 words on the ANSWER SHEET.</p>
+<p class="exam">Do not use your own name in the email; use "Li Ming" instead. (10 points)</p>
+<p class="salut">Dear Mike, Fully understanding your nervousness,</p>
+<p>I am writing with a hope that you might find the following tips beneficial to your visit on that day.</p>
+<p class="examtitle">51. Directions:</p>
+<p class="exam">Read the following email from a student, John, and write him a reply on behalf of the University Library.</p>
+<p class="salut">Dear Library Manager,</p>
+<p>I am writing to report two serious issues on the 3rd floor of the library.</p>
+<p>First, the Wi-Fi connection is frequently dropping, making it impossible to search for materials. Second, some students are talking loudly, but no staff members are stopping them. I hope these can be fixed soon.</p>
+<p class="sign">Yours,</p>
+<p class="sign">John</p>
+<p class="exam">You should write about 100 words on the ANSWER SHEET.</p>
+<p class="exam">Do not use your own name in the email; use "Li Ming" instead. (10 points)</p>
+<p class="salut">Dear John,</p>
+<p>Fully understanding your dissatisfaction, I am writing to express our sincerest apologies to you for that inconvenience.</p>
+<p class="salut">Dear Jack,</p>
+<p><b class="tag"><b class="tag">&lt; 寒暄语 &gt;</b></b> Sorry to know that. <b class="tag">&lt; 交互感 &gt;</b> In response to your confusion and frustration, <b class="tag">&lt;写信目的&gt;</b> I am writing to offer you some actionable tips on your communication with him.</p>
+<p class="salut">Dear Jack,</p>
+<p>Fully understanding your confusion and frustration, I am writing in the hope that you may find the following tips beneficial to your negotiations with him.</p>
+</section>
+<p class="foot">《2027 考研英语写作 · 思路拓展 &amp; 语料补充》勘误干净版 &nbsp;|&nbsp; 原文 By Vita-W</p>
+<a class="top" href="#top">↑ 顶部</a>
+</body></html>

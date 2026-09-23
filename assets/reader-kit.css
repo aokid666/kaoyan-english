@@ -1,0 +1,51 @@
+/* 阅读增强工具（搜索 / 编辑并保存 / 便签定位） —— 独立样式，不污染正文 */
+#nk-root{position:fixed;right:14px;bottom:74px;z-index:9998;
+  font:14px/1.6 -apple-system,"PingFang SC","Hiragino Sans GB",sans-serif;color:#111418}
+#nk-fab{width:52px;height:52px;border-radius:50%;border:none;background:#7c3aed;color:#fff;
+  font-size:21px;line-height:1;box-shadow:0 6px 20px rgba(76,29,149,.35);cursor:pointer;
+  display:flex;align-items:center;justify-content:center;padding:0}
+#nk-fab:active{transform:scale(.94)}
+#nk-fab .nk-badge{position:absolute;top:-3px;right:-3px;background:#ef4444;color:#fff;
+  font-size:11px;font-weight:700;border-radius:10px;padding:1px 6px;display:none}
+#nk-panel{position:fixed;right:12px;bottom:136px;width:min(92vw,352px);max-height:66vh;overflow:auto;
+  -webkit-overflow-scrolling:touch;background:#fff;border-radius:16px;padding:10px;
+  box-shadow:0 14px 44px rgba(0,0,0,.24);display:none}
+#nk-panel.nk-open{display:block}
+.nk-row{display:flex;align-items:center;gap:8px;padding:9px 8px;border-radius:11px;cursor:pointer}
+.nk-row:active{background:#f3f4f6}
+.nk-row .nk-ic{width:24px;text-align:center;font-size:16px;flex:none}
+.nk-row .nk-lab{flex:1;font-size:14.5px}
+.nk-row .nk-sub{font-size:12px;color:#6b7280;font-weight:400}
+.nk-sep{height:1px;background:#eef0f3;margin:6px 4px}
+.nk-hint{font-size:12px;color:#6b7280;padding:2px 8px 8px;line-height:1.6}
+.nk-btn{display:inline-block;border:none;background:#7c3aed;color:#fff;font-size:13.5px;font-weight:600;
+  padding:8px 12px;border-radius:9px;cursor:pointer;white-space:nowrap}
+.nk-btn.ghost{background:#f3f4f6;color:#374151}
+.nk-btn:disabled{opacity:.5}
+.nk-bar{display:none;padding:6px 8px 10px}
+.nk-bar.nk-open{display:block}
+.nk-input{width:100%;box-sizing:border-box;border:1px solid #d8dbe2;border-radius:9px;
+  padding:9px 11px;font-size:16px;font-family:inherit;background:#fff;color:#111418}
+.nk-inline{display:flex;gap:8px;align-items:center;margin-top:8px;flex-wrap:wrap}
+.nk-count{font-size:12.5px;color:#6b7280;flex:1;min-width:80px}
+#nk-notes{display:none;padding:2px 4px 6px}
+#nk-notes.nk-open{display:block}
+.nk-note{border:1px solid #eceef2;border-left:3px solid #f59e0b;border-radius:9px;padding:8px 10px;
+  margin:7px 0;background:#fffdf7;font-size:13.5px;line-height:1.6}
+.nk-note .nk-nq{color:#6b7280;font-size:12px;margin-bottom:4px;word-break:break-all}
+.nk-note .nk-ops{display:flex;gap:6px;margin-top:7px;flex-wrap:wrap}
+.nk-note .nk-ops button{font-size:12px;padding:4px 9px}
+.nk-note.nk-dead{opacity:.6;border-left-color:#9ca3af}
+mark.nk-hit{background:#ffe9a8;border-radius:3px;padding:0 1px}
+mark.nk-hit.cur{background:#f59e0b;color:#fff}
+.nk-marker{display:inline-block;width:1.05em;height:1.05em;vertical-align:-.16em;cursor:pointer}
+.nk-marker::after{content:"📌";font-size:.82em}
+.nk-marker.nk-active::after{content:"📍"}
+body.nk-notemode section.sheet{cursor:crosshair}
+body.nk-editing section.sheet{outline:2px dashed #c4b5fd;outline-offset:6px;border-radius:4px}
+#nk-toast{position:fixed;left:50%;bottom:150px;transform:translateX(-50%);background:rgba(17,20,24,.92);
+  color:#fff;font-size:13.5px;padding:9px 15px;border-radius:20px;z-index:9999;opacity:0;
+  transition:opacity .25s;pointer-events:none;max-width:86vw;text-align:center}
+#nk-toast.nk-show{opacity:1}
+@media print{#nk-root,#nk-toast,.nk-marker,.nk-hit{display:none!important}
+  mark.nk-hit{background:none;color:inherit}}
