@@ -49,3 +49,30 @@ body.nk-editing section.sheet{outline:2px dashed #c4b5fd;outline-offset:6px;bord
 #nk-toast.nk-show{opacity:1}
 @media print{#nk-root,#nk-toast,.nk-marker,.nk-hit{display:none!important}
   mark.nk-hit{background:none;color:inherit}}
+
+/* ---------- 文字格式工具条 ---------- */
+.nk-fmt{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:8px 2px 0}
+.nk-flab{font-size:11.5px;color:#6b7280;width:40px;flex:none;font-weight:700}
+.nk-sw{width:25px;height:25px;border-radius:8px;border:1px solid #d8dbe2;background:var(--c,#fff);
+  padding:0;cursor:pointer;flex:none}
+.nk-sw:active{transform:scale(.92)}
+.nk-swx{background:#fff;color:#9ca3af;font-size:12px;line-height:1}
+.nk-fbtn{font-size:12.5px;padding:5px 9px;border-radius:8px;border:1px solid #d8dbe2;background:#fff;
+  color:#374151;cursor:pointer;line-height:1.4}
+.nk-fbtn:active{background:#f3f4f6}
+.nk-fs-s{font-size:.88em}
+.nk-fs-l{font-size:1.15em}
+.nk-fs-xl{font-size:1.32em;font-weight:600}
+
+/* ---------- 分页符 / 按节分页 ---------- */
+.nk-pb{height:0;border-top:1px dashed #c4b5fd;margin:16px 0;position:relative}
+.nk-pb::after{content:"分页符";position:absolute;right:0;top:-10px;font-size:10px;color:#8b7bd8;
+  background:#f7f5fb;padding:1px 6px;border:1px solid #e5e0f5;border-radius:6px;line-height:1.4}
+@media screen{
+  body.nk-sectpage section.sheet h2[id]{border-top:1px dashed #cbbff0;padding-top:16px;margin-top:26px}
+}
+@media print{
+  .nk-pb{break-after:page;page-break-after:always;border:0;margin:0;height:0}
+  .nk-pb::after{display:none}
+  body.nk-sectpage section.sheet h2[id]{break-before:page;page-break-before:always}
+}
