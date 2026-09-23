@@ -116,6 +116,8 @@
   var TB = function (act, label, title) {
     return '<button class="nk-tb" data-act="' + act + '"' + (title ? ' title="' + title + '"' : '') + '>' + label + '</button>';
   };
+  var staleRb = document.getElementById('nk-ribbon');
+  if (staleRb && staleRb.parentNode) staleRb.parentNode.removeChild(staleRb);
   var ribbon = document.createElement('div');
   ribbon.id = 'nk-ribbon';
   ribbon.innerHTML =
@@ -435,6 +437,7 @@
   function serializePage() {
     var clone = document.documentElement.cloneNode(true);
     var ui = clone.querySelector('#nk-root'); if (ui) ui.parentNode.removeChild(ui);
+    var rb0 = clone.querySelector('#nk-ribbon'); if (rb0) rb0.parentNode.removeChild(rb0);
     $$('.nk-marker', clone).forEach(function (m) { m.parentNode.removeChild(m); });
     $$('mark.nk-hit', clone).forEach(function (m) {
       m.parentNode.replaceChild(clone.ownerDocument.createTextNode(m.textContent), m);
