@@ -15,6 +15,10 @@
   var sheets = [].slice.call(document.querySelectorAll('section.sheet'));
   var state = { editing: false, noteMode: false, notes: [], matches: [], midx: -1, pending: null, editId: null };
 
+  function inUI(el) {
+    return !!(el && el.closest && (el.closest('#nk-root') || el.closest('#nk-ribbon')));
+  }
+
   /* ---------- 工具 ---------- */
   function $(s, r) { return (r || document).querySelector(s); }
   function $$(s, r) { return [].slice.call((r || document).querySelectorAll(s)); }
@@ -190,7 +194,7 @@
     var walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
       acceptNode: function (n) {
         if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
-        if (n.parentNode && n.parentNode.closest && n.parentNode.closest('#nk-root')) return NodeFilter.FILTER_REJECT;
+        if (inUI(n.parentNode)) return NodeFilter.FILTER_REJECT;
         var pn = n.parentNode ? n.parentNode.nodeName : '';
         if (pn === 'SCRIPT' || pn === 'STYLE' || pn === 'TEXTAREA') return NodeFilter.FILTER_REJECT;
         return NodeFilter.FILTER_ACCEPT;
@@ -266,7 +270,7 @@
   }
   document.addEventListener('input', function (e) {
     if (!state.editing) return;
-    if (e.target && e.target.closest && e.target.closest('#nk-root')) return;
+    if (inUI(e.target)) return;
     scheduleSave();
   });
 
@@ -380,7 +384,7 @@
   /* 内容区点击：标注 / 打开便签 */
   document.addEventListener('click', function (e) {
     var t = e.target;
-    if (t.closest && t.closest('#nk-root')) return;
+    if (inUI(t)) return;
     var mk = t.closest ? t.closest('.nk-marker') : null;
     if (mk) { e.preventDefault(); openNote(mk.getAttribute('data-id')); return; }
     if (state.noteMode) { e.preventDefault(); e.stopPropagation(); beginNote(e.clientX, e.clientY); }
@@ -511,7 +515,7 @@
     var r = s.getRangeAt(0);
     var node = r.startContainer;
     var el = node && node.nodeType === 1 ? node : (node ? node.parentNode : null);
-    if (el && el.closest && el.closest('#nk-root')) return;
+    if (inUI(el)) return;
     if (el && el.closest && el.closest('section.sheet')) savedRange = r.cloneRange();
   });
   function restoreSel() {
@@ -549,7 +553,7 @@
     var s = window.getSelection();
     var node = s.rangeCount ? s.getRangeAt(0).startContainer : null;
     var block = node ? (node.nodeType === 1 ? node : node.parentNode) : null;
-    if (block && block.closest && block.closest('#nk-root')) block = null;
+    if (inUI(block)) block = null;
     var target = block ? (block.closest('p,h1,h2,h3,h4,h5,li,tr,div,section') || block) : null;
     var pb = document.createElement('div');
     pb.className = 'nk-pb'; pb.setAttribute('data-pb', '1');
