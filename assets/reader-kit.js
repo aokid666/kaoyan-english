@@ -166,7 +166,6 @@
     var open = force === undefined ? !panel.classList.contains('nk-open') : force;
     panel.classList.toggle('nk-open', open);
   }
-  fab.addEventListener('click', function () { togglePanel(); });
   function toggleBar(id, force) {
     var b = $('#' + id);
     var open = force === undefined ? !b.classList.contains('nk-open') : force;
