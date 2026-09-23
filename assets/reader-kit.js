@@ -388,6 +388,8 @@
     });
     $$('[contenteditable]', clone).forEach(function (el) { el.removeAttribute('contenteditable'); });
     $$('body', clone).forEach(function (b) { b.className = String(b.className).replace(/\bnk-[a-z]+\b/g, '').trim(); });
+    // 归一化 viewport：去掉浏览器/预览器注入的额外 viewport（例如固定宽度 390）
+    $$('meta[name="viewport"]', clone).slice(1).forEach(function (m) { m.parentNode.removeChild(m); });
     var old = clone.querySelector('#nk-notes-data'); if (old) old.parentNode.removeChild(old);
     var sc = clone.ownerDocument.createElement('script');
     sc.type = 'application/json'; sc.id = 'nk-notes-data';
@@ -424,7 +426,7 @@
           var t = new Date().toLocaleTimeString('zh-CN').slice(0, 5);
           $('#nk-cstate').textContent = '　已同步 ' + t;
           LS.set('cloudsync', String(Date.now()));
-          toast('已保存到服务器 ✓ 约 1 分钟后所有设备都能看到', 3400);
+          toast('已保存到服务器 ✓ 约 1 分钟生效；其他设备若仍看到旧版，等 10 分钟或下拉刷新', 4200);
         } else {
           $('#nk-cstate').textContent = '　失败';
           toast('保存失败：' + ((res.j && res.j.message) || '未知错误'), 3600);
