@@ -522,7 +522,10 @@
   function ensureEditable() { if (!state.editing) setEdit(true); restoreSel(); }
   function afterFormat() { scheduleSave(); renderMarkers(); }
   function execFmt(cmd, val) {
+    var _sel = window.getSelection();
+    var _collapsed = !_sel || !_sel.rangeCount || _sel.isCollapsed;
     ensureEditable();
+    if (_collapsed) toast('已设定格式：接着输入的字会用它；想改已有文字，请先选中再点', 3000);
     try { document.execCommand('styleWithCSS', false, true); } catch (e) { }
     try { document.execCommand(cmd, false, val || null); } catch (e) { toast('这个浏览器不支持该格式'); return; }
     afterFormat();
@@ -530,7 +533,7 @@
   function wrapSelection(cls) {
     ensureEditable();
     var s = window.getSelection();
-    if (!s.rangeCount || s.isCollapsed) { toast('先选中要调整大小的文字'); return; }
+    if (!s.rangeCount || s.isCollapsed) { toast('请先用手指选中要调整大小的文字，再点这里'); return; }
     var r = s.getRangeAt(0);
     var span = document.createElement('span');
     span.className = cls;
@@ -624,7 +627,7 @@
   }
 
   /* ---------- 面板事件 ---------- */
-  root.addEventListener('click', function (e) {
+  function onPanelClick(e) {
     var t = e.target.closest('[data-act]'); if (!t) return;
     var act = t.getAttribute('data-act'), id = t.getAttribute('data-id');
     switch (act) {
@@ -694,7 +697,10 @@
       case 'cloud-forget': LS.del('ghtoken'); $('#nk-token').value = ''; toast('已清除本机令牌'); break;
       case 'top': window.scrollTo({ top: 0, behavior: 'smooth' }); break;
     }
-  });
+  }
+
+  root.addEventListener('click', onPanelClick);
+  ribbon.addEventListener('click', onPanelClick);   // 抽屉已移入顶栏，事件要单独接
 
   /* ---------- 启动 ---------- */
   function init() {
