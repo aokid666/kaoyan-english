@@ -57,7 +57,6 @@
   var root = document.createElement('div');
   root.id = 'nk-root';
   root.innerHTML =
-    '<button id="nk-fab" aria-label="阅读工具">☰<span class="nk-badge"></span></button>' +
     '<div id="nk-panel">' +
       '<div class="nk-row" data-act="search"><span class="nk-ic">🔍</span><span class="nk-lab">全文搜索</span></div>' +
       '<div class="nk-bar" id="nk-sbar">' +
@@ -142,7 +141,10 @@
         '<button class="nk-tb" data-act="pb-sect" id="nk-pbsect">按节分页：关</button>' +
         TB('fmt-clear', '清格式') +
       '</div>' +
-      '<button class="nk-rb-btn" data-act="search-open" title="搜索">🔍</button>' +
+      '<button class="nk-rb-btn" data-act="search-open" title="全文搜索">🔍</button>' +
+      '<button class="nk-rb-btn" data-act="notes-open" title="便签">📌<span class="nk-dot" id="nk-notes-badge"></span></button>' +
+      '<button class="nk-rb-btn" data-act="cloud-open" title="云端保存">☁️</button>' +
+      '<button class="nk-rb-btn" data-act="more-open" title="更多（备份 / 恢复 / 顶部）">⋯</button>' +
     '</div>';
   document.body.appendChild(ribbon);
   document.body.classList.add('nk-ribbon-on');
@@ -153,9 +155,13 @@
     rbState.textContent = on ? '编辑中 · 自动保存' : '阅读';
   }
 
+  // 面板改为「停靠在顶栏下方」的抽屉，不再用悬浮按钮弹出
+  var panelEl = root.querySelector('#nk-panel');
+  ribbon.appendChild(panelEl);
+  panelEl.classList.add('nk-dock');
   document.body.appendChild(root);
 
-  var fab = $('#nk-fab'), panel = $('#nk-panel'), badge = $('.nk-badge', fab);
+  var panel = $('#nk-panel'), notesBadge = $('#nk-notes-badge');
   function togglePanel(force) {
     var open = force === undefined ? !panel.classList.contains('nk-open') : force;
     panel.classList.toggle('nk-open', open);
@@ -254,7 +260,7 @@
     $('#nk-estate').textContent = on ? '　编辑中' : '　点击开启';
     if (typeof syncRibbon === 'function') syncRibbon();
     toggleBar('nk-ebar', on);
-    if (on) { clearHits(); togglePanel(true); toast('编辑模式已开：直接改正文，自动保存', 2600); }
+    if (on) { clearHits(); toast('编辑模式已开：直接改正文，自动保存', 2600); }
     else { saveContent(true); toast('编辑结束，已保存', 1800); }
   }
   document.addEventListener('input', function (e) {
@@ -269,8 +275,10 @@
   function saveNotes() { LS.set('notes', JSON.stringify(state.notes)); noteCount(); renderNotes(); renderMarkers(); }
   function noteCount() {
     $('#nk-ncount').textContent = '　' + state.notes.length + ' 条';
-    badge.textContent = state.notes.length;
-    badge.style.display = state.notes.length ? 'block' : 'none';
+    if (notesBadge) {
+      notesBadge.textContent = state.notes.length || '';
+      notesBadge.style.display = state.notes.length ? 'inline-block' : 'none';
+    }
   }
   function resolveNote(n) {
     var sec = sheets[n.sec]; if (!sec || !n.snippet) return null;
@@ -365,7 +373,7 @@
     $('#nk-nhint').innerHTML = state.noteMode
       ? '<b>标注模式已开：点正文任意位置</b>就能在那里钉一条便签；点已有 📌 可修改。'
       : '点下面的按钮开始：进入便签模式后，<b>点正文里任意位置</b>即可在那里钉一条笔记。';
-    if (state.noteMode) { setEdit(false); togglePanel(false); toast('标注模式：点正文任意位置加便签', 2600); }
+    if (state.noteMode) { setEdit(false); togglePanel(false); toggleBar('nk-notes', false); toast('标注模式：点正文任意位置加便签', 2600); }
   }
 
   /* 内容区点击：标注 / 打开便签 */
@@ -581,6 +589,16 @@
       case 'search-open':
         togglePanel(true); toggleBar('nk-sbar', true);
         setTimeout(function () { qInput.focus(); }, 80);
+        break;
+      case 'notes-open':
+        togglePanel(true); toggleBar('nk-nbar', true); toggleBar('nk-notes', true);
+        renderNotes();
+        break;
+      case 'cloud-open':
+        togglePanel(true); toggleBar('nk-cbar', true);
+        break;
+      case 'more-open':
+        togglePanel(!panel.classList.contains('nk-open') || !$('.nk-bar.nk-open'));
         break;
       case 'fore': execFmt('foreColor', t.getAttribute('data-v')); break;
       case 'fore-clear': execFmt('foreColor', '#202a35'); break;

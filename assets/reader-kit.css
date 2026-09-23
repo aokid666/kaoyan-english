@@ -107,3 +107,16 @@ body.nk-ribbon-on #nk-fab{bottom:74px}
   #nk-ribbon{display:none!important}
   body.nk-ribbon-on{padding-top:0!important}
 }
+
+
+/* ---------- 面板改为顶栏抽屉 ---------- */
+#nk-fab{display:none!important}
+#nk-ribbon #nk-panel{position:static;display:none;width:auto;max-height:60vh;overflow-y:auto;
+  -webkit-overflow-scrolling:touch;border-radius:0;background:#fdfcf9;padding:4px 10px 10px;
+  box-shadow:inset 0 1px 0 #ece9e2, 0 10px 24px rgba(20,25,30,.10)}
+#nk-ribbon #nk-panel.nk-open{display:block}
+#nk-ribbon #nk-panel .nk-row{padding:9px 8px}
+#nk-ribbon #nk-panel .nk-input{background:#fff}
+.nk-dot{display:none;margin-left:2px;font-size:10px;font-weight:700;color:#fff;background:#d89055;
+  border-radius:8px;padding:1px 5px;vertical-align:top}
+#nk-ribbon .nk-rb-btn{display:inline-flex;align-items:center;gap:2px}
