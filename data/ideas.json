@@ -1,1 +1,99 @@
-{"version":1,"updated":"","days":[]}
+{
+ "version": 1,
+ "updated": "2026-10-02T16:21:14+08:00",
+ "days": [
+  {
+   "date": "2026-10-02",
+   "generated_at": "2026-10-02T16:21:14+08:00",
+   "ai": false,
+   "model": "",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "summary_zh": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 02 Oct 2026 08:16:53 GMT",
+     "collected_at": "2026-10-02 16:21"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "summary_zh": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 02 Oct 2026 08:16:32 GMT",
+     "collected_at": "2026-10-02 16:21"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+     "summary_zh": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+     "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 22:22:43 GMT",
+     "collected_at": "2026-10-02 16:21"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+     "summary_zh": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+     "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+     "collected_at": "2026-10-02 16:21"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+     "summary_zh": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 22:28:45 GMT",
+     "collected_at": "2026-10-02 16:21"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "'I was terrified': Alex Ferguson on brain haemorrhage and games that shaped his life",
+     "summary_zh": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "'I was terrified': Alex Ferguson on brain haemorrhage and games that shaped his life",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 02 Oct 2026 05:25:13 GMT",
+     "collected_at": "2026-10-02 16:21"
+    }
+   ]
+  }
+ ]
+}
