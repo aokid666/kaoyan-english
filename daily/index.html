@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>考研英语一 · 每日写作素材</title>
+<meta name="theme-color" content="#0c514e">
+<style>
+:root{
+  --ink:#1d2b2a; --dim:#6b807e; --line:#e2ebe9; --bg:#f4f8f7; --card:#fff;
+  --accent:#0c514e; --accent2:#12857e; --warm:#b8860b;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC",sans-serif}
+a{color:var(--accent2);text-decoration:none}
+.wrap{max-width:820px;margin:0 auto;padding:0 14px 90px}
+
+header{position:sticky;top:0;z-index:20;background:rgba(244,248,247,.92);
+  backdrop-filter:saturate(1.6) blur(12px);border-bottom:1px solid var(--line);padding:12px 0 0}
+h1{margin:0;font-size:18px;letter-spacing:.2px}
+h1 span{color:var(--accent2)}
+.meta{font-size:12.5px;color:var(--dim);margin:4px 0 10px}
+.meta b{color:var(--warm);font-weight:600}
+
+.chips{display:flex;gap:7px;overflow-x:auto;padding:0 0 10px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:#fff;color:var(--dim);
+  border-radius:999px;padding:5px 12px;font-size:13px;white-space:nowrap}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+
+.daybar{display:flex;gap:8px;align-items:center;margin:14px 0 4px}
+.daybar select{flex:1;font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);
+  border-radius:10px;background:#fff;color:var(--ink)}
+.nav-btn{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;font-size:14px;color:var(--accent2)}
+.nav-btn:disabled{opacity:.35}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+  padding:14px 15px;margin:11px 0;box-shadow:0 1px 2px rgba(12,81,78,.04)}
+.card .top{display:flex;gap:8px;align-items:center;margin-bottom:7px;flex-wrap:wrap}
+.tag{font-size:11.5px;padding:3px 9px;border-radius:999px;background:#e6f2f0;color:var(--accent)}
+.tag.t2{background:#fdf3e0;color:var(--warm)}
+.src{font-size:11.5px;color:var(--dim);margin-left:auto}
+.card h3{margin:0 0 6px;font-size:16.5px;line-height:1.45}
+.card p.sum{margin:0;font-size:14.5px;color:#33504e}
+.sec{margin-top:11px;padding-top:10px;border-top:1px dashed var(--line)}
+.sec .lb{font-size:12px;color:var(--dim);margin-bottom:5px;letter-spacing:.3px}
+.sec ul{margin:0;padding-left:17px}
+.sec li{font-size:14px;margin:3px 0}
+.kw{display:flex;gap:6px;flex-wrap:wrap}
+.kw span{font-size:12.5px;background:#eef5f4;color:#0c514e;border-radius:7px;padding:3px 9px;
+  font-family:ui-monospace,Menlo,monospace}
+.ev{font-size:13.5px;color:#4a6361}
+.ev li::marker{color:var(--accent2)}
+.foot{font-size:12.5px;color:var(--dim);margin-top:9px}
+.foot a{text-decoration:underline}
+
+.empty{text-align:center;color:var(--dim);padding:52px 16px;font-size:14.5px;line-height:1.9}
+.empty code{background:#e6f2f0;color:var(--accent);padding:2px 7px;border-radius:6px;font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>每日写作素材 · <span>考研英语一</span></h1>
+    <div class="meta" id="meta">正在加载…</div>
+    <div class="chips" id="chips"></div>
+  </header>
+  <div class="daybar" id="daybar" style="display:none">
+    <button class="nav-btn" id="prev">‹ 前一天</button>
+    <select id="daySel"></select>
+    <button class="nav-btn" id="next">后一天 ›</button>
+  </div>
+  <div id="list"></div>
+</div>
+
+<script>
+var DATA = null, curDay = 0, curTopic = '全部';
+var LIST = document.getElementById('list');
+var el = function (id) { return document.getElementById(id); };
+var esc = function (s) { return (s || '').replace(/[&<>"]/g, function (c) {
+  return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]; }); };
+
+fetch('../data/ideas.json?t=' + Date.now())
+  .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(function (d) { DATA = d; boot(); })
+  .catch(function (e) {
+    el('meta').textContent = '数据还没生成';
+    LIST.innerHTML = '<div class="empty">读取失败：' + esc(e.message) +
+      '<br><br>第一次运行后这里就会有内容。<br>' +
+      '去仓库 <code>Actions → 每日写作素材 → Run workflow</code> 手动跑一次即可。</div>';
+  });
+
+function boot() {
+  var days = DATA.days || [];
+  if (!days.length) {
+    el('meta').textContent = '素材库为空';
+    LIST.innerHTML = '<div class="empty">还没有任何素材。<br>去仓库 <code>Actions</code> 手动跑一次。</div>';
+    return;
+  }
+  var ai = days[0].ai;
+  el('meta').innerHTML = '共 <b>' + days.length + '</b> 天素材 · 最近更新 ' +
+    esc((days[0].generated_at || '').replace('T', ' ').slice(0, 16)) +
+    ' · AI 提炼 ' + (ai ? ('已开启' + (days[0].model ? '（' + esc(days[0].model) + '）') : '') : '<b>未开启</b>（只收标题）');
+
+  var sel = el('daySel');
+  sel.innerHTML = days.map(function (d, i) {
+    return '<option value="' + i + '">' + esc(d.date) + '（' + d.count + ' 条）</option>';
+  }).join('');
+  sel.onchange = function () { curDay = +sel.value; render(); };
+  el('daybar').style.display = 'flex';
+  el('prev').onclick = function () { if (curDay < days.length - 1) { curDay++; sync(); } };
+  el('next').onclick = function () { if (curDay > 0) { curDay--; sync(); } };
+
+  var tops = ['全部'];
+  days.forEach(function (d) { d.items.forEach(function (it) {
+    if (it.topic && tops.indexOf(it.topic) < 0) tops.push(it.topic); }); });
+  el('chips').innerHTML = tops.map(function (t) {
+    return '<button class="chip" data-t="' + esc(t) + '">' + esc(t) + '</button>'; }).join('');
+  Array.prototype.forEach.call(el('chips').children, function (b) {
+    b.onclick = function () { curTopic = b.dataset.t; sync(); };
+  });
+  sync();
+}
+
+function sync() {
+  el('daySel').value = curDay;
+  el('prev').disabled = curDay >= DATA.days.length - 1;
+  el('next').disabled = curDay <= 0;
+  Array.prototype.forEach.call(el('chips').children, function (b) {
+    b.classList.toggle('on', b.dataset.t === curTopic); });
+  render();
+}
+
+function render() {
+  var d = DATA.days[curDay];
+  var items = d.items.filter(function (it) { return curTopic === '全部' || it.topic === curTopic; });
+  if (!items.length) { LIST.innerHTML = '<div class="empty">这一天没有「' + esc(curTopic) + '」的素材。</div>'; return; }
+  LIST.innerHTML = items.map(function (it) {
+    var h = '<div class="card"><div class="top">' +
+      '<span class="tag">' + esc(it.topic || '待分类') + '</span>' +
+      '<span class="tag t2">' + esc(it.essay_type || '通用') + '</span>' +
+      '<span class="src">' + esc(it.source || '') + '</span></div>' +
+      '<h3>' + esc(it.title_zh) + '</h3>';
+    if (it.summary_zh) h += '<p class="sum">' + esc(it.summary_zh) + '</p>';
+    if (it.angles && it.angles.length) h += '<div class="sec"><div class="lb">可以展开的观点</div><ul>' +
+      it.angles.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul></div>';
+    if (it.evidence && it.evidence.length) h += '<div class="sec"><div class="lb">可用论据</div><ul class="ev">' +
+      it.evidence.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul></div>';
+    if (it.keywords && it.keywords.length) h += '<div class="sec"><div class="lb">英文搭配</div><div class="kw">' +
+      it.keywords.map(function (k) { return '<span>' + esc(k) + '</span>'; }).join('') + '</div></div>';
+    h += '<div class="foot">原报道：' + (it.url
+      ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc((it.source_title || '链接').slice(0, 70)) + '</a>'
+      : '—') + (it.collected_at ? ' · ' + esc(it.collected_at) : '') + '</div></div>';
+    return h;
+  }).join('');
+}
+</script>
+</body>
+</html>
