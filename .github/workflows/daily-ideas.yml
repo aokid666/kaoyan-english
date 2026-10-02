@@ -1,0 +1,61 @@
+name: 每日写作素材
+
+# 每天北京时间 07:30 自动抓取 + AI 提炼，写进 data/ideas.json
+# 展示页：https://aokid666.github.io/kaoyan-english/daily/
+# 全程在 GitHub 服务器上跑，手机零流量。
+
+on:
+  schedule:
+    - cron: '30 23 * * *'      # UTC 23:30 = 北京时间 07:30
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: '收录几条'
+        required: false
+        default: '6'
+      force:
+        description: '当天已有记录也重跑（true/false）'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: daily-ideas
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 收集素材
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL || 'https://api.deepseek.com/v1' }}
+          AI_MODEL: ${{ vars.AI_MODEL || 'deepseek-chat' }}
+          MAX_ITEMS: ${{ inputs.max_items || '6' }}
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python3 scripts/collect.py --force
+          else
+            python3 scripts/collect.py
+          fi
+
+      - name: 提交并推送
+        run: |
+          set -e
+          git config user.name  github-actions
+          git config user.email actions@github.com
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -q -m "素材 $(TZ=Asia/Shanghai date +%F)"
+            git push
+          fi
