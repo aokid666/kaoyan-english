@@ -40,10 +40,8 @@ SOURCES = [
     ('ScienceDaily',      'https://www.sciencedaily.com/rss/all.xml'),
     ('The Conversation',  'https://theconversation.com/articles.atom'),
     ('WHO',               'https://www.who.int/rss-feeds/news-english.xml'),
-    ('Nature',            'https://www.nature.com/nature.rss'),
     ('Phys.org',          'https://phys.org/rss-feed/'),
-    ('China Daily',       'https://www.chinadaily.com.cn/rss/china_rss.xml'),
-    ('China Daily 世界',   'https://www.chinadaily.com.cn/rss/world_rss.xml'),
+    ('Scientific American', 'https://www.scientificamerican.com/feed/'),
 ]
 
 
