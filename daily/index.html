@@ -101,7 +101,7 @@ function boot() {
   var ai = days[0].ai;
   el('meta').innerHTML = '共 <b>' + days.length + '</b> 天素材 · 最近更新 ' +
     esc((days[0].generated_at || '').replace('T', ' ').slice(0, 16)) +
-    ' · AI 提炼 ' + (ai ? ('已开启' + (days[0].model ? '（' + esc(days[0].model) + '）') : '') : '<b>未开启</b>（只收标题）');
+    ' · AI 提炼 ' + (ai ? ('已开启' + (days[0].model ? '（' + esc(days[0].model) + '）' : '')) : '<b>未开启</b>（只收标题）');
 
   var sel = el('daySel');
   sel.innerHTML = days.map(function (d, i) {
