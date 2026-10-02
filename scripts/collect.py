@@ -39,8 +39,11 @@ SOURCES = [
     ('NPR',               'https://feeds.npr.org/1001/rss.xml'),
     ('ScienceDaily',      'https://www.sciencedaily.com/rss/all.xml'),
     ('The Conversation',  'https://theconversation.com/articles.atom'),
-    ('UN News',           'https://news.un.org/feed/subscribe/en/news/all/rss.xml'),
     ('WHO',               'https://www.who.int/rss-feeds/news-english.xml'),
+    ('Nature',            'https://www.nature.com/nature.rss'),
+    ('Phys.org',          'https://phys.org/rss-feed/'),
+    ('China Daily',       'https://www.chinadaily.com.cn/rss/china_rss.xml'),
+    ('China Daily 世界',   'https://www.chinadaily.com.cn/rss/world_rss.xml'),
 ]
 
 
@@ -201,13 +204,22 @@ def main():
         log('AI 提炼失败：%s' % str(e)[:200])
 
     if not items:
-        log('降级：只保存原始标题')
+        log('降级：按来源轮流取标题（避免全是同一家）')
+        by_src = {}
+        for it in uniq:
+            by_src.setdefault(it['source'], []).append(it)
+        picked, i = [], 0
+        while len(picked) < n and any(len(v) > i for v in by_src.values()):
+            for v in by_src.values():
+                if len(v) > i and len(picked) < n:
+                    picked.append(v[i])
+            i += 1
         items = [{
             'topic': '待分类', 'title_zh': it['title'], 'summary_zh': it['summary'][:160],
             'angles': [], 'evidence': [], 'keywords': [], 'essay_type': '通用',
             'source': it['source'], 'source_title': it['title'],
             'url': it['link'], 'published': it['published'],
-        } for it in uniq[:n]]
+        } for it in picked]
 
     for it in items:
         it['collected_at'] = datetime.now(CST).strftime('%Y-%m-%d %H:%M')
