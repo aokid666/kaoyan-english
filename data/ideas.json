@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-10-02T16:23:18+08:00",
+ "updated": "2026-10-03T10:12:45+08:00",
  "days": [
+  {
+   "date": "2026-10-03",
+   "generated_at": "2026-10-03T10:12:45+08:00",
+   "ai": false,
+   "model": "",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "Widdecombe suspect charged with planning terror act against Farage",
+     "summary_zh": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Widdecombe suspect charged with planning terror act against Farage",
+     "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+     "collected_at": "2026-10-03 10:12"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Employers should teach primary-age children about work, says Milburn",
+     "summary_zh": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC 教育",
+     "source_title": "Employers should teach primary-age children about work, says Milburn",
+     "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 07:07:08 GMT",
+     "collected_at": "2026-10-03 10:12"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+     "summary_zh": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ ori",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "The Guardian",
+     "source_title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+     "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+     "published": "Fri, 02 Oct 2026 08:55:42 GMT",
+     "collected_at": "2026-10-03 10:12"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
+     "summary_zh": "Patrick McCabe’s herculean feat shows limits and possibilities of special educational needs and disabilities system Patrick McCabe is instantly recognisable in ",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 教育",
+     "source_title": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
+     "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+     "published": "Fri, 02 Oct 2026 17:18:06 GMT",
+     "collected_at": "2026-10-03 10:12"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Recent lobbyist for Palantir had key role in helping Andy Burnham become PM",
+     "summary_zh": "Exclusive: Martha Dalton worked closely with Burnham’s team on byelection that secured his return to parliament A recent lobbyist for the controversial $450bn U",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 科技",
+     "source_title": "Recent lobbyist for Palantir had key role in helping Andy Burnham become PM",
+     "url": "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham",
+     "published": "Fri, 02 Oct 2026 08:47:47 GMT",
+     "collected_at": "2026-10-03 10:12"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+     "summary_zh": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisis States and cities sued the Trump administration on Thur",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 环境",
+     "source_title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+     "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+     "published": "Thu, 01 Oct 2026 22:24:25 GMT",
+     "collected_at": "2026-10-03 10:12"
+    }
+   ]
+  },
   {
    "date": "2026-10-02",
    "generated_at": "2026-10-02T16:23:18+08:00",
