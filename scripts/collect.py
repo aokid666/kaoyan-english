@@ -100,13 +100,13 @@ PROMPT = """你是考研英语一写作素材编辑。下面是从外媒刚抓�
 - topic：七类之一
 - title_zh：中文标题，不超过 20 字
 - summary_zh：2 句话讲清「现象是什么」，具体、不要口号
-- angles：1—2 个可展开的中文观点，各 25 字内，要带因果或条件（例：因为…所以…／前提是…）
-- evidence：可直接引用的论据列表（数字、机构、年份、研究结论），没有就给空数组
-- keywords：3—5 个英文高频搭配（名词短语或动名词短语）
+- angles：数组，1—2 个字符串，每个是一句可展开的中文观点（25 字内），要带因果或条件（例：因为…所以…／前提是…）
+- evidence：字符串数组，可直接引用的论据（数字、机构、年份、研究结论），没有就给空数组
+- keywords：字符串数组，3—5 个英文高频搭配（名词短语或动名词短语）
 - essay_type：大作文 / 小作文 / 通用
 
 要求：优先选有具体数据、社会现象、教育/科技/环境/就业类的报道；避开纯政治、灾难、绯闻、体育比分。
-只输出 JSON，格式：{{"items":[{{...}}]}}
+所有数组字段必须是 JSON 数组（字符串列表），不要写成一句话。只输出 JSON，格式：{{"items":[{{...}}]}}
 
 候选报道：
 {listing}
@@ -143,12 +143,12 @@ def ai_enrich(items, n):
         tp = x.get('topic') if x.get('topic') in TOPICS else '待分类'
         out.append({
             'topic': tp,
-            'title_zh': (x.get('title_zh') or src.get('title', ''))[:60],
-            'summary_zh': x.get('summary_zh', ''),
-            'angles': x.get('angles', [])[:2],
-            'evidence': x.get('evidence', [])[:5],
-            'keywords': x.get('keywords', [])[:6],
-            'essay_type': x.get('essay_type', '通用'),
+            'title_zh': as_str(x.get('title_zh') or src.get('title', ''), 60),
+            'summary_zh': as_str(x.get('summary_zh'), 300),
+            'angles': as_list(x.get('angles'), 2),
+            'evidence': as_list(x.get('evidence'), 5),
+            'keywords': as_list(x.get('keywords'), 6),
+            'essay_type': as_str(x.get('essay_type') or '通用', 12),
             'source': src.get('source', ''),
             'source_title': src.get('title', ''),
             'url': src.get('link', ''),
@@ -156,6 +156,38 @@ def ai_enrich(items, n):
         })
     log('AI 提炼出 %d 条' % len(out))
     return out
+
+
+
+def as_str(v, maxlen=200):
+    """模型有时返回数字/嵌套对象，统一转成安全的短字符串"""
+    if v is None:
+        return ''
+    if isinstance(v, str):
+        return v.strip()[:maxlen]
+    if isinstance(v, (int, float, bool)):
+        return str(v)[:maxlen]
+    try:
+        return json.dumps(v, ensure_ascii=False)[:maxlen]
+    except Exception:
+        return str(v)[:maxlen]
+
+
+def as_list(v, maxn=6):
+    """模型常把数组写成字符串（甚至一个词一个字），这里统一成字符串列表"""
+    if v is None:
+        return []
+    if isinstance(v, str):
+        parts = re.split(r'[\n;；]|(?<=[。！？])', v)
+        v = [p.strip(' -·•*\t') for p in parts]
+    elif not isinstance(v, list):
+        v = [v]
+    out = []
+    for x in v:
+        s = as_str(x)
+        if s:
+            out.append(s)
+    return out[:maxn]
 
 
 def load_data():
