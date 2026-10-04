@@ -1,145 +1,157 @@
 {
  "version": 1,
- "updated": "2026-10-04T09:23:08+08:00",
+ "updated": "2026-10-04T09:24:52+08:00",
  "days": [
   {
    "date": "2026-10-04",
-   "generated_at": "2026-10-04T09:23:08+08:00",
+   "generated_at": "2026-10-04T09:24:52+08:00",
    "ai": true,
    "model": "glm-4-flash",
    "count": 6,
    "items": [
     {
      "topic": "就业与能力发展",
-     "title_zh": "儿童保育政策改革",
-     "summary_zh": "英国保守党承诺取消10万英镑的儿童保育悬崖政策，以避免工作更努力的人受到惩罚。",
-     "angles": "因为",
+     "title_zh": "托儿费用悬崖问题",
+     "summary_zh": "英国保守党承诺取消10万英镑的托儿费用悬崖政策，以避免工作更努力的人受到惩罚。",
+     "angles": [
+      "因为取消托儿费用悬崖，所以鼓励人们更加努力工作"
+     ],
      "evidence": [
-      1
+      "BBC News"
      ],
      "keywords": [
       "childcare",
-      "policy",
-      "reform",
-      "family",
-      "burden"
+      "cliff edge",
+      "conservative party",
+      "incentive",
+      "work harder"
      ],
      "essay_type": "大作文",
      "source": "BBC News",
      "source_title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
      "published": "Sat, 03 Oct 2026 21:03:22 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "collected_at": "2026-10-04 09:24"
     },
     {
      "topic": "文化与社会参与",
      "title_zh": "西班牙住房危机抗议",
-     "summary_zh": "西班牙因政府未能通过紧急立法，成千上万的人走上街头抗议住房危机。",
-     "angles": "因为",
+     "summary_zh": "西班牙因政府未能通过紧急立法，爆发了数万人的住房危机抗议活动。",
+     "angles": [
+      "因为住房危机，所以社会参与度提高"
+     ],
      "evidence": [
-      3
+      "BBC News"
      ],
      "keywords": [
-      "housing",
-      "crisis",
+      "housing crisis",
       "protest",
-      "government",
-      "legislation"
+      "social participation",
+      "Spain",
+      "government legislation"
      ],
      "essay_type": "大作文",
      "source": "BBC News",
      "source_title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
      "published": "Sat, 03 Oct 2026 13:34:11 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "collected_at": "2026-10-04 09:24"
     },
     {
      "topic": "个人成长与学习",
-     "title_zh": "极限马拉松挑战",
-     "summary_zh": "Sir Kevin Sinfield完成了一周七场极限马拉松的挑战。",
-     "angles": "因为",
+     "title_zh": "一周七次超级马拉松挑战",
+     "summary_zh": "Sir Kevin Sinfield完成了一周七次超级马拉松的挑战，展现了非凡的毅力和决心。",
+     "angles": [
+      "因为坚持锻炼，所以能够完成极限挑战"
+     ],
      "evidence": [
-      12
+      "BBC News"
      ],
      "keywords": [
       "ultramarathon",
       "challenge",
+      "determination",
       "fitness",
-      "perseverance",
-      "success"
+      "endurance"
      ],
      "essay_type": "大作文",
      "source": "BBC News",
      "source_title": "Sinfield completes fundraising challenge of seven ultramarathons in a week",
      "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
      "published": "Sat, 03 Oct 2026 17:38:56 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "collected_at": "2026-10-04 09:24"
     },
     {
      "topic": "公共服务与生活质量",
-     "title_zh": "首次购房储蓄建议",
-     "summary_zh": "提供四种储蓄方式，帮助人们积累首付。",
-     "angles": "因为",
+     "title_zh": "如何存钱买第一套房子",
+     "summary_zh": "文章提供了四种存钱方式，帮助人们积累足够的首付来购买第一套房子。",
+     "angles": [
+      "因为提供存钱策略，所以有助于提高生活质量"
+     ],
      "evidence": [
-      16
+      "BBC News"
      ],
      "keywords": [
-      "homeownership",
+      "home ownership",
       "savings",
-      "planning",
       "deposit",
-      "housing"
+      "quality of life",
+      "financial planning"
      ],
      "essay_type": "大作文",
      "source": "BBC News",
      "source_title": "You need £17,000 for a first home - here's how to save it",
      "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
      "published": "Mon, 28 Sep 2026 08:21:54 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "collected_at": "2026-10-04 09:24"
     },
     {
      "topic": "环境与健康生活",
-     "title_zh": "救助被遗弃的狗",
-     "summary_zh": "一只被遗弃的狗被救助并重新安置。",
-     "angles": "因为",
+     "title_zh": "从有83只狗的房屋中救出的狗的新生活",
+     "summary_zh": "RSPCA调查后，从有83只狗的房屋中救出的狗得到了重新安置。",
+     "angles": [
+      "因为动物保护，所以改善了动物的生活质量"
+     ],
      "evidence": [
-      17
+      "BBC News"
      ],
      "keywords": [
-      "animal",
-      "rescue",
-      "rehome",
-      "compassion",
-      "animal welfare"
+      "animal rescue",
+      "RSPCA",
+      "quality of life",
+      "animal welfare",
+      "rehoming"
      ],
      "essay_type": "大作文",
      "source": "BBC News",
      "source_title": "New life for dog rescued from house with 83 others",
      "url": "https://www.bbc.co.uk/news/articles/cv1j4jw3369lo?at_medium=RSS&at_campaign=rss",
      "published": "Thu, 01 Oct 2026 14:19:14 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "collected_at": "2026-10-04 09:24"
     },
     {
-     "topic": "科技与日常使用",
-     "title_zh": "WhatsApp引入青少年家长控制",
-     "summary_zh": "WhatsApp为青少年账户引入可选的家长控制功能。",
-     "angles": "因为",
+     "topic": "个人成长与学习",
+     "title_zh": "雇主应教育小学生了解工作",
+     "summary_zh": "一份关于英国青年活动的重大报告的作者表示，四岁的孩子应该开始学习关于职业的知识。",
+     "angles": [
+      "因为早期教育，所以有助于孩子的未来职业发展"
+     ],
      "evidence": [
-      28
+      "BBC News"
      ],
      "keywords": [
-      "WhatsApp",
-      "parental controls",
-      "privacy",
-      "technology",
-      "youth"
+      "early education",
+      "career awareness",
+      "primary school",
+      "youth activity",
+      "future development"
      ],
      "essay_type": "大作文",
      "source": "BBC 教育",
-     "source_title": "WhatsApp introduces optional parental controls for teenagers",
-     "url": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
-     "published": "Wed, 30 Sep 2026 13:01:30 GMT",
-     "collected_at": "2026-10-04 09:23"
+     "source_title": "Employers should teach primary-age children about work, says Milburn",
+     "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 07:07:08 GMT",
+     "collected_at": "2026-10-04 09:24"
     }
    ]
   },
