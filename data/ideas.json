@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-10-03T10:12:45+08:00",
+ "updated": "2026-10-04T09:23:08+08:00",
  "days": [
+  {
+   "date": "2026-10-04",
+   "generated_at": "2026-10-04T09:23:08+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "儿童保育政策改革",
+     "summary_zh": "英国保守党承诺取消10万英镑的儿童保育悬崖政策，以避免工作更努力的人受到惩罚。",
+     "angles": "因为",
+     "evidence": [
+      1
+     ],
+     "keywords": [
+      "childcare",
+      "policy",
+      "reform",
+      "family",
+      "burden"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+     "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+     "collected_at": "2026-10-04 09:23"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "西班牙住房危机抗议",
+     "summary_zh": "西班牙因政府未能通过紧急立法，成千上万的人走上街头抗议住房危机。",
+     "angles": "因为",
+     "evidence": [
+      3
+     ],
+     "keywords": [
+      "housing",
+      "crisis",
+      "protest",
+      "government",
+      "legislation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 03 Oct 2026 13:34:11 GMT",
+     "collected_at": "2026-10-04 09:23"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "极限马拉松挑战",
+     "summary_zh": "Sir Kevin Sinfield完成了一周七场极限马拉松的挑战。",
+     "angles": "因为",
+     "evidence": [
+      12
+     ],
+     "keywords": [
+      "ultramarathon",
+      "challenge",
+      "fitness",
+      "perseverance",
+      "success"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Sinfield completes fundraising challenge of seven ultramarathons in a week",
+     "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 03 Oct 2026 17:38:56 GMT",
+     "collected_at": "2026-10-04 09:23"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "首次购房储蓄建议",
+     "summary_zh": "提供四种储蓄方式，帮助人们积累首付。",
+     "angles": "因为",
+     "evidence": [
+      16
+     ],
+     "keywords": [
+      "homeownership",
+      "savings",
+      "planning",
+      "deposit",
+      "housing"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "You need £17,000 for a first home - here's how to save it",
+     "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 28 Sep 2026 08:21:54 GMT",
+     "collected_at": "2026-10-04 09:23"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "救助被遗弃的狗",
+     "summary_zh": "一只被遗弃的狗被救助并重新安置。",
+     "angles": "因为",
+     "evidence": [
+      17
+     ],
+     "keywords": [
+      "animal",
+      "rescue",
+      "rehome",
+      "compassion",
+      "animal welfare"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "New life for dog rescued from house with 83 others",
+     "url": "https://www.bbc.co.uk/news/articles/cv1j4jw3369lo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 14:19:14 GMT",
+     "collected_at": "2026-10-04 09:23"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "WhatsApp引入青少年家长控制",
+     "summary_zh": "WhatsApp为青少年账户引入可选的家长控制功能。",
+     "angles": "因为",
+     "evidence": [
+      28
+     ],
+     "keywords": [
+      "WhatsApp",
+      "parental controls",
+      "privacy",
+      "technology",
+      "youth"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "WhatsApp introduces optional parental controls for teenagers",
+     "url": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 30 Sep 2026 13:01:30 GMT",
+     "collected_at": "2026-10-04 09:23"
+    }
+   ]
+  },
   {
    "date": "2026-10-03",
    "generated_at": "2026-10-03T10:12:45+08:00",
