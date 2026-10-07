@@ -1,7 +1,154 @@
 {
  "version": 1,
- "updated": "2026-10-06T11:12:54+08:00",
+ "updated": "2026-10-07T10:36:08+08:00",
  "days": [
+  {
+   "date": "2026-10-07",
+   "generated_at": "2026-10-07T10:36:08+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "死刑犯奇迹生还",
+     "summary_zh": "美国一名死刑犯在执行失败后奇迹生还，引发对死刑执行程序的讨论。",
+     "angles": [
+      "因为执行失败，所以死刑程序需重新审视"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "capital punishment",
+      "execution",
+      "miracle survival",
+      "legal procedure"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 07 Oct 2026 00:56:59 GMT",
+     "collected_at": "2026-10-07 10:36"
+    },
+    {
+     "topic": "人际与家庭",
+     "title_zh": "假同性恋避难案件",
+     "summary_zh": "英国警方逮捕了涉嫌帮助移民伪造同性恋身份以获得避难的人。",
+     "angles": [
+      "因为伪造身份，所以避难政策需加强审查"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "asylum",
+      "fabricated evidence",
+      "immigration",
+      "fraud"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 19:25:08 GMT",
+     "collected_at": "2026-10-07 10:36"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "法国学生抗议事件",
+     "summary_zh": "法国巴黎和马赛爆发学生抗议，要求增加学校资源并结束警方镇压。",
+     "angles": [
+      "因为教育资源不足，所以学生抗议要求改革"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "student protest",
+      "school resources",
+      "police repression",
+      "social reform"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Tear gas in Paris and Marseille as school protests grow across France",
+     "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 18:03:19 GMT",
+     "collected_at": "2026-10-07 10:36"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Asos数据泄露事件",
+     "summary_zh": "Asos公司遭受黑客攻击，提醒人们关注网络安全。",
+     "angles": [
+      "因为数据泄露，所以个人需加强网络安全意识"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "cyber attack",
+      "data breach",
+      "online security",
+      "customer information"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "What can I do to protect myself after 'Asos hacked' message?",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 19:17:23 GMT",
+     "collected_at": "2026-10-07 10:36"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "新电动汽车发布",
+     "summary_zh": "Jaguar推出新电动汽车，标志着汽车行业的转变。",
+     "angles": [
+      "因为电动汽车的推出，所以环保意识需加强"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "electric car",
+      "environmental protection",
+      "automotive industry",
+      "sustainability"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+     "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 07 Oct 2026 01:59:24 GMT",
+     "collected_at": "2026-10-07 10:36"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "华纳兄弟与华纳传媒合并",
+     "summary_zh": "华纳兄弟与华纳传媒的合并可能影响娱乐和新闻行业。",
+     "angles": [
+      "因为行业合并，所以消费者可能面临价格上涨"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "media merger",
+      "entertainment industry",
+      "consumer prices",
+      "market competition"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "From films to streaming prices - how the Warner Bros deal could affect you",
+     "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 18:42:58 GMT",
+     "collected_at": "2026-10-07 10:36"
+    }
+   ]
+  },
   {
    "date": "2026-10-06",
    "generated_at": "2026-10-06T11:12:54+08:00",
