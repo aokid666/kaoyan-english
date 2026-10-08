@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-10-07T10:36:08+08:00",
+ "updated": "2026-10-08T10:50:13+08:00",
  "days": [
+  {
+   "date": "2026-10-08",
+   "generated_at": "2026-10-08T10:50:13+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "驱逐抗议者事件",
+     "summary_zh": "一名87岁的西班牙养老金领取者在被驱逐后去世，引发了全国范围内的抗议。",
+     "angles": [
+      "因为驱逐导致社会不满，所以需要改善公共服务体系"
+     ],
+     "evidence": [
+      "87",
+      "全国性抗议"
+     ],
+     "keywords": [
+      "eviction",
+      "protest",
+      "public service",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 00:09:17 GMT",
+     "collected_at": "2026-10-08 10:50"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "旅游行程变更",
+     "summary_zh": "游客在花费数千英镑预订河轮游后，却被告知行程将改为乘坐长途汽车。",
+     "angles": [
+      "因为旅游公司成本控制，所以改变行程以降低成本"
+     ],
+     "evidence": [
+      "thousands",
+      "river cruise",
+      "coach trips"
+     ],
+     "keywords": [
+      "travel",
+      "itinerary",
+      "cost control",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+     "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 07 Oct 2026 23:05:17 GMT",
+     "collected_at": "2026-10-08 10:50"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI芯片推动利润增长",
+     "summary_zh": "三星因AI芯片的繁荣而创下80亿美元的利润记录。",
+     "angles": [
+      "因为技术创新，所以企业利润增长"
+     ],
+     "evidence": [
+      "$80bn",
+      "AI chip",
+      "Samsung"
+     ],
+     "keywords": [
+      "technology",
+      "profit",
+      "AI",
+      "innovation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "AI chip boom pushes Samsung profits to record $80bn",
+     "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 01:59:54 GMT",
+     "collected_at": "2026-10-08 10:50"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "阻止企业离开英国",
+     "summary_zh": "伦敦证券交易所负责人表示，需要更多激励措施来吸引大型企业投资英国。",
+     "angles": [
+      "因为企业外流，所以需要提升就业吸引力"
+     ],
+     "evidence": [
+      "firms",
+      "UK",
+      "investment"
+     ],
+     "keywords": [
+      "employment",
+      "attraction",
+      "investment",
+      "UK"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+     "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 07 Oct 2026 23:00:55 GMT",
+     "collected_at": "2026-10-08 10:50"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "有毒烟雾影响新加坡地标",
+     "summary_zh": "印度尼西亚严重的森林火灾季节导致东南亚国家，包括新加坡，的标志性建筑消失。",
+     "angles": [
+      "因为环境问题，所以需要加强环境保护措施"
+     ],
+     "evidence": [
+      "wildfire",
+      "Southeast Asia",
+      "landmarks"
+     ],
+     "keywords": [
+      "environment",
+      "smoke",
+      "health",
+      "protection"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "How toxic haze is causing Singapore’s landmarks to disappear",
+     "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 07 Oct 2026 22:10:20 GMT",
+     "collected_at": "2026-10-08 10:50"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Instagram新功能调查",
+     "summary_zh": "英国通信管理局调查Meta公司推出的Instagram Instants功能，称其未充分评估风险。",
+     "angles": [
+      "因为忽视风险，所以需要加强监管"
+     ],
+     "evidence": [
+      "Instagram",
+      "Instants",
+      "risk assessment"
+     ],
+     "keywords": [
+      "technology",
+      "regulation",
+      "risk",
+      "social media"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom investigates Meta over Instagram Instants feature",
+     "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 09:04:02 GMT",
+     "collected_at": "2026-10-08 10:50"
+    }
+   ]
+  },
   {
    "date": "2026-10-07",
    "generated_at": "2026-10-07T10:36:08+08:00",
