@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-10-08T10:50:13+08:00",
+ "updated": "2026-10-09T11:01:52+08:00",
  "days": [
+  {
+   "date": "2026-10-09",
+   "generated_at": "2026-10-09T11:01:52+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "ADHD与自闭症诊断风险",
+     "summary_zh": "政府审查警告社会从误诊时代转向过度诊断时代。",
+     "angles": [
+      "因为过度诊断，所以可能导致资源分配不均。",
+      "前提是准确诊断，才能有效治疗。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "ADHD",
+      "autism",
+      "diagnosis",
+      "over-diagnosis",
+      "resource allocation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "ADHD and autism at risk of over-diagnosis, says government review",
+     "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 23:01:30 GMT",
+     "collected_at": "2026-10-09 11:01"
+    },
+    {
+     "topic": "人际与家庭",
+     "title_zh": "恋爱中的薪酬透明度",
+     "summary_zh": "探讨在恋爱关系中何时透露薪酬的问题。",
+     "angles": [
+      "因为薪酬差异可能导致关系紧张，所以透明度很重要。",
+      "前提是双方都愿意讨论财务问题。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "relationship",
+      "salary",
+      "transparency",
+      "financial discussion",
+      "communication"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+     "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 23:01:16 GMT",
+     "collected_at": "2026-10-09 11:01"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "ADHD与自闭症诊断与法律斗争",
+     "summary_zh": "政府审查和警察调查成为头条新闻。",
+     "angles": [
+      "因为准确诊断对个人和社会都重要，所以需要严格审查。",
+      "前提是法律斗争有助于提高诊断标准。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "ADHD",
+      "autism",
+      "diagnosis",
+      "legal battle",
+      "standard"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Stark warning' over ADHD and 'Andrew wins legal fight'",
+     "url": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 00:30:18 GMT",
+     "collected_at": "2026-10-09 11:01"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Asos数据泄露",
+     "summary_zh": "零售商更新了数据泄露的详细信息。",
+     "angles": [
+      "因为数据泄露可能导致个人信息泄露，所以加强网络安全至关重要。",
+      "前提是消费者需要提高警惕。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "data breach",
+      "cybersecurity",
+      "personal information",
+      "consumer awareness",
+      "retailer"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Asos hackers took more personal details than first revealed, BBC finds",
+     "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 16:29:33 GMT",
+     "collected_at": "2026-10-09 11:01"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "过敏管理的重要性",
+     "summary_zh": "12岁女孩的死亡引发了对过敏管理的关注。",
+     "angles": [
+      "因为过敏管理不善可能导致严重后果，所以需要加强教育。",
+      "前提是提高公众对过敏的认识。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "allergy management",
+      "health",
+      "education",
+      "public awareness",
+      "consequences"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Death of 12-year-old girl prompts call for allergy management ratings",
+     "url": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 16:07:54 GMT",
+     "collected_at": "2026-10-09 11:01"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Meta的Instagram Instants功能调查",
+     "summary_zh": "监管机构调查Instagram Instants功能的风险。",
+     "angles": [
+      "因为功能风险可能导致隐私问题，所以监管至关重要。",
+      "前提是用户需要了解潜在风险。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "Instagram",
+      "Meta",
+      "regulation",
+      "privacy",
+      "user awareness",
+      "risk"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom investigates Meta over Instagram Instants feature",
+     "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 09:04:02 GMT",
+     "collected_at": "2026-10-09 11:01"
+    }
+   ]
+  },
   {
    "date": "2026-10-08",
    "generated_at": "2026-10-08T10:50:13+08:00",
