@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-10-09T11:01:52+08:00",
+ "updated": "2026-10-10T10:34:05+08:00",
  "days": [
+  {
+   "date": "2026-10-10",
+   "generated_at": "2026-10-10T10:34:05+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "学校检查压力",
+     "summary_zh": "Ofsted面临停止对英格兰学校进行分级检查的新呼吁，教师工会对成员的福祉和士气表示越来越担忧。",
+     "angles": [
+      "因为学校检查压力大，所以教师工会呼吁停止分级检查。",
+      "前提是学校检查压力减轻，教师的福祉和士气才能得到改善。"
+     ],
+     "evidence": [
+      "Ofsted",
+      "英格兰"
+     ],
+     "keywords": [
+      "school inspections",
+      "Ofsted",
+      "teacher welfare",
+      "morale"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofsted faces fresh calls to halt graded school inspections in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 14:01:41 GMT",
+     "collected_at": "2026-10-10 10:34"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "幼儿如厕训练计划",
+     "summary_zh": "政府计划将如厕训练计划扩展到更多地区，希望到2028年有75%的孩子在上学第一年结束时达到良好的发展水平。",
+     "angles": [
+      "因为幼儿如厕训练计划有助于孩子发展，所以政府计划扩大其范围。",
+      "前提是幼儿如厕训练计划得到有效实施，孩子的早期发展水平才能提高。"
+     ],
+     "evidence": [
+      "75%",
+      "2028"
+     ],
+     "keywords": [
+      "potty training",
+      "child development",
+      "government plan",
+      "early childhood"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Potty training scheme to roll out to 20 more areas",
+     "url": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 05 Oct 2026 12:57:56 GMT",
+     "collected_at": "2026-10-10 10:34"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "工作教育的重要性",
+     "summary_zh": "一份关于英国青年活动的重大报告的作者表示，孩子们从四岁起就应该学习关于职业的知识。",
+     "angles": [
+      "因为工作教育有助于孩子们了解职业，所以应该尽早开始。",
+      "前提是孩子们从小接受工作教育，他们未来的职业选择才能更加明智。"
+     ],
+     "evidence": [
+      "four years old"
+     ],
+     "keywords": [
+      "work education",
+      "youth activity",
+      "career knowledge",
+      "early education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Employers should teach primary-age children about work, says Milburn",
+     "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 01 Oct 2026 07:07:08 GMT",
+     "collected_at": "2026-10-10 10:34"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "WhatsApp的家长控制功能",
+     "summary_zh": "WhatsApp推出可选的家长控制功能，让父母可以决定孩子的账户隐私设置。",
+     "angles": [
+      "因为家长控制功能有助于保护青少年，所以WhatsApp推出此功能。",
+      "前提是家长能够合理使用控制功能，青少年的网络安全才能得到保障。"
+     ],
+     "evidence": [
+      "parental controls",
+      "teenagers",
+      "account privacy"
+     ],
+     "keywords": [
+      "WhatsApp",
+      "parental controls",
+      "teenagers",
+      "account privacy"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "WhatsApp introduces optional parental controls for teenagers",
+     "url": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 30 Sep 2026 13:01:30 GMT",
+     "collected_at": "2026-10-10 10:34"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "大学反犹太主义上升",
+     "summary_zh": "慈善机构警告，大学中的反犹太主义事件比加沙战争开始前大幅增加。",
+     "angles": [
+      "因为反犹太主义事件增加，所以大学应该采取措施来应对。",
+      "前提是大学能够有效应对反犹太主义，校园文化才能更加多元和包容。"
+     ],
+     "evidence": [
+      "Community Security Trust",
+      "Gaza war"
+     ],
+     "keywords": [
+      "anti-Semitism",
+      "universities",
+      "incidents",
+      "campus culture"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Antisemitism on the rise at universities, charity warns",
+     "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 30 Sep 2026 00:36:22 GMT",
+     "collected_at": "2026-10-10 10:34"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "新职业GCSE科目",
+     "summary_zh": "新的GCSE科目可能包括儿童发展和建筑与施工等职业课程。",
+     "angles": [
+      "因为职业课程有助于学生适应未来就业市场，所以新的GCSE科目应包括职业课程。",
+      "前提是新职业GCSE科目能够得到有效实施，学生的就业能力才能得到提升。"
+     ],
+     "evidence": [
+      "child development",
+      "building and construction"
+     ],
+     "keywords": [
+      "GCSE subjects",
+      "vocational courses",
+      "employment skills",
+      "future job market"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Teenagers to be offered new vocational GCSE subjects in school",
+     "url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 24 Sep 2026 13:32:41 GMT",
+     "collected_at": "2026-10-10 10:34"
+    }
+   ]
+  },
   {
    "date": "2026-10-09",
    "generated_at": "2026-10-09T11:01:52+08:00",
