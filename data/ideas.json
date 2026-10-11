@@ -1,7 +1,177 @@
 {
  "version": 1,
- "updated": "2026-10-10T10:34:05+08:00",
+ "updated": "2026-10-11T10:03:56+08:00",
  "days": [
+  {
+   "date": "2026-10-11",
+   "generated_at": "2026-10-11T10:03:56+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "学生债务差异",
+     "summary_zh": "三位朋友在求学期间背负了不同的学生债务，展示了学生债务的多样性及其对个人财务状况的影响。",
+     "angles": [
+      "因为教育成本差异，所以学生债务存在显著差异。",
+      "前提是教育投资，所以学生债务成为个人发展的必要成本。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "student debt",
+      "education cost",
+      "financial burden",
+      "career development",
+      "personal finance"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+     "url": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 10 Oct 2026 23:17:03 GMT",
+     "collected_at": "2026-10-11 10:03"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "极端天气准备",
+     "summary_zh": "英国启动了应对极端冬季天气的洪水应对小组，预计约630万户家庭和企业面临洪水风险。",
+     "angles": [
+      "因为气候变化，所以极端天气事件增多，需要更好的应对措施。",
+      "前提是公共安全，所以必须提前准备以应对极端天气。"
+     ],
+     "evidence": [
+      "BBC News",
+      "6.3 million homes and businesses",
+      "Environment Agency"
+     ],
+     "keywords": [
+      "extreme weather",
+      "flood preparedness",
+      "public service",
+      "quality of life",
+      "climate change"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "UK launch flood taskforce to prepare for extreme winter weather",
+     "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 00:44:37 GMT",
+     "collected_at": "2026-10-11 10:03"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "极光现象",
+     "summary_zh": "北极光在英国南部海岸出现，这是由于太阳活动增加的自然现象。",
+     "angles": [
+      "因为太阳活动增加，所以北极光现象更加明显。",
+      "前提是科学观察，所以我们可以更好地理解自然现象。"
+     ],
+     "evidence": [
+      "BBC News",
+      "Aurora Borealis",
+      "increased solar activity"
+     ],
+     "keywords": [
+      "Aurora Borealis",
+      "solar activity",
+      "natural phenomenon",
+      "science observation",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Northern Lights stun UK down to England's south coast",
+     "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 10 Oct 2026 20:57:29 GMT",
+     "collected_at": "2026-10-11 10:03"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "抑郁症与双相情感障碍",
+     "summary_zh": "一位女性在经历了14年的抑郁症状后，被诊断出患有双相情感障碍，揭示了心理健康问题的复杂性。",
+     "angles": [
+      "因为误解症状，所以延误了正确诊断。",
+      "前提是心理健康教育，所以人们可以更好地识别和治疗心理健康问题。"
+     ],
+     "evidence": [
+      "BBC News",
+      "14 years",
+      "bipolar disorder"
+     ],
+     "keywords": [
+      "mental health",
+      "depression",
+      "diagnosis",
+      "health education",
+      "personal growth"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+     "url": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 10 Oct 2026 23:40:25 GMT",
+     "collected_at": "2026-10-11 10:03"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "缅甸士兵招募",
+     "summary_zh": "年轻男性害怕被街头绑架并卖给缅甸军队，反映了地区冲突对个人健康和生活的影响。",
+     "angles": [
+      "因为地区冲突，所以年轻男性面临健康和安全风险。",
+      "前提是和平环境，所以人们可以享受健康的生活。"
+     ],
+     "evidence": [
+      "BBC News",
+      "Myanmar's army",
+      "ethnic militias",
+      "civilian resistance"
+     ],
+     "keywords": [
+      "conflict",
+      "human rights",
+      "health risk",
+      "environmental impact",
+      "peace"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+     "collected_at": "2026-10-11 10:03"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "口音自信",
+     "summary_zh": "一位男子通过捐赠自己的布里斯托尔口音来获得自信，展示了个人身份和自信之间的关系。",
+     "angles": [
+      "因为口音与个人身份相关，所以改变口音可以影响自信。",
+      "前提是自我认同，所以个人可以通过改变来增强自信。"
+     ],
+     "evidence": [
+      "BBC News",
+      "Brummie accent",
+      "confidence"
+     ],
+     "keywords": [
+      "identity",
+      "confidence",
+      "personal branding",
+      "language",
+      "self-improvement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'My donated Brummie accent gives me confidence'",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6n25vlelqo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 08 Oct 2026 12:32:16 GMT",
+     "collected_at": "2026-10-11 10:03"
+    }
+   ]
+  },
   {
    "date": "2026-10-10",
    "generated_at": "2026-10-10T10:34:05+08:00",
