@@ -1,7 +1,160 @@
 {
  "version": 1,
- "updated": "2026-10-11T10:03:56+08:00",
+ "updated": "2026-10-12T10:34:47+08:00",
  "days": [
+  {
+   "date": "2026-10-12",
+   "generated_at": "2026-10-12T10:34:47+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "森林大火后的猩猩回归",
+     "summary_zh": "由于森林大火，猩猩的栖息地受到威胁，救援人员将它们转移到安全的地方。",
+     "angles": [
+      "因为森林大火，猩猩的栖息地受到破坏，所以需要将它们重新安置。",
+      "前提是猩猩的栖息地恢复，它们才能安全返回自然生活。"
+     ],
+     "evidence": [
+      "intense wildfires over the summer"
+     ],
+     "keywords": [
+      "wildfires",
+      "habitat",
+      "rescue",
+      "rehabilitation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Orangutans released back into Borneo forest after devastating fires",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 19:08:04 GMT",
+     "collected_at": "2026-10-12 10:34"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "儿童癌症症状识别",
+     "summary_zh": "尽管罕见，但癌症是英国15岁以下儿童的主要死因。",
+     "angles": [
+      "因为儿童癌症症状不明显，所以早期识别至关重要。",
+      "前提是家长和教育者了解癌症症状，才能及时发现。"
+     ],
+     "evidence": [
+      "leading cause of death from disease among children under 15"
+     ],
+     "keywords": [
+      "childhood cancer",
+      "symptom recognition",
+      "health awareness",
+      "early detection"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Could you spot cancer symptoms in children?",
+     "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 23:03:45 GMT",
+     "collected_at": "2026-10-12 10:34"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "人工智能监管不足",
+     "summary_zh": "微软总裁呼吁全球制定人工智能规则。",
+     "angles": [
+      "因为人工智能监管不足，所以需要全球规则来确保其安全使用。",
+      "前提是人工智能技术快速发展，监管必须跟上。"
+     ],
+     "evidence": [
+      "less regulated than milk"
+     ],
+     "keywords": [
+      "AI regulation",
+      "global rules",
+      "technology ethics",
+      "safety concerns"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "AI is less regulated than milk, says Microsoft president",
+     "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 23:07:35 GMT",
+     "collected_at": "2026-10-12 10:34"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "农场主面临成本上升",
+     "summary_zh": "许多支持特朗普的农场主面临成本上升的挑战。",
+     "angles": [
+      "因为成本上升，农场主面临财务压力，所以需要政府支持。",
+      "前提是政府采取措施降低成本，农场主才能维持生产。"
+     ],
+     "evidence": [
+      "soaring costs"
+     ],
+     "keywords": [
+      "farmers",
+      "cost increase",
+      "government support",
+      "economic challenges"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 23:13:51 GMT",
+     "collected_at": "2026-10-12 10:34"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "网络暴力导致波兰校园暴力事件",
+     "summary_zh": "波兰总理表示，网络暴力导致本周发生多起校园暴力事件。",
+     "angles": [
+      "因为网络暴力，青少年模仿暴力行为，所以需要加强网络监管。",
+      "前提是家长和教育者关注网络暴力问题，才能预防校园暴力。"
+     ],
+     "evidence": [
+      "online glorification of violence"
+     ],
+     "keywords": [
+      "online violence",
+      "school violence",
+      "parental supervision",
+      "prevention measures"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Poland stabbings driven by online glorification of violence, Tusk says",
+     "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 11 Oct 2026 15:18:52 GMT",
+     "collected_at": "2026-10-12 10:34"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "Ofsted面临暂停学校评级调查的呼吁",
+     "summary_zh": "Ofsted面临要求暂停学校评级调查的新呼吁。",
+     "angles": [
+      "因为学校评级调查对教师和学生的压力过大，所以需要暂停。",
+      "前提是调查方法需要改进，才能更好地评估学校质量。"
+     ],
+     "evidence": [
+      "fresh calls to halt graded school inspections"
+     ],
+     "keywords": [
+      "Ofsted",
+      "school inspections",
+      "teacher welfare",
+      "quality assessment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofsted faces fresh calls to halt graded school inspections in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 14:01:41 GMT",
+     "collected_at": "2026-10-12 10:34"
+    }
+   ]
+  },
   {
    "date": "2026-10-11",
    "generated_at": "2026-10-11T10:03:56+08:00",
