@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-10-12T10:34:47+08:00",
+ "updated": "2026-10-13T11:44:39+08:00",
  "days": [
+  {
+   "date": "2026-10-13",
+   "generated_at": "2026-10-13T11:44:39+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "囚犯提前释放计划",
+     "summary_zh": "英国政府启动第二阶段囚犯提前释放计划，包括服刑两年半以下的囚犯。",
+     "angles": [
+      "因为囚犯提前释放，所以有助于缓解监狱拥挤问题。",
+      "前提是囚犯表现良好，提前释放有助于其重返社会。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "prisoner",
+      "early release",
+      "criminal justice",
+      "rehabilitation",
+      "society"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+     "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 01:13:33 GMT",
+     "collected_at": "2026-10-13 11:44"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "铁路服务挑战",
+     "summary_zh": "公共铁路受到欢迎，但专家警告，满足旅客期望可能具有挑战性。",
+     "angles": [
+      "因为铁路服务效率低，所以需要改进管理。",
+      "前提是提高服务质量，才能吸引更多乘客。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "public transport",
+      "railway",
+      "service quality",
+      "passenger satisfaction",
+      "management"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Publicly owned rail is popular. But is it making the trains run on time?",
+     "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 12 Oct 2026 23:37:00 GMT",
+     "collected_at": "2026-10-13 11:44"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "政治人物安全保护",
+     "summary_zh": "政府扩大对非议员政治人物的安全保护。",
+     "angles": [
+      "因为政治人物面临安全风险，所以需要加强保护。",
+      "前提是保护措施到位，才能确保政治人物的安全。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "political figure",
+      "security protection",
+      "public life",
+      "government policy",
+      "safety"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Government expands police support to political figures who are not MPs",
+     "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 12 Oct 2026 19:51:34 GMT",
+     "collected_at": "2026-10-13 11:44"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "wig 业务的成功",
+     "summary_zh": "一位患有多发性硬化症的女性通过制作假发成功创业，并帮助其他女性。",
+     "angles": [
+      "因为个人努力，所以创业成功。",
+      "前提是关注他人需求，才能实现自我价值。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "entrepreneurship",
+      "hair loss",
+      "MS treatment",
+      "business success",
+      "helping others"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I lost my hair to MS treatment - now my wigs are worn by Naomi Campbell and Serena Williams",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 00:14:20 GMT",
+     "collected_at": "2026-10-13 11:44"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "社交媒体视频制作",
+     "summary_zh": "一位社交媒体“剪辑师”通过制作短视频赚取高收入。",
+     "angles": [
+      "因为短视频制作技能，所以能够赚取高收入。",
+      "前提是掌握市场需求，才能实现职业发展。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "social media",
+      "video production",
+      "income generation",
+      "market demand",
+      "career development"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I earn £120,000 a year making social media videos go viral",
+     "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 12 Oct 2026 23:01:45 GMT",
+     "collected_at": "2026-10-13 11:44"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "学校检查争议",
+     "summary_zh": "Ofsted面临停止对英格兰学校进行分级检查的新呼吁。",
+     "angles": [
+      "因为学校检查存在争议，所以需要重新评估。",
+      "前提是关注教师福祉，才能提高教育质量。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "school inspection",
+      "Ofsted",
+      "education quality",
+      "teacher welfare",
+      "policy review"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofsted faces fresh calls to halt graded school inspections in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 14:01:41 GMT",
+     "collected_at": "2026-10-13 11:44"
+    }
+   ]
+  },
   {
    "date": "2026-10-12",
    "generated_at": "2026-10-12T10:34:47+08:00",
