@@ -1,7 +1,173 @@
 {
  "version": 1,
- "updated": "2026-10-13T11:44:39+08:00",
+ "updated": "2026-10-14T10:04:21+08:00",
  "days": [
+  {
+   "date": "2026-10-14",
+   "generated_at": "2026-10-14T10:04:21+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "邮政工人流失",
+     "summary_zh": "英国皇家邮政每周流失400名邮政工人，原因是新投递系统的问题。",
+     "angles": [
+      "因为新系统问题，所以邮政工人流失",
+      "前提是新系统有效，才能减少工人流失"
+     ],
+     "evidence": [
+      "400"
+     ],
+     "keywords": [
+      "postal workers",
+      "loss",
+      "delivery system",
+      "quality of life",
+      "public service"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Royal Mail losing 400 postal workers a week, says union",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 23:03:59 GMT",
+     "collected_at": "2026-10-14 10:04"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "学生抗议",
+     "summary_zh": "法国学生抗议持续第四周，要求改变现状。",
+     "angles": [
+      "因为学生不满现状，所以持续抗议",
+      "前提是社会需要倾听学生声音，才能实现改变"
+     ],
+     "evidence": [
+      "fourth week"
+     ],
+     "keywords": [
+      "student protests",
+      "change",
+      "social participation",
+      "culture",
+      "society"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+     "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 18:23:22 GMT",
+     "collected_at": "2026-10-14 10:04"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "乌克兰管道爆炸",
+     "summary_zh": "德国对涉嫌破坏俄罗斯至德国天然气管道的乌克兰人进行审判。",
+     "angles": [
+      "因为管道破坏，所以影响环境与能源安全",
+      "前提是保护环境，才能保障生活质量"
+     ],
+     "evidence": [
+      "Nord Stream pipelines",
+      "Russia",
+      "Germany"
+     ],
+     "keywords": [
+      "environmental damage",
+      "energy security",
+      "health",
+      "Ukraine",
+      "Germany"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+     "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 23:42:22 GMT",
+     "collected_at": "2026-10-14 10:04"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "求职者使用AI",
+     "summary_zh": "研究发现，毕业生越来越多地使用AI在求职中自我美化。",
+     "angles": [
+      "因为AI的使用，所以求职者自我美化",
+      "前提是求职者需要适应技术变化，才能在就业市场中脱颖而出"
+     ],
+     "evidence": [
+      "graduates",
+      "job applications",
+      "AI"
+     ],
+     "keywords": [
+      "job seekers",
+      "AI",
+      "technology",
+      "job market",
+      "self-improvement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Is it OK for jobseekers or employers to use AI?",
+     "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 23:04:39 GMT",
+     "collected_at": "2026-10-14 10:04"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "减少课堂屏幕时间",
+     "summary_zh": "一组临床医生呼吁减少英国学校的屏幕时间，以避免长期健康问题。",
+     "angles": [
+      "因为屏幕时间过长，所以导致健康问题",
+      "前提是减少屏幕时间，才能保护学生视力健康"
+     ],
+     "evidence": [
+      "short-sightedness",
+      "English schools"
+     ],
+     "keywords": [
+      "screen time",
+      "health issues",
+      "environment",
+      "students",
+      "vision"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-14 10:04"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "新职业GCSE科目",
+     "summary_zh": "英国将推出新的职业GCSE科目，如儿童发展和建筑与施工。",
+     "angles": [
+      "因为职业教育的需求，所以引入新科目",
+      "前提是职业教育有助于学生未来发展"
+     ],
+     "evidence": [
+      "child development",
+      "building and construction",
+      "vocational education"
+     ],
+     "keywords": [
+      "vocational GCSE",
+      "education",
+      "personal growth",
+      "career development",
+      "subjects"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Teenagers to be offered new vocational GCSE subjects in school",
+     "url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 24 Sep 2026 13:32:41 GMT",
+     "collected_at": "2026-10-14 10:04"
+    }
+   ]
+  },
   {
    "date": "2026-10-13",
    "generated_at": "2026-10-13T11:44:39+08:00",
