@@ -1,7 +1,161 @@
 {
  "version": 1,
- "updated": "2026-10-14T10:04:21+08:00",
+ "updated": "2026-10-15T09:40:04+08:00",
  "days": [
+  {
+   "date": "2026-10-15",
+   "generated_at": "2026-10-15T09:40:04+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "机场行李寄存费审查",
+     "summary_zh": "英国政府审查机场行李寄存费，以保障旅行可负担性及乘客公平待遇。",
+     "angles": [
+      "因为机场行李寄存费上涨，所以政府审查以保障乘客权益。",
+      "前提是旅行可负担性，政府必须审查行李寄存费。"
+     ],
+     "evidence": [
+      "sharp increase"
+     ],
+     "keywords": [
+      "airport luggage fees",
+      "government review",
+      "travel affordability",
+      "passenger rights"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+     "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 14 Oct 2026 17:46:30 GMT",
+     "collected_at": "2026-10-15 09:40"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "威尔士学校标准危机",
+     "summary_zh": "威尔士学校在国际测试中表现不佳，新课程能否改善情况尚不明确。",
+     "angles": [
+      "因为威尔士学校标准低，所以需要新课程来提升教育质量。",
+      "前提是教育质量，新课程是必要的改革措施。"
+     ],
+     "evidence": [
+      "poor international test results"
+     ],
+     "keywords": [
+      "Wales education",
+      "school standards",
+      "curriculum reform",
+      "international testing"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Wales has a school standards crisis. Will plans to fix it actually work?",
+     "url": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 15 Oct 2026 00:01:46 GMT",
+     "collected_at": "2026-10-15 09:40"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "儿童蛋白粉使用争议",
+     "summary_zh": "专家讨论儿童和青少年使用蛋白粉的安全性。",
+     "angles": [
+      "因为儿童和青少年使用蛋白粉存在风险，所以需要专家评估。",
+      "前提是儿童健康，蛋白粉使用需谨慎。"
+     ],
+     "evidence": [
+      "experts' opinions"
+     ],
+     "keywords": [
+      "children's health",
+      "protein powder",
+      "safety concerns",
+      "expert assessment"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "I'm 12 and I want to try protein powder - should I?",
+     "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 15 Oct 2026 00:00:35 GMT",
+     "collected_at": "2026-10-15 09:40"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "澳大利亚尝试关闭算法",
+     "summary_zh": "澳大利亚议会提出新法案，强制大型科技公司允许用户关闭推荐内容算法。",
+     "angles": [
+      "因为算法推荐内容可能影响用户，所以需要用户选择关闭。",
+      "前提是用户隐私和选择权，关闭算法是必要的。"
+     ],
+     "evidence": [
+      "new legislation"
+     ],
+     "keywords": [
+      "algorithm",
+      "user privacy",
+      "choice",
+      "big tech"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "What if you could turn off your algorithm? Australia is about to try",
+     "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 14 Oct 2026 18:00:54 GMT",
+     "collected_at": "2026-10-15 09:40"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "美国通胀率上升",
+     "summary_zh": "美国通胀率上升至3.7%，主要受汽车燃料成本上涨推动。",
+     "angles": [
+      "因为通胀率上升，所以消费者面临更高的生活成本。",
+      "前提是经济稳定，通胀率控制是关键。"
+     ],
+     "evidence": [
+      "3.7% inflation rate",
+      "higher motor fuel costs"
+     ],
+     "keywords": [
+      "US inflation",
+      "cost of living",
+      "economic stability",
+      "inflation control"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "US inflation rises more than expected - here's what is happening with prices",
+     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 14 Oct 2026 15:26:14 GMT",
+     "collected_at": "2026-10-15 09:40"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "公务员伪造疾病以兼职",
+     "summary_zh": "公务员通过化妆伪造疾病，同时从事多个政府工作。",
+     "angles": [
+      "因为公务员伪造疾病，所以需要加强职业道德。",
+      "前提是职业道德，公务员应诚实工作。"
+     ],
+     "evidence": [
+      "fraudulent juggling of multiple jobs"
+     ],
+     "keywords": [
+      "civil servant",
+      "fraud",
+      "职业道德",
+      "government jobs"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+     "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 14 Oct 2026 11:57:22 GMT",
+     "collected_at": "2026-10-15 09:40"
+    }
+   ]
+  },
   {
    "date": "2026-10-14",
    "generated_at": "2026-10-14T10:04:21+08:00",
