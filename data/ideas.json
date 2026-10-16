@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-10-15T09:40:04+08:00",
+ "updated": "2026-10-16T09:34:58+08:00",
  "days": [
+  {
+   "date": "2026-10-16",
+   "generated_at": "2026-10-16T09:34:58+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+     "summary_zh": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+     "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+     "collected_at": "2026-10-16 09:34"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "summary_zh": "A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-16 09:34"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+     "summary_zh": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barrier",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "The Guardian",
+     "source_title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+     "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+     "published": "Thu, 15 Oct 2026 08:00:25 GMT",
+     "collected_at": "2026-10-16 09:34"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+     "summary_zh": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli adv",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 教育",
+     "source_title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+     "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+     "published": "Thu, 15 Oct 2026 12:15:22 GMT",
+     "collected_at": "2026-10-16 09:34"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "OpenAI’s London staff receive average of £2.3m per person annually",
+     "summary_zh": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each r",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 科技",
+     "source_title": "OpenAI’s London staff receive average of £2.3m per person annually",
+     "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+     "published": "Wed, 14 Oct 2026 19:15:14 GMT",
+     "collected_at": "2026-10-16 09:34"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+     "summary_zh": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decade Off the coast ",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 环境",
+     "source_title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+     "url": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
+     "published": "Tue, 13 Oct 2026 12:00:01 GMT",
+     "collected_at": "2026-10-16 09:34"
+    }
+   ]
+  },
   {
    "date": "2026-10-15",
    "generated_at": "2026-10-15T09:40:04+08:00",
