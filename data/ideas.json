@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-10-17T09:25:07+08:00",
+ "updated": "2026-10-18T09:23:05+08:00",
  "days": [
+  {
+   "date": "2026-10-18",
+   "generated_at": "2026-10-18T09:23:05+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "医院系统记录保护措施",
+     "summary_zh": "英国诺丁汉大学医院信托宣布，将引入新系统以保护患者记录。",
+     "angles": [
+      "因为新技术引入，所以患者记录将得到更好保护"
+     ],
+     "evidence": [
+      "NHS",
+      "Nottingham University Hospitals NHS Trust"
+     ],
+     "keywords": [
+      "hospital",
+      "record protection",
+      "technology",
+      "system"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "More NHS staff sacked over attacks victims' records",
+     "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+     "collected_at": "2026-10-18 09:23"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "成为祖父母辈的照顾者",
+     "summary_zh": "一位萨默塞特的老奶奶在女儿去世后成为孙辈的照顾者。",
+     "angles": [
+      "前提是家庭成员的支持，所以能够克服困难"
+     ],
+     "evidence": [
+      "Somerset",
+      "kinship carer"
+     ],
+     "keywords": [
+      "grandparent",
+      "caregiver",
+      "family support",
+      "difficulty"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Taking in my great-grandkids at 74 saved me'",
+     "url": "https://www.bbc.co.uk/news/articles/c5lyev4e2m9zo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 10 Oct 2026 06:11:22 GMT",
+     "collected_at": "2026-10-18 09:23"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "减少课堂屏幕时间以避免长期健康问题",
+     "summary_zh": "一组临床医生警告，英国学校的科技使用导致近视等健康问题增加。",
+     "angles": [
+      "因为过度使用科技，所以视力问题增加"
+     ],
+     "evidence": [
+      "English schools",
+      "short-sightedness",
+      "clinicians"
+     ],
+     "keywords": [
+      "screen time",
+      "health issues",
+      "technology use",
+      "school"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-18 09:23"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "社交媒体剪辑带来高收入",
+     "summary_zh": "社交媒体剪辑师通过制作短视频在Instagram和TikTok上获得高收入。",
+     "angles": [
+      "因为短视频的流行，所以剪辑师能够获得丰厚回报"
+     ],
+     "evidence": [
+      "social media",
+      "short videos",
+      "high income"
+     ],
+     "keywords": [
+      "social media",
+      "video editing",
+      "income",
+      "popularity"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The Sabrina Carpenter clip that helped a 22-year-old make £120,000 a year",
+     "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 15:12:38 GMT",
+     "collected_at": "2026-10-18 09:23"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "混血贵宾犬聚会重聚",
+     "summary_zh": "在诺福克的一处房产中，发现了250多只混血贵宾犬，其中包括8只被救养的。",
+     "angles": [
+      "因为动物保护工作，所以这些狗得到了救助"
+     ],
+     "evidence": [
+      "Norfolk",
+      "rescued dogs",
+      "poodle-cross breeds"
+     ],
+     "keywords": [
+      "animal rescue",
+      "dog",
+      "environment",
+      "health"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Poodle party reunites rescued dogs",
+     "url": "https://www.bbc.co.uk/news/videos/cm2kevzevp1lo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 11:17:19 GMT",
+     "collected_at": "2026-10-18 09:23"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "Ofsted面临暂停学校评级检查的呼吁",
+     "summary_zh": "第二家校长工会表示越来越担心成员的福利和士气。",
+     "angles": [
+      "因为教育压力，所以教师士气受到影响"
+     ],
+     "evidence": [
+      "Ofsted",
+      "head teachers' union",
+      "welfare",
+      "morale"
+     ],
+     "keywords": [
+      "school inspection",
+      "education pressure",
+      "teacher",
+      "welfare"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Ofsted faces fresh calls to halt graded school inspections in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 14:01:41 GMT",
+     "collected_at": "2026-10-18 09:23"
+    }
+   ]
+  },
   {
    "date": "2026-10-17",
    "generated_at": "2026-10-17T09:25:07+08:00",
