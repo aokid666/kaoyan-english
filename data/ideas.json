@@ -1,7 +1,169 @@
 {
  "version": 1,
- "updated": "2026-10-18T09:23:05+08:00",
+ "updated": "2026-10-19T09:31:17+08:00",
  "days": [
+  {
+   "date": "2026-10-19",
+   "generated_at": "2026-10-19T09:31:17+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "公共场合噪音罚款",
+     "summary_zh": "在英国，公共汽车上的大声音乐可能导致罚款，同时一项新的宣传活动也在火车上展开，呼吁乘客‘分享车厢，而非噪音’。",
+     "angles": [
+      "因为公共场合噪音影响他人，所以需要罚款来维护秩序。",
+      "前提是公共场合噪音问题严重，罚款才能起到震慑作用。"
+     ],
+     "evidence": [
+      "£100 fine"
+     ],
+     "keywords": [
+      "public disturbance",
+      "noise pollution",
+      "fine",
+      "public transport",
+      "campaign"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "People playing loud music on buses could face £100 fine",
+     "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 00:22:20 GMT",
+     "collected_at": "2026-10-19 09:31"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "房产降价现象",
+     "summary_zh": "据BBC报道，英国房产卖家每天减少3000套房产的标价，这是15年来的最低点。",
+     "angles": [
+      "因为经济压力，所以房产降价。",
+      "前提是房地产市场供大于求，降价是必然趋势。"
+     ],
+     "evidence": [
+      "3,000 properties a day",
+      "15 years"
+     ],
+     "keywords": [
+      "real estate",
+      "price reduction",
+      "market demand",
+      "economic pressure",
+      "housing market"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Home sellers cut asking prices on 3,000 properties a day",
+     "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 18 Oct 2026 23:00:45 GMT",
+     "collected_at": "2026-10-19 09:31"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "课堂屏幕时间减少",
+     "summary_zh": "一组临床医生呼吁减少英国学校的屏幕时间，以避免长期健康问题，如近视。",
+     "angles": [
+      "因为过度使用屏幕导致健康问题，所以需要减少屏幕时间。",
+      "前提是屏幕时间对儿童视力有害，减少是必要的。"
+     ],
+     "evidence": [
+      "short-sightedness"
+     ],
+     "keywords": [
+      "screen time",
+      "health issues",
+      "children",
+      "technology use",
+      "eye problems"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-19 09:31"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Instagram新功能调查",
+     "summary_zh": "Ofcom正在调查Meta的Instagram Instants功能，因为该功能在推出前未充分评估其风险。",
+     "angles": [
+      "因为未充分评估风险，所以Instagram Instants功能被调查。",
+      "前提是用户隐私和安全受到威胁，调查是必要的。"
+     ],
+     "evidence": [
+      "Instagram Instants feature"
+     ],
+     "keywords": [
+      "Instagram",
+      "Meta",
+      "Ofcom",
+      "risk assessment",
+      "user privacy"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom investigates Meta over Instagram Instants feature",
+     "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 06 Oct 2026 09:04:02 GMT",
+     "collected_at": "2026-10-19 09:31"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "儿童早期教育计划",
+     "summary_zh": "政府计划将儿童早期教育计划扩展到更多地区，目标是到2028年，75%的儿童完成一年级时具有良好发展水平。",
+     "angles": [
+      "因为早期教育对儿童发展至关重要，所以需要扩大计划覆盖范围。",
+      "前提是早期教育有助于提高儿童的整体素质，扩大计划是必要的。"
+     ],
+     "evidence": [
+      "75% of children",
+      "2028"
+     ],
+     "keywords": [
+      "early childhood education",
+      "development",
+      "government plan",
+      "child welfare",
+      "quality improvement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Potty training scheme to roll out to 20 more areas",
+     "url": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 05 Oct 2026 12:57:56 GMT",
+     "collected_at": "2026-10-19 09:31"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "儿童保育费用问题",
+     "summary_zh": "保守党领袖表示，政府支持的收入门槛阻止人们“更努力地工作”，因此计划结束10万英镑的儿童保育费用“悬崖边缘”问题。",
+     "angles": [
+      "因为儿童保育费用过高，所以需要政府支持。",
+      "前提是高保育费用影响家庭经济，政府支持是必要的。"
+     ],
+     "evidence": [
+      "£100,000 childcare",
+      "government support"
+     ],
+     "keywords": [
+      "childcare costs",
+      "government support",
+      "economic pressure",
+      "family welfare",
+      "policy change"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+     "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 04 Oct 2026 11:04:47 GMT",
+     "collected_at": "2026-10-19 09:31"
+    }
+   ]
+  },
   {
    "date": "2026-10-18",
    "generated_at": "2026-10-18T09:23:05+08:00",
