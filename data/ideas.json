@@ -1,7 +1,155 @@
 {
  "version": 1,
- "updated": "2026-10-19T09:31:17+08:00",
+ "updated": "2026-10-20T10:00:13+08:00",
  "days": [
+  {
+   "date": "2026-10-20",
+   "generated_at": "2026-10-20T10:00:13+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "法国骚乱后的清理与反思",
+     "summary_zh": "法国多地爆发骚乱，导致财产损失，政府开始清理受损区域。",
+     "angles": [
+      "因为骚乱导致财产损失，所以政府需要及时清理以恢复秩序。"
+     ],
+     "evidence": [
+      "600 premises looted"
+     ],
+     "keywords": [
+      "rioting",
+      "clean up",
+      "government response",
+      "public order"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Watch: Clean up begins after French riots but police remain",
+     "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 21:30:08 GMT",
+     "collected_at": "2026-10-20 10:00"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "停车收费问题",
+     "summary_zh": "新规定旨在减轻对在私人土地上停车的司机的罚款。",
+     "angles": [
+      "因为过度罚款，所以司机在私人土地上停车受到不公正对待。"
+     ],
+     "evidence": [
+      "harsh penalties on motorists"
+     ],
+     "keywords": [
+      "parking charges",
+      "motorists",
+      "unfair treatment",
+      "government rules"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Burnham vows end to 'rip-off parking charges' under new rules",
+     "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 21:30:06 GMT",
+     "collected_at": "2026-10-20 10:00"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "罪犯福利改革",
+     "summary_zh": "罪犯在被拘留期间将失去福利，受害者家属长期要求改革。",
+     "angles": [
+      "因为罪犯不应享受与普通公民相同的福利，所以改革是合理的。"
+     ],
+     "evidence": [
+      "campaigning for change"
+     ],
+     "keywords": [
+      "criminals",
+      "benefits",
+      "reform",
+      "victims' families"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Criminals detained in hospital set to lose benefits",
+     "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 23:21:38 GMT",
+     "collected_at": "2026-10-20 10:00"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "合成鸦片类药物问题",
+     "summary_zh": "合成鸦片类药物如芬太尼在市场上泛滥，严重改变了药物环境。",
+     "angles": [
+      "因为芬太尼的强大和易得性，所以它对药物环境产生了重大影响。"
+     ],
+     "evidence": [
+      "fentanyl",
+      "synthetic opioids"
+     ],
+     "keywords": [
+      "drug abuse",
+      "fentanyl",
+      "public health",
+      "drug landscape"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "US church on frontline of battle against drug known as 'tranq'",
+     "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 20 Oct 2026 00:02:32 GMT",
+     "collected_at": "2026-10-20 10:00"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "厄尔尼诺现象对全球天气的影响",
+     "summary_zh": "史上最强的厄尔尼诺现象正在加剧，对全球天气模式产生了影响。",
+     "angles": [
+      "因为厄尔尼诺现象的强度，所以全球天气模式受到影响。"
+     ],
+     "evidence": [
+      "strongest El Niño on record"
+     ],
+     "keywords": [
+      "El Niño",
+      "weather patterns",
+      "global impact",
+      "climate change"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Five ways El Niño is affecting the weather around the world",
+     "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 23:08:25 GMT",
+     "collected_at": "2026-10-20 10:00"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "现实约会活动胜过约会应用",
+     "summary_zh": "一些人认为现实生活中的约会活动比约会应用更有价值。",
+     "angles": [
+      "因为现实约会活动提供更真实的互动，所以它们更有价值。"
+     ],
+     "evidence": [
+      "in-person dating events"
+     ],
+     "keywords": [
+      "online dating",
+      "real-life events",
+      "value for money",
+      "social interaction"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "The singles choosing in-person dating events over apps",
+     "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 19 Oct 2026 23:00:21 GMT",
+     "collected_at": "2026-10-20 10:00"
+    }
+   ]
+  },
   {
    "date": "2026-10-19",
    "generated_at": "2026-10-19T09:31:17+08:00",
