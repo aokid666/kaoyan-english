@@ -1,7 +1,156 @@
 {
  "version": 1,
- "updated": "2026-10-20T10:00:13+08:00",
+ "updated": "2026-10-21T09:51:11+08:00",
  "days": [
+  {
+   "date": "2026-10-21",
+   "generated_at": "2026-10-21T09:51:11+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "校园反犹主义问题",
+     "summary_zh": "英国政府计划将反犹主义视为一种独特的伤害形式，并接受前Ofsted负责人提出的27项建议。",
+     "angles": [
+      "因为反犹主义对学生的心理影响深远，所以学校应该采取措施识别和应对这一现象。"
+     ],
+     "evidence": [
+      "Ofsted"
+     ],
+     "keywords": [
+      "antisemitism",
+      "school",
+      "students",
+      "psychological",
+      "measures"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Schools should recognise antisemitism as distinct form of harm, review says",
+     "url": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 20 Oct 2026 18:52:32 GMT",
+     "collected_at": "2026-10-21 09:51"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "美容手术监管加强",
+     "summary_zh": "英国计划在2027年实施更严格的美容手术规定，以保护人们免受手术失败的风险。",
+     "angles": [
+      "前提是加强监管，可以减少因美容手术失败而导致的健康问题。"
+     ],
+     "evidence": [
+      "2027"
+     ],
+     "keywords": [
+      "cosmetic surgery",
+      "regulation",
+      "health risk",
+      "protection",
+      "2027"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+     "url": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 20 Oct 2026 23:06:07 GMT",
+     "collected_at": "2026-10-21 09:51"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "减少课堂屏幕时间",
+     "summary_zh": "一组临床医生警告，英国学校中的技术使用正在导致近视等健康问题的增加。",
+     "angles": [
+      "因为长时间使用屏幕，学生的视力问题日益严重，所以需要减少课堂屏幕时间。"
+     ],
+     "evidence": [
+      "short-sightedness"
+     ],
+     "keywords": [
+      "screen time",
+      "classroom",
+      "health issues",
+      "students",
+      "reduction"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-21 09:51"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "推广如厕训练计划",
+     "summary_zh": "政府计划将如厕训练计划推广到更多地区，以帮助儿童在入学时达到良好的发展水平。",
+     "angles": [
+      "前提是推广如厕训练，可以提升儿童的生活质量。"
+     ],
+     "evidence": [
+      "2028"
+     ],
+     "keywords": [
+      "potty training",
+      "children",
+      "development",
+      "quality of life",
+      "2028"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Potty training scheme to roll out to 20 more areas",
+     "url": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 05 Oct 2026 12:57:56 GMT",
+     "collected_at": "2026-10-21 09:51"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "结束育儿补贴悬崖",
+     "summary_zh": "保守党领导人表示，政府支持的收入门槛阻止人们更加努力工作。",
+     "angles": [
+      "因为育儿补贴悬崖的存在，许多家庭无法全职工作，所以需要结束这一政策。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "childcare",
+      "subsidy",
+      "cliff edge",
+      "employment",
+      "government support"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+     "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 04 Oct 2026 11:04:47 GMT",
+     "collected_at": "2026-10-21 09:51"
+    },
+    {
+     "topic": "人际与家庭",
+     "title_zh": "欺骗前伴侣生育问题",
+     "summary_zh": "一名男子支付前伴侣约3万英镑，因为他相信她为他生下了孩子，但法官判定这是一场骗局。",
+     "angles": [
+      "因为信任的缺失，家庭关系受到严重影响，所以需要建立和维护诚信。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "deception",
+      "ex-partner",
+      "childbirth",
+      "family relationship",
+      "trust"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC 教育",
+     "source_title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
+     "url": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 03 Oct 2026 04:07:58 GMT",
+     "collected_at": "2026-10-21 09:51"
+    }
+   ]
+  },
   {
    "date": "2026-10-20",
    "generated_at": "2026-10-20T10:00:13+08:00",
