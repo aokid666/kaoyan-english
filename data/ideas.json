@@ -1,7 +1,179 @@
 {
  "version": 1,
- "updated": "2026-10-21T09:51:11+08:00",
+ "updated": "2026-10-22T09:42:14+08:00",
  "days": [
+  {
+   "date": "2026-10-22",
+   "generated_at": "2026-10-22T09:42:14+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "全球网站因关键网络安全更新被关闭",
+     "summary_zh": "全球范围内的网站因PHP编程语言的重大安全漏洞而被关闭，这是AI发现的最严重漏洞。",
+     "angles": [
+      "因为PHP是广泛使用的编程语言，所以其漏洞影响巨大。",
+      "前提是及时更新，否则可能导致严重后果。"
+     ],
+     "evidence": [
+      "PHP",
+      "AI",
+      "重大漏洞"
+     ],
+     "keywords": [
+      "cyber-security",
+      "vulnerability",
+      "programming language",
+      "update",
+      "internet"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Websites taken down worldwide as critical cyber-security update issued",
+     "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+     "collected_at": "2026-10-22 09:42"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "糖尿病和ADHD药物将用于阿尔茨海默病研究",
+     "summary_zh": "一项新研究将同时测试糖尿病和ADHD药物，以加快寻找阿尔茨海默病新治疗方法的过程。",
+     "angles": [
+      "因为阿尔茨海默病是常见痴呆症，所以需要新的治疗方法。",
+      "前提是药物测试有效，将改善患者生活质量。"
+     ],
+     "evidence": [
+      "阿尔茨海默病",
+      "新治疗方法",
+      "药物测试"
+     ],
+     "keywords": [
+      "Alzheimer's",
+      "treatment",
+      "diabetes",
+      "ADHD",
+      "research"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+     "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:30 GMT",
+     "collected_at": "2026-10-22 09:42"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "美国政治家中年化的原因",
+     "summary_zh": "为什么年长的政治家似乎对美国政治体系有如此紧密的控制？这背后有哪些原因。",
+     "angles": [
+      "因为年轻人才缺乏政治经验，所以年长政治家更受信任。",
+      "前提是政治体系需要稳定，年长者更擅长维持。"
+     ],
+     "evidence": [
+      "美国政治",
+      "政治家",
+      "政治体系"
+     ],
+     "keywords": [
+      "politician",
+      "political system",
+      "experience",
+      "stability",
+      "youth"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The real reasons US politicians are getting older",
+     "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:52:12 GMT",
+     "collected_at": "2026-10-22 09:42"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "2029年英国文化之城候选地",
+     "summary_zh": "四个地点竞争成为2029年英国文化之城，获胜者将获得1000万英镑用于文化活动。",
+     "angles": [
+      "因为文化之城能够提升城市形象，所以竞争激烈。",
+      "前提是文化活动丰富，将吸引更多游客。"
+     ],
+     "evidence": [
+      "英国文化之城",
+      "文化活动",
+      "1000万英镑"
+     ],
+     "keywords": [
+      "City of Culture",
+      "cultural activities",
+      "tourism",
+      "competition",
+      "UK"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The four locations in the running to be UK City of Culture 2029",
+     "url": "https://www.bbc.co.uk/news/articles/c6jrw03njgxzo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:37 GMT",
+     "collected_at": "2026-10-22 09:42"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "GCSE科学考试中唯一女性科学家",
+     "summary_zh": "一项研究发现，罗莎琳德·富兰克林是GCSE科学考试中唯一被提及的女性科学家。",
+     "angles": [
+      "因为女性在科学领域代表性不足，所以需要更多关注。",
+      "前提是提高女性在科学领域的地位，将促进科学进步。"
+     ],
+     "evidence": [
+      "GCSE",
+      "科学考试",
+      "罗莎琳德·富兰克林"
+     ],
+     "keywords": [
+      "science",
+      "female scientist",
+      "GCSE",
+      "representation",
+      "progress"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-10-22 09:42"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "毕业生放弃英国寻求海外新机会",
+     "summary_zh": "由于英国工作机会稀缺，越来越多的年轻人考虑移民海外寻找新机会。",
+     "angles": [
+      "因为英国就业市场不景气，所以年轻人寻求海外发展。",
+      "前提是海外市场更具潜力，年轻人愿意冒险。"
+     ],
+     "evidence": [
+      "毕业生",
+      "移民",
+      "海外发展",
+      "英国就业市场"
+     ],
+     "keywords": [
+      "graduates",
+      "immigration",
+      "opportunities",
+      "overseas",
+      "market"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The grads ditching the UK for a fresh start abroad",
+     "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:12:06 GMT",
+     "collected_at": "2026-10-22 09:42"
+    }
+   ]
+  },
   {
    "date": "2026-10-21",
    "generated_at": "2026-10-21T09:51:11+08:00",
