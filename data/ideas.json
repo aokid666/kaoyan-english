@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-10-22T09:42:14+08:00",
+ "updated": "2026-10-23T09:45:12+08:00",
  "days": [
+  {
+   "date": "2026-10-23",
+   "generated_at": "2026-10-23T09:45:12+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "供应链中断准备",
+     "summary_zh": "英国国防部长警告，英国需要为包括对关键供应链影响在内的情景做好准备。",
+     "angles": [
+      "因为供应链中断可能导致生活必需品短缺，所以必须提前做好准备。",
+      "前提是政府能够有效协调资源，供应链中断的影响才能最小化。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "supply chain",
+      "disruption",
+      "preparation",
+      "essential goods",
+      "government coordination"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+     "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+     "collected_at": "2026-10-23 09:45"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "网络安全漏洞",
+     "summary_zh": "发现编程语言PHP的“关键漏洞”后，网站被关闭。",
+     "angles": [
+      "因为网络安全漏洞可能导致数据泄露，所以必须立即更新系统。",
+      "前提是用户意识到风险并采取行动，才能有效防范漏洞。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "cybersecurity",
+      "vulnerability",
+      "website",
+      "update",
+      "user awareness"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Race to update services' computer systems after cyber-security flaw found",
+     "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+     "collected_at": "2026-10-23 09:45"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Starlink网络恢复",
+     "summary_zh": "马斯克恢复了乌克兰Starlink网络的使用，乌克兰依赖该网络进行多种军事用途。",
+     "angles": [
+      "因为Starlink网络对乌克兰的军事活动至关重要，所以恢复网络是必要的。",
+      "前提是网络恢复能够持续，乌克兰的军事行动才能得到支持。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "Starlink",
+      "network",
+      "military use",
+      "Elon Musk",
+      "recovery"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+     "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+     "collected_at": "2026-10-23 09:45"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "冬季电力供应保障",
+     "summary_zh": "国家能源系统运营商保证今年冬天电力供应将保持稳定。",
+     "angles": [
+      "因为电力供应不稳定会影响日常生活，所以保障电力供应是必要的。",
+      "前提是能源系统运营商能够有效管理资源，电力供应才能得到保障。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "power supply",
+      "winter",
+      "National Energy System Operator",
+      "stability",
+      "resource management"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Grid operator says lights will stay on this winter after concerns",
+     "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 23:04:38 GMT",
+     "collected_at": "2026-10-23 09:45"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "减肥针推广",
+     "summary_zh": "议员们建议在NHS中为更多人提供减肥针。",
+     "angles": [
+      "因为肥胖问题日益严重，所以推广减肥针有助于提高生活质量。",
+      "前提是减肥针的安全性和有效性得到验证，才能推广给更多人。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "weight loss",
+      "injections",
+      "NHS",
+      "quality of life",
+      "safety and effectiveness"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Give more people weight-loss jabs on the NHS, say MPs",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 23:06:04 GMT",
+     "collected_at": "2026-10-23 09:45"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "健康焦虑识别",
+     "summary_zh": "Hollie Sharman分享了她对健康焦虑的经历，医生建议如何管理症状。",
+     "angles": [
+      "因为健康焦虑可能导致生活质量下降，所以识别和管理症状是必要的。",
+      "前提是公众能够了解健康焦虑，才能及时寻求帮助。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "health anxiety",
+      "symptom management",
+      "quality of life",
+      "public awareness",
+      "help seeking"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I thought I was dying but it was health anxiety - here's how to recognise the signs",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 22 Oct 2026 23:20:31 GMT",
+     "collected_at": "2026-10-23 09:45"
+    }
+   ]
+  },
   {
    "date": "2026-10-22",
    "generated_at": "2026-10-22T09:42:14+08:00",
