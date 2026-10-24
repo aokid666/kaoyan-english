@@ -1,7 +1,167 @@
 {
  "version": 1,
- "updated": "2026-10-23T09:45:12+08:00",
+ "updated": "2026-10-24T09:48:41+08:00",
  "days": [
+  {
+   "date": "2026-10-24",
+   "generated_at": "2026-10-24T09:48:41+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "英国投资首个AI生物安全实验室",
+     "summary_zh": "英国政府计划投资1亿英镑建立首个AI生物安全实验室，以加强国防。",
+     "angles": [
+      "因为AI技术的发展，所以需要加强生物安全防护。",
+      "前提是加强生物安全，才能保障国家安全。"
+     ],
+     "evidence": [
+      "£100m",
+      "AI Biosecurity Lab"
+     ],
+     "keywords": [
+      "AI",
+      "biological security",
+      "national defense",
+      "investment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+     "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+     "collected_at": "2026-10-24 09:48"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "减少课堂屏幕时间以避免长期健康问题",
+     "summary_zh": "一组临床医生呼吁减少英国学校的屏幕时间，以避免近视等健康问题。",
+     "angles": [
+      "因为过度使用屏幕，所以需要减少课堂屏幕时间。",
+      "前提是减少屏幕时间，才能保护学生的视力。"
+     ],
+     "evidence": [
+      "short-sightedness",
+      "health problems"
+     ],
+     "keywords": [
+      "screen time",
+      "health issues",
+      "schools",
+      "vision"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-24 09:48"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "父亲讲述无法拯救的孩子",
+     "summary_zh": "俄勒冈州一名父亲讲述了他杀死校园枪击案凶手的过程，表达了对无法拯救孩子的痛苦。",
+     "angles": [
+      "因为父亲目睹了悲剧，所以选择采取行动。",
+      "前提是面对悲剧，需要勇气和决心。"
+     ],
+     "evidence": [
+      "Oregon school shooter",
+      "Kaylub Giamanco"
+     ],
+     "keywords": [
+      "father",
+      "tragedy",
+      "action",
+      "courage"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+     "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 23 Oct 2026 22:47:07 GMT",
+     "collected_at": "2026-10-24 09:48"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "医生因提出性别歧视问题被迫离职",
+     "summary_zh": "一名医生因提出性别歧视问题而被调查，并被迫离职。",
+     "angles": [
+      "因为提出问题，所以遭到报复。",
+      "前提是面对不公，需要勇敢发声。"
+     ],
+     "evidence": [
+      "gender treatment",
+      "doctor"
+     ],
+     "keywords": [
+      "doctor",
+      "discrimination",
+      "job loss",
+      "voice"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "GP says she was forced out of job after raising concerns about gender treatment",
+     "url": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 23 Oct 2026 19:23:10 GMT",
+     "collected_at": "2026-10-24 09:48"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "政府建议储备罐头食品和瓶装水",
+     "summary_zh": "英国首相建议民众储备罐头食品和瓶装水，以应对可能的不测事件。",
+     "angles": [
+      "因为意外事件增多，所以需要做好准备。",
+      "前提是做好准备，才能应对突发事件。"
+     ],
+     "evidence": [
+      "unexpected events",
+      "tinned food",
+      "bottled water"
+     ],
+     "keywords": [
+      "preparation",
+      "emergency",
+      "food",
+      "water"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Burnham suggests stocking up on tinned food and bottled water",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 23 Oct 2026 12:41:10 GMT",
+     "collected_at": "2026-10-24 09:48"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "GCSE科学考试中只有一位女性科学家",
+     "summary_zh": "研究发现，GCSE科学考试中只有一位女性科学家被提及。",
+     "angles": [
+      "因为性别不平等，所以需要更多女性参与科学领域。",
+      "前提是性别平等，才能促进科学进步。"
+     ],
+     "evidence": [
+      "Rosalind Franklin",
+      "Key Stage 4 science specifications"
+     ],
+     "keywords": [
+      "gender equality",
+      "science",
+      "education",
+      "participation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-10-24 09:48"
+    }
+   ]
+  },
   {
    "date": "2026-10-23",
    "generated_at": "2026-10-23T09:45:12+08:00",
