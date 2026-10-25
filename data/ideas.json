@@ -1,7 +1,160 @@
 {
  "version": 1,
- "updated": "2026-10-24T09:48:41+08:00",
+ "updated": "2026-10-25T09:25:26+08:00",
  "days": [
+  {
+   "date": "2026-10-25",
+   "generated_at": "2026-10-25T09:25:26+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "乌克兰依赖Starlink",
+     "summary_zh": "乌克兰正寻求另一种卫星互联网服务，但目前还没有找到Elon Musk网络的替代品。",
+     "angles": [
+      "因为Starlink在乌克兰的普及，所以其他卫星互联网服务提供商面临机遇。"
+     ],
+     "evidence": [
+      "Elon Musk, Starlink"
+     ],
+     "keywords": [
+      "satellite internet",
+      "Elon Musk",
+      "Ukraine",
+      "technology",
+      "service provider"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Ukraine depends on Starlink - can Europe plug the gap?",
+     "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 24 Oct 2026 23:00:08 GMT",
+     "collected_at": "2026-10-25 09:25"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "GCSE科学考试中女性科学家缺失",
+     "summary_zh": "研究发现，罗莎琳德·弗兰克林是唯一在GCSE科学考试中被提及的女性科学家。",
+     "angles": [
+      "因为性别偏见，所以女性科学家在GCSE科学考试中缺失。"
+     ],
+     "evidence": [
+      "Rosalind Franklin, GCSEs, science specifications"
+     ],
+     "keywords": [
+      "female scientist",
+      "GCSE",
+      "science education",
+      "gender bias",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-10-25 09:25"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "减少课堂屏幕时间以避免长期健康问题",
+     "summary_zh": "一组临床医生警告，英国学校的科技使用正在导致诸如近视等健康问题的增加。",
+     "angles": [
+      "因为过度使用科技，所以学生的健康问题增加。"
+     ],
+     "evidence": [
+      "short-sightedness, health problems, technology use"
+     ],
+     "keywords": [
+      "screen time",
+      "health issues",
+      "technology use",
+      "classroom",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-25 09:25"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "Ofsted面临停止分级学校检查的呼吁",
+     "summary_zh": "第二个校长工会表示，成员的“福利和士气”越来越令人担忧。",
+     "angles": [
+      "因为学校检查的压力，所以教师的工作士气下降。"
+     ],
+     "evidence": [
+      "Ofsted, school inspections, teacher morale"
+     ],
+     "keywords": [
+      "Ofsted",
+      "school inspections",
+      "teacher morale",
+      "public service",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofsted faces fresh calls to halt graded school inspections in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 09 Oct 2026 14:01:41 GMT",
+     "collected_at": "2026-10-25 09:25"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "法国大规模抗议引发冲突",
+     "summary_zh": "在法国，成千上万的人参加了抗议活动，随后发生了冲突，导致近千人被捕。",
+     "angles": [
+      "因为社会不公，所以人们走上街头抗议。"
+     ],
+     "evidence": [
+      "mass protests, clashes, rioting"
+     ],
+     "keywords": [
+      "protests",
+      "social unrest",
+      "France",
+      "society",
+      "culture"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 24 Oct 2026 21:09:27 GMT",
+     "collected_at": "2026-10-25 09:25"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "巴黎抗议升级为动荡",
+     "summary_zh": "在巴黎，和平抗议在夜幕降临时转变为动荡，警方使用催泪瓦斯驱散抗议者。",
+     "angles": [
+      "因为政治不满，所以抗议活动升级为暴力事件。"
+     ],
+     "evidence": [
+      "protests, unrest, tear gas"
+     ],
+     "keywords": [
+      "protests",
+      "unrest",
+      "politics",
+      "technology",
+      "daily life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+     "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 24 Oct 2026 19:37:35 GMT",
+     "collected_at": "2026-10-25 09:25"
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "generated_at": "2026-10-24T09:48:41+08:00",
