@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-10-26T09:29:31+08:00",
+ "updated": "2026-10-27T10:18:19+08:00",
  "days": [
+  {
+   "date": "2026-10-27",
+   "generated_at": "2026-10-27T10:18:19+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "削减关税以减轻生活成本",
+     "summary_zh": "英国财政大臣计划削减部分主食的关税，以帮助家庭缓解生活压力。",
+     "angles": [
+      "因为生活成本上升，所以政府采取措施以减轻家庭负担。",
+      "前提是削减关税，家庭可以节省开支。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "tariffs",
+      "cost of living",
+      "government",
+      "households",
+      "economic relief"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+     "collected_at": "2026-10-27 10:18"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "赛车事故中的悲剧",
+     "summary_zh": "一名母亲和她的女儿在一场车祸中不幸丧生，引发了对交通安全问题的关注。",
+     "angles": [
+      "因为忽视交通安全，所以悲剧发生。",
+      "前提是加强交通安全教育，可以减少此类事故。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "traffic accident",
+      "safety",
+      "family tragedy",
+      "public awareness",
+      "traffic education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Drivers who killed mum and girl while racing jailed",
+     "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+     "collected_at": "2026-10-27 10:18"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "风暴导致大规模停电",
+     "summary_zh": "风暴Boelo导致英格兰、威尔士和苏格兰西部以及北爱尔兰东部的22,000人断电。",
+     "angles": [
+      "因为气候变化，所以极端天气事件增多。",
+      "前提是加强基础设施，可以减少风暴带来的影响。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "storm",
+      "power outage",
+      "climate change",
+      "infrastructure",
+      "public safety"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+     "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 26 Oct 2026 22:43:44 GMT",
+     "collected_at": "2026-10-27 10:18"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Anthropic公司警告AI风险",
+     "summary_zh": "Anthropic公司警告人类面临“灾难性风险”，该公司即将上市。",
+     "angles": [
+      "因为AI技术快速发展，所以需要关注其潜在风险。",
+      "前提是加强监管，可以降低AI带来的风险。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "artificial intelligence",
+      "risk",
+      "technology",
+      "regulation",
+      "public safety"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+     "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 26 Oct 2026 16:27:17 GMT",
+     "collected_at": "2026-10-27 10:18"
+    },
+    {
+     "topic": "人际与家庭",
+     "title_zh": "兄弟捐肾救哥哥",
+     "summary_zh": "吉他手James Bourne表示，他的兄弟通过捐肾救了他的命。",
+     "angles": [
+      "因为亲情的力量，所以兄弟之间可以互相帮助。",
+      "前提是家庭支持，可以增强个体的生存能力。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "family",
+      "kidney donation",
+      "sibling support",
+      "health",
+      "humanity"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+     "url": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 26 Oct 2026 22:07:26 GMT",
+     "collected_at": "2026-10-27 10:18"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "苹果公司将更换iPhone Duo手机",
+     "summary_zh": "苹果公司表示将更换出现屏幕问题的iPhone Duo手机。",
+     "angles": [
+      "因为产品质量问题，所以公司需要承担责任。",
+      "前提是提高产品质量，可以增强消费者信任。"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "Apple",
+      "iPhone",
+      "product quality",
+      "consumer trust",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Apple says it will replace iPhone Duo handsets with screen problems",
+     "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 27 Oct 2026 01:48:04 GMT",
+     "collected_at": "2026-10-27 10:18"
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "generated_at": "2026-10-26T09:29:31+08:00",
