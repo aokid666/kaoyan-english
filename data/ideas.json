@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-10-27T10:18:19+08:00",
+ "updated": "2026-10-28T10:30:55+08:00",
  "days": [
+  {
+   "date": "2026-10-28",
+   "generated_at": "2026-10-28T10:30:55+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "老龄化趋势",
+     "summary_zh": "中国家庭现在支持的老人数量超过孩子，标志着北京在应对老龄化人口方面的重大里程碑。",
+     "angles": [
+      "随着老龄化加剧，教育体系需要调整以适应老年人的需求。",
+      "政府应提供更多资源，支持老年人继续学习和参与社会活动。"
+     ],
+     "evidence": [
+      "中国"
+     ],
+     "keywords": [
+      "ageing population",
+      "education",
+      "social participation",
+      "government support"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "China's families are now supporting more old people than kids",
+     "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 27 Oct 2026 23:16:08 GMT",
+     "collected_at": "2026-10-28 10:30"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "性别平等教育",
+     "summary_zh": "研究发现，GCSE科学课程中只有一位女性科学家被提及，引发对性别平等教育的关注。",
+     "angles": [
+      "教育体系应更加重视性别平等，确保女性科学家在课程中的代表性。",
+      "通过案例研究和角色模型，可以激励年轻女性追求科学职业。"
+     ],
+     "evidence": [
+      "Rosalind Franklin",
+      "GCSEs"
+     ],
+     "keywords": [
+      "gender equality",
+      "education",
+      "role models",
+      "science"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-10-28 10:30"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "屏幕时间与健康",
+     "summary_zh": "一组临床医生警告，英国学校中的技术使用正在导致近视等健康问题的增加。",
+     "angles": [
+      "减少课堂中的屏幕时间可以预防长期健康问题。",
+      "教育者需要找到平衡技术使用和健康之间关系的方法。"
+     ],
+     "evidence": [
+      "short-sightedness",
+      "English schools"
+     ],
+     "keywords": [
+      "screen time",
+      "health",
+      "education",
+      "balance"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-10-28 10:30"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "数字转型风险",
+     "summary_zh": "计划在1月份切换到数字电话线可能会使英国偏远地区的居民在紧急情况下与外界隔绝。",
+     "angles": [
+      "数字转型需要考虑到偏远地区的基础设施不足。",
+      "政府应确保所有地区都能从数字转型中受益。"
+     ],
+     "evidence": [
+      "UK",
+      "January"
+     ],
+     "keywords": [
+      "digital transformation",
+      "infrastructure",
+      "remote areas",
+      "government"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Landline switchover could cut people off in emergency, minister warned",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 27 Oct 2026 20:54:48 GMT",
+     "collected_at": "2026-10-28 10:30"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "人工智能与科学准确性",
+     "summary_zh": "人工智能在科学发现方面取得了巨大成就，但对其准确性的担忧正在加剧。",
+     "angles": [
+      "虽然人工智能带来了便利，但我们需要确保其准确性以避免误导。",
+      "科学家应与人工智能开发者合作，确保其产品的可靠性。"
+     ],
+     "evidence": [
+      "AI",
+      "scientific discoveries"
+     ],
+     "keywords": [
+      "artificial intelligence",
+      "science",
+      "accuracy",
+      "collaboration"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+     "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 28 Oct 2026 01:01:02 GMT",
+     "collected_at": "2026-10-28 10:30"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "最低工资调整",
+     "summary_zh": "政府将提高最低工资，但18-20岁的年轻人将不会获得更大的增长。",
+     "angles": [
+      "最低工资的提高有助于减少贫困和促进社会公平。",
+      "政府应考虑不同年龄段工人的不同需求。"
+     ],
+     "evidence": [
+      "Budget",
+      "minimum wage"
+     ],
+     "keywords": [
+      "minimum wage",
+      "poverty",
+      "social justice",
+      "government"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+     "collected_at": "2026-10-28 10:30"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "generated_at": "2026-10-27T10:18:19+08:00",
