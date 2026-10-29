@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-10-28T10:30:55+08:00",
+ "updated": "2026-10-29T10:39:03+08:00",
  "days": [
+  {
+   "date": "2026-10-29",
+   "generated_at": "2026-10-29T10:39:03+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "预算中燃料税削减缺失引发不满",
+     "summary_zh": "今年预算中未削减燃料税，引发不同收入水平人群的不满。",
+     "angles": [
+      "因为燃料税未减，所以生活成本上升",
+      "前提是燃料税减，否则生活压力增大"
+     ],
+     "evidence": [],
+     "keywords": [
+      "budget",
+      "fuel duty",
+      "cost of living",
+      "income"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+     "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 00:00:25 GMT",
+     "collected_at": "2026-10-29 10:39"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "建筑热潮引发喜马拉雅山潜在灾难",
+     "summary_zh": "旅游业设施、住房和基础设施的建设增加，可能导致喜马拉雅山地区的潜在灾难。",
+     "angles": [
+      "因为过度开发，所以环境风险增加",
+      "前提是环境保护，否则灾害风险高"
+     ],
+     "evidence": [],
+     "keywords": [
+      "construction",
+      "disaster",
+      "Himalayas",
+      "environment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+     "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 28 Oct 2026 23:11:59 GMT",
+     "collected_at": "2026-10-29 10:39"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "减肥针热潮带来回收针头警告",
+     "summary_zh": "回收商发现家用垃圾中越来越多地出现使用过的针头。",
+     "angles": [
+      "因为减肥针使用增加，所以医疗废物问题加剧",
+      "前提是医疗废物管理，否则健康风险上升"
+     ],
+     "evidence": [],
+     "keywords": [
+      "weight-loss jab",
+      "recycling",
+      "medical waste",
+      "health risk"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Weight-loss jab boom brings needles warning for recyclers",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 00:06:12 GMT",
+     "collected_at": "2026-10-29 10:39"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "欧洲青年走上街头，感觉被锁在美好未来之外",
+     "summary_zh": "过去一个月，欧洲各地出现由青年领导的示威活动，他们感到被排除在美好未来之外。",
+     "angles": [
+      "因为社会不公，所以青年示威",
+      "前提是社会改革，否则青年问题加剧"
+     ],
+     "evidence": [],
+     "keywords": [
+      "youth demonstration",
+      "social injustice",
+      "future",
+      "Europe"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Europe's youth take to the streets - they feel locked out of a promising future",
+     "url": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 00:33:11 GMT",
+     "collected_at": "2026-10-29 10:39"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI试图“修复”我们的可见差异，我们却喜欢自己的样子",
+     "summary_zh": "AI工具编辑的照片让Rhiannon Morgan感到震惊，因为她喜欢自己的样子。",
+     "angles": [
+      "因为AI编辑，所以自我认知改变",
+      "前提是尊重自我，否则AI影响认知"
+     ],
+     "evidence": [],
+     "keywords": [
+      "AI",
+      "self-image",
+      "technology",
+      "cognitive change"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+     "url": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 28 Oct 2026 23:02:56 GMT",
+     "collected_at": "2026-10-29 10:39"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "日本闹鬼的房子吸引讨价还价的买家",
+     "summary_zh": "发生悲剧性死亡事件的房产价格大幅降低，吸引了一些讨价还价的买家。",
+     "angles": [
+      "因为价格降低，所以需求增加",
+      "前提是房产市场稳定，否则价格波动大"
+     ],
+     "evidence": [],
+     "keywords": [
+      "haunted house",
+      "real estate",
+      "price reduction",
+      "demand"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 00:00:15 GMT",
+     "collected_at": "2026-10-29 10:39"
+    }
+   ]
+  },
   {
    "date": "2026-10-28",
    "generated_at": "2026-10-28T10:30:55+08:00",
