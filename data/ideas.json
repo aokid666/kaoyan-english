@@ -1,7 +1,174 @@
 {
  "version": 1,
- "updated": "2026-10-30T10:47:00+08:00",
+ "updated": "2026-10-31T10:39:03+08:00",
  "days": [
+  {
+   "date": "2026-10-31",
+   "generated_at": "2026-10-31T10:39:03+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "加密货币巨头Binance遭受史上最大黑客攻击",
+     "summary_zh": "Binance遭受了价值63亿美元的加密货币被盗事件，这是历史上最大的此类攻击。",
+     "angles": [
+      "因为黑客攻击复杂，所以Binance需要加强网络安全。",
+      "前提是加强安全措施，Binance可以减少未来遭受攻击的风险。"
+     ],
+     "evidence": [
+      "$6.3bn",
+      "North Korea",
+      "largest ever"
+     ],
+     "keywords": [
+      "cryptocurrency",
+      "hack attack",
+      "network security",
+      "Binance"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+     "collected_at": "2026-10-31 10:39"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Binance黑客攻击事件分析",
+     "summary_zh": "Binance遭受了历史上最大的黑客攻击，其细节和影响被深入分析。",
+     "angles": [
+      "因为黑客攻击的复杂性，所以需要更深入的技术分析来防止未来类似事件。",
+      "前提是了解攻击细节，可以更好地制定防御策略。"
+     ],
+     "evidence": [
+      "biggest hack in history",
+      "cyber correspondent",
+      "Joe Tidy"
+     ],
+     "keywords": [
+      "cyber attack",
+      "analysis",
+      "Binance",
+      "security"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "What we know about Binance's $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+     "collected_at": "2026-10-31 10:39"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "全球自然谈判达成协议，资金问题仍存",
+     "summary_zh": "全球各国努力达成协议以阻止自然衰退，但资金问题仍然是关键挑战。",
+     "angles": [
+      "因为资金不足，所以全球自然保护项目面临困难。",
+      "前提是解决资金问题，可以有效推进自然保护工作。"
+     ],
+     "evidence": [
+      "global agreement",
+      "nature decline",
+      "money issue"
+     ],
+     "keywords": [
+      "nature protection",
+      "global agreement",
+      "finance",
+      "environment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Global nature talks reach deal but money remains an issue",
+     "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 01:27:05 GMT",
+     "collected_at": "2026-10-31 10:39"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "美国科技股大幅下跌，AI支出接近1万亿美元",
+     "summary_zh": "随着AI支出的增加，美国科技股出现大幅下跌，纳斯达克指数创下两个月来的新低。",
+     "angles": [
+      "因为AI支出增加，所以科技股面临压力。",
+      "前提是合理分配AI预算，可以减少股市波动。"
+     ],
+     "evidence": [
+      "$1tn",
+      "AI spending",
+      "Nasdaq"
+     ],
+     "keywords": [
+      "technology stocks",
+      "AI spending",
+      "market fluctuation",
+      "Nasdaq"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 30 Oct 2026 20:34:46 GMT",
+     "collected_at": "2026-10-31 10:39"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "全球各地的人们为危机做准备",
+     "summary_zh": "世界各地的人们开始为可能到来的危机做准备，包括储备必需品和制定应急计划。",
+     "angles": [
+      "因为危机可能发生，所以提前准备是必要的。",
+      "前提是提高危机意识，可以减少危机带来的影响。"
+     ],
+     "evidence": [
+      "emergency stashes",
+      "US",
+      "Japan",
+      "Sweden",
+      "Netherlands"
+     ],
+     "keywords": [
+      "crisis preparation",
+      "emergency",
+      "preparation",
+      "safety"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+     "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 01:32:33 GMT",
+     "collected_at": "2026-10-31 10:39"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Ofcom概述针对16岁以下儿童的社交媒体禁令前的年龄验证方法",
+     "summary_zh": "Ofcom提出了一系列年龄验证方法，以帮助实施针对16岁以下儿童的社交媒体禁令。",
+     "angles": [
+      "因为年龄验证的重要性，所以需要有效的验证方法。",
+      "前提是实施有效的年龄验证，可以保护未成年人免受网络风险。"
+     ],
+     "evidence": [
+      "age check methods",
+      "social media ban",
+      "Ofcom"
+     ],
+     "keywords": [
+      "age verification",
+      "social media",
+      "child protection",
+      "Ofcom"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+     "collected_at": "2026-10-31 10:39"
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "generated_at": "2026-10-30T10:47:00+08:00",
