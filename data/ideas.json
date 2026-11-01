@@ -1,7 +1,156 @@
 {
  "version": 1,
- "updated": "2026-10-31T10:39:03+08:00",
+ "updated": "2026-11-01T10:26:36+08:00",
  "days": [
+  {
+   "date": "2026-11-01",
+   "generated_at": "2026-11-01T10:26:36+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "最低工资承诺风险",
+     "summary_zh": "英国财政大臣暗示年轻工人可能不会在下次选举前获得与其他人相同的最低工资。",
+     "angles": [
+      "因为年轻工人缺乏工作经验，所以可能需要较低的最低工资以吸引他们。",
+      "前提是政府希望提高年轻工人的就业率，较低的最低工资可以作为一个激励措施。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "minimum wage",
+      "younger workers",
+      "employment",
+      "economic policy"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+     "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+     "collected_at": "2026-11-01 10:26"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "生活成本抗议",
+     "summary_zh": "超过32万人法国各地示威，反对生活成本上升和公共服务不足。",
+     "angles": [
+      "因为生活成本上升，所以人们不得不抗议以争取更好的公共服务。",
+      "前提是公共服务的不足导致了人们生活质量的下降，从而引发了抗议。"
+     ],
+     "evidence": [
+      "320,000"
+     ],
+     "keywords": [
+      "cost of living",
+      "public services",
+      "protest",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 21:29:01 GMT",
+     "collected_at": "2026-11-01 10:26"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "加密货币公司遭受黑客攻击",
+     "summary_zh": "加密货币公司Binance在遭受6.3亿美元的黑客攻击后，覆盖了90%的损失。",
+     "angles": [
+      "因为加密货币的匿名性，所以黑客攻击更容易发生。",
+      "前提是加密货币的安全问题需要得到解决，以保护投资者的利益。"
+     ],
+     "evidence": [
+      "$6.3bn",
+      "FBI",
+      "North Korea"
+     ],
+     "keywords": [
+      "cryptocurrency",
+      "hack attack",
+      "security",
+      "finance"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 22:11:45 GMT",
+     "collected_at": "2026-11-01 10:26"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Airbnb新规定引发争议",
+     "summary_zh": "Airbnb的新规定要求房东停止要求客人洗碗或清理垃圾。",
+     "angles": [
+      "因为新规定改变了房东和客人之间的关系，所以引发了争议。",
+      "前提是Airbnb需要平衡房东和客人的利益，以保持平台的良好运营。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "Airbnb",
+      "house rules",
+      "hosts",
+      "guests"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+     "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 01 Nov 2026 00:17:05 GMT",
+     "collected_at": "2026-11-01 10:26"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "滞留太平洋岛屿",
+     "summary_zh": "一名50岁的女性在库克群岛滞留多年，无法获得过境签证回国。",
+     "angles": [
+      "因为过境签证的困难，所以滞留成为了一个问题。",
+      "前提是国际旅行和移民政策需要更加灵活，以帮助那些需要帮助的人。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "stranded",
+      "transit visa",
+      "international travel",
+      "immigration"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 31 Oct 2026 23:06:13 GMT",
+     "collected_at": "2026-11-01 10:26"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI泡沫破裂的担忧",
+     "summary_zh": "数据中心债务达到数十亿英镑，引发了对AI泡沫可能破裂的担忧。",
+     "angles": [
+      "因为数据中心债务的增加，所以AI泡沫破裂的风险增加。",
+      "前提是投资者需要更加谨慎，以避免潜在的金融风险。"
+     ],
+     "evidence": [
+      "tens of billions of pounds"
+     ],
+     "keywords": [
+      "AI bubble",
+      "data centre",
+      "debt",
+      "financial risk"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+     "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 01 Nov 2026 01:37:26 GMT",
+     "collected_at": "2026-11-01 10:26"
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "generated_at": "2026-10-31T10:39:03+08:00",
