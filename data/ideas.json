@@ -1,7 +1,167 @@
 {
  "version": 1,
- "updated": "2026-11-02T10:40:55+08:00",
+ "updated": "2026-11-03T11:59:32+08:00",
  "days": [
+  {
+   "date": "2026-11-03",
+   "generated_at": "2026-11-03T11:59:32+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "亚马逊和Temu上的假银饰品含毒",
+     "summary_zh": "调查发现，亚马逊和Temu等平台上的假银饰品含有有毒化学物质。",
+     "angles": [
+      "因为消费者对银饰的需求增加，所以假冒伪劣产品泛滥。",
+      "前提是电商平台加强监管，才能保障消费者健康。"
+     ],
+     "evidence": [
+      "调查"
+     ],
+     "keywords": [
+      "Amazon",
+      "Temu",
+      "toxic chemicals",
+      "silver jewelry",
+      "consumer protection"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+     "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 01:49:49 GMT",
+     "collected_at": "2026-11-03 11:59"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "欧洲多国超市冷冻设备遭网络攻击",
+     "summary_zh": "欧洲多国超市的冷冻设备因网络攻击而温度升高，导致大量食物浪费。",
+     "angles": [
+      "因为网络攻击，所以超市冷冻设备失控。",
+      "前提是加强网络安全，才能减少此类事件发生。"
+     ],
+     "evidence": [
+      "网络攻击"
+     ],
+     "keywords": [
+      "cyber-attack",
+      "supermarket",
+      "food waste",
+      "security",
+      "Europe"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Shop freezers in seven European countries hit by cyber-attack",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+     "collected_at": "2026-11-03 11:59"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "苹果折叠手机售罄",
+     "summary_zh": "苹果的折叠手机销售火爆，消费者愿意花费2000美元购买。",
+     "angles": [
+      "因为折叠手机功能强大，所以受到消费者青睐。",
+      "前提是技术创新，才能推动产品销售。"
+     ],
+     "evidence": [
+      "销售火爆"
+     ],
+     "keywords": [
+      "Apple",
+      "foldable phone",
+      "consumer demand",
+      "technology innovation",
+      "sales"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Apple unsure when more foldable iPhones will be available after selling out",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 00:29:00 GMT",
+     "collected_at": "2026-11-03 11:59"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "印度尼西亚烟雾给邻国带来政治问题",
+     "summary_zh": "印度尼西亚的烟雾污染给新加坡和马来西亚的居民带来健康问题。",
+     "angles": [
+      "因为空气污染，所以邻国居民健康受损。",
+      "前提是加强区域合作，才能有效应对环境问题。"
+     ],
+     "evidence": [
+      "烟雾污染"
+     ],
+     "keywords": [
+      "Indonesia",
+      "smog",
+      "health issues",
+      "regional cooperation",
+      "environmental pollution"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Indonesia's toxic haze is giving its neighbours a political headache",
+     "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 02 Nov 2026 23:02:01 GMT",
+     "collected_at": "2026-11-03 11:59"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "网络攻击导致大量食物浪费",
+     "summary_zh": "网络攻击导致欧洲多国超市的冷冻设备失控，大量食物被浪费。",
+     "angles": [
+      "因为网络攻击，所以超市冷冻设备失控。",
+      "前提是加强网络安全，才能减少此类事件发生。"
+     ],
+     "evidence": [
+      "网络攻击",
+      "food waste"
+     ],
+     "keywords": [
+      "cyber-attack",
+      "supermarket",
+      "food waste",
+      "security",
+      "Europe"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+     "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+     "collected_at": "2026-11-03 11:59"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "英国11月天气干燥寒冷",
+     "summary_zh": "英国11月天气比10月干燥且寒冷，气温下降。",
+     "angles": [
+      "因为气候变化，所以极端天气事件增多。",
+      "前提是采取环保措施，才能减缓气候变化。"
+     ],
+     "evidence": [
+      "天气变化"
+     ],
+     "keywords": [
+      "UK",
+      "weather",
+      "climate change",
+      "environmental protection",
+      "extreme weather"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Dry and chilly start to November after wet but sunny October",
+     "url": "https://www.bbc.co.uk/weather/articles/cr5ynw8np52vo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 03 Nov 2026 02:50:42 GMT",
+     "collected_at": "2026-11-03 11:59"
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "generated_at": "2026-11-02T10:40:55+08:00",
