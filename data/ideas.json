@@ -1,7 +1,181 @@
 {
  "version": 1,
- "updated": "2026-11-03T11:59:32+08:00",
+ "updated": "2026-11-04T11:07:11+08:00",
  "days": [
+  {
+   "date": "2026-11-04",
+   "generated_at": "2026-11-04T11:07:11+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "多癌症血液检测即将普及",
+     "summary_zh": "英国一些全科诊所将提供多癌症血液检测，旨在更早地检测难以诊断的腹部癌症。",
+     "angles": [
+      "因为早期检测，所以提高治愈率",
+      "前提是检测准确，所以降低误诊率"
+     ],
+     "evidence": [
+      "全科诊所",
+      "腹部癌症"
+     ],
+     "keywords": [
+      "multi-cancer",
+      "blood tests",
+      "early detection",
+      "abdominal cancer"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 00:04:28 GMT",
+     "collected_at": "2026-11-04 11:07"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Kellogg's Rice Krispies 更新配方",
+     "summary_zh": "由于气候变化，Kellogg's Rice Krispies 将不再含有大米成分，包装将包含小麦谷蛋白警告。",
+     "angles": [
+      "因为气候变化，所以大米产量减少",
+      "前提是消费者健康意识提高，所以对无谷蛋白产品需求增加"
+     ],
+     "evidence": [
+      "Kellogg's",
+      "Rice Krispies",
+      "climate change",
+      "wheat gluten"
+     ],
+     "keywords": [
+      "Kellogg's",
+      "Rice Krispies",
+      "climate change",
+      "gluten-free"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 01:36:06 GMT",
+     "collected_at": "2026-11-04 11:07"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI生成图像诈骗宠物主人",
+     "summary_zh": "诈骗者使用AI生成的失踪宠物图像来勒索赏金，让宠物主人感到愤怒和恐惧。",
+     "angles": [
+      "因为AI技术发展，所以诈骗手段更高级",
+      "前提是公众缺乏网络安全意识，所以容易上当受骗"
+     ],
+     "evidence": [
+      "AI-generated images",
+      "pet owners",
+      "scammers",
+      "reward money"
+     ],
+     "keywords": [
+      "AI",
+      "scam",
+      "pet owners",
+      "reward money",
+      "cybersecurity"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Scammers using AI-generated images of missing pets to demand reward money",
+     "url": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 00:44:44 GMT",
+     "collected_at": "2026-11-04 11:07"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Ofcom概述社交媒体年龄验证方法",
+     "summary_zh": "Ofcom概述了社交媒体平台对16岁以下用户实施年龄检查的方法，包括照片和数字ID、银行检查或面部年龄估计。",
+     "angles": [
+      "因为网络安全问题，所以需要年龄验证",
+      "前提是验证方法有效，所以提高平台安全性"
+     ],
+     "evidence": [
+      "Ofcom",
+      "social media",
+      "age verification",
+      "photo ID",
+      "digital ID"
+     ],
+     "keywords": [
+      "Ofcom",
+      "social media",
+      "age verification",
+      "cybersecurity",
+      "digital ID"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+     "collected_at": "2026-11-04 11:07"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "GCSE科学课程中女性科学家缺失",
+     "summary_zh": "研究发现，GCSE科学课程中只有一位女性科学家被提及，即罗莎琳德·富兰克林。",
+     "angles": [
+      "因为性别偏见，所以女性科学家在课程中代表性不足",
+      "前提是提高女性在科学领域的参与度，所以需要更多女性科学家案例"
+     ],
+     "evidence": [
+      "GCSE",
+      "science",
+      "Rosalind Franklin",
+      "gender bias"
+     ],
+     "keywords": [
+      "GCSE",
+      "science",
+      "gender bias",
+      "female scientists",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-11-04 11:07"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "减少课堂屏幕时间以避免长期健康问题",
+     "summary_zh": "一组临床医生敦促减少英国学校的屏幕时间，以避免近视等健康问题。",
+     "angles": [
+      "因为长时间使用电子设备，所以学生视力下降",
+      "前提是教育部门采取措施，所以保护学生健康"
+     ],
+     "evidence": [
+      "screen time",
+      "health problems",
+      "short-sightedness",
+      "English schools"
+     ],
+     "keywords": [
+      "screen time",
+      "health problems",
+      "education",
+      "school",
+      "long-term"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 13 Oct 2026 09:35:43 GMT",
+     "collected_at": "2026-11-04 11:07"
+    }
+   ]
+  },
   {
    "date": "2026-11-03",
    "generated_at": "2026-11-03T11:59:32+08:00",
