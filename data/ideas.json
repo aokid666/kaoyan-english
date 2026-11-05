@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-11-04T11:07:11+08:00",
+ "updated": "2026-11-05T11:37:03+08:00",
  "days": [
+  {
+   "date": "2026-11-05",
+   "generated_at": "2026-11-05T11:37:03+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "summary_zh": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 05 Nov 2026 03:04:18 GMT",
+     "collected_at": "2026-11-05 11:37"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Children spending too long on maths app TT Rockstars, MP warns",
+     "summary_zh": "The makers of the popular times table game say they are bringing in curfews and limits to screen time.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC 教育",
+     "source_title": "Children spending too long on maths app TT Rockstars, MP warns",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 11:31:39 GMT",
+     "collected_at": "2026-11-05 11:37"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+     "summary_zh": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is be",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "The Guardian",
+     "source_title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+     "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+     "published": "Wed, 04 Nov 2026 18:18:37 GMT",
+     "collected_at": "2026-11-05 11:37"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "US parents and teachers: share your thoughts on Google turning off Search for schools that reject AI",
+     "summary_zh": "Google announced that schools restricting AI entirely will lose access to Google Search. What do you think of this? Google announced this week that schools rest",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 教育",
+     "source_title": "US parents and teachers: share your thoughts on Google turning off Search for schools that reject AI",
+     "url": "https://www.theguardian.com/technology/2026/nov/04/google-search-ai-schools",
+     "published": "Wed, 04 Nov 2026 17:41:31 GMT",
+     "collected_at": "2026-11-05 11:37"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+     "summary_zh": "Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition ",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 科技",
+     "source_title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+     "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+     "published": "Wed, 04 Nov 2026 12:15:31 GMT",
+     "collected_at": "2026-11-05 11:37"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "North America’s most widely distributed game bird is under threat",
+     "summary_zh": "For the first time since 1937, no open permits to hunt ruffed grouse in Ohio have been issued due to falling numbers Every November, hundreds of hunters descend",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 环境",
+     "source_title": "North America’s most widely distributed game bird is under threat",
+     "url": "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline",
+     "published": "Tue, 03 Nov 2026 13:00:07 GMT",
+     "collected_at": "2026-11-05 11:37"
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "generated_at": "2026-11-04T11:07:11+08:00",
