@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-11-06T11:31:34+08:00",
+ "updated": "2026-11-07T11:01:11+08:00",
  "days": [
+  {
+   "date": "2026-11-07",
+   "generated_at": "2026-11-07T11:01:11+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI 股票暴跌原因",
+     "summary_zh": "美国中期选举引发了对人工智能监管的担忧，导致投资者恐慌，但行业担忧已持续一段时间。",
+     "angles": [
+      "因为监管担忧，所以 AI 股票暴跌",
+      "前提是监管加强，行业增长将受影响"
+     ],
+     "evidence": [
+      "美国中期选举",
+      "投资者恐慌"
+     ],
+     "keywords": [
+      "AI regulation",
+      "stock selloff",
+      "investor fear",
+      "industry concern"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Why the US midterms sparked an AI stock selloff",
+     "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 18:32:16 GMT",
+     "collected_at": "2026-11-07 11:01"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "黑天事件应对计划",
+     "summary_zh": "黑天事件可能导致数百万民众失去电力、水和通讯。英国如何准备应对这一事件？",
+     "angles": [
+      "因为基础设施脆弱，所以需要紧急应对计划",
+      "前提是电力中断，社会秩序将受威胁"
+     ],
+     "evidence": [
+      "数百万民众",
+      "电力中断"
+     ],
+     "keywords": [
+      "Black Sky event",
+      "power outage",
+      "public service",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 07 Nov 2026 00:31:54 GMT",
+     "collected_at": "2026-11-07 11:01"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "特斯拉 Cybertruck 生产暂停",
+     "summary_zh": "特斯拉CEO埃隆·马斯克表示，将暂停德克萨斯州的生产，以专注于公司的自动驾驶Cybercabs。",
+     "angles": [
+      "因为生产问题，所以暂停Cybertruck生产",
+      "前提是自动驾驶技术成熟，Cybercabs将受欢迎"
+     ],
+     "evidence": [
+      "特斯拉",
+      "自动驾驶Cybercabs"
+     ],
+     "keywords": [
+      "Tesla",
+      "Cybertruck",
+      "production halt",
+      "autonomous driving"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+     "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 15:02:03 GMT",
+     "collected_at": "2026-11-07 11:01"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "从囚犯到医生",
+     "summary_zh": "Steven Beattie离开苏格兰最暴力的监狱20年后，誓言要改变自己的生活。",
+     "angles": [
+      "因为坚持计划，所以成功转型",
+      "前提是决心和毅力，人生可以改变"
+     ],
+     "evidence": [
+      "Steven Beattie",
+      "苏格兰最暴力的监狱"
+     ],
+     "keywords": [
+      "personal growth",
+      "life transformation",
+      "prison to doctor",
+      "determination"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+     "url": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 23:01:04 GMT",
+     "collected_at": "2026-11-07 11:01"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "误导性的学生贷款信息",
+     "summary_zh": "财政部委员会主席表示，她对大学将还款与咖啡价格相比感到震惊。",
+     "angles": [
+      "因为信息误导，所以学生贷款决策困难",
+      "前提是透明信息，学生可以做出明智选择"
+     ],
+     "evidence": [
+      "财政部委员会",
+      "学生贷款"
+     ],
+     "keywords": [
+      "student loans",
+      "misleading information",
+      "financial decision",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "'Misleading' student loans information left out examples of higher-salary repayments",
+     "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 06 Nov 2026 06:06:36 GMT",
+     "collected_at": "2026-11-07 11:01"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "数学应用TT Rockstars过度使用",
+     "summary_zh": "数学应用TT Rockstars的制作者表示，他们正在引入宵禁和屏幕时间限制。",
+     "angles": [
+      "因为过度使用，所以需要限制",
+      "前提是平衡学习与生活，避免健康问题"
+     ],
+     "evidence": [
+      "TT Rockstars",
+      "屏幕时间限制"
+     ],
+     "keywords": [
+      "math app",
+      "overuse",
+      "screen time limit",
+      "health issue"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Children spending too long on maths app TT Rockstars, MP warns",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 11:31:39 GMT",
+     "collected_at": "2026-11-07 11:01"
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "generated_at": "2026-11-06T11:31:34+08:00",
