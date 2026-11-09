@@ -1,7 +1,177 @@
 {
  "version": 1,
- "updated": "2026-11-08T10:38:57+08:00",
+ "updated": "2026-11-09T10:53:11+08:00",
  "days": [
+  {
+   "date": "2026-11-09",
+   "generated_at": "2026-11-09T10:53:11+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "教育公平问题",
+     "summary_zh": "英国社会调查指出，需要采取措施帮助白人工薪阶层学生，以解决阻碍儿童发展的障碍。",
+     "angles": [
+      "因为教育资源分配不均，所以白人工薪阶层学生面临教育困境。",
+      "前提是改善教育资源分配，才能提高白人工薪阶层学生的教育质量。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "education",
+      "resource allocation",
+      "social inequality",
+      "quality of life",
+      "public service"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Society needs to act to help white working-class pupils, inquiry says",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 01:52:32 GMT",
+     "collected_at": "2026-11-09 10:53"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "睡鼠种群恢复",
+     "summary_zh": "新数据显示，由于夏季变暖，英国睡鼠种群可能正在从数十年的下降中恢复。",
+     "angles": [
+      "因为气候变化导致夏季变暖，所以睡鼠的生存环境得到改善。",
+      "前提是持续关注和保护环境，睡鼠种群有望持续恢复。"
+     ],
+     "evidence": [
+      "decades of decline",
+      "warmer summers"
+     ],
+     "keywords": [
+      "environmental change",
+      "species recovery",
+      "climate change",
+      "health",
+      "ecosystem"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "A glimmer of good news for Britain's sleepy dormouse",
+     "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 00:56:43 GMT",
+     "collected_at": "2026-11-09 10:53"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "禁止未成年人使用二手交易平台",
+     "summary_zh": "英国政府考虑禁止16岁以下儿童使用Vinted和eBay等平台。",
+     "angles": [
+      "因为未成年人容易受到网络诈骗，所以需要限制其使用二手交易平台。",
+      "前提是加强网络安全监管，才能有效保护未成年人。"
+     ],
+     "evidence": [
+      "under-16s",
+      "Vinted",
+      "eBay",
+      "March 2024"
+     ],
+     "keywords": [
+      "technology",
+      "online platforms",
+      "cybersecurity",
+      "child protection",
+      "daily life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Government looking at banning under-16s from Vinted and eBay",
+     "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 08 Nov 2026 15:37:25 GMT",
+     "collected_at": "2026-11-09 10:53"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "数学应用软件使用时间过长",
+     "summary_zh": "议员警告，儿童在数学应用软件TT Rockstars上花费时间过长。",
+     "angles": [
+      "因为过度使用数学应用软件可能导致儿童视力问题，所以需要限制使用时间。",
+      "前提是平衡电子产品的使用，才能促进儿童健康成长。"
+     ],
+     "evidence": [
+      "TT Rockstars",
+      "screen time limits"
+     ],
+     "keywords": [
+      "mathematics",
+      "digital learning",
+      "health concerns",
+      "child development",
+      "screen time"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Children spending too long on maths app TT Rockstars, MP warns",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 11:31:39 GMT",
+     "collected_at": "2026-11-09 10:53"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "社交媒体年龄验证方法",
+     "summary_zh": "Ofcom概述了针对16岁以下儿童社交媒体年龄验证的方法。",
+     "angles": [
+      "因为社交媒体上存在未成年人使用风险，所以需要有效的年龄验证方法。",
+      "前提是加强年龄验证，才能保护未成年人免受网络侵害。"
+     ],
+     "evidence": [
+      "Ofcom",
+      "age verification",
+      "social media",
+      "child protection"
+     ],
+     "keywords": [
+      "public service",
+      "age verification",
+      "social media",
+      "child safety",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+     "collected_at": "2026-11-09 10:53"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "GCSE科学课程中女性科学家缺失",
+     "summary_zh": "研究发现，GCSE科学课程中只有一位女性科学家被提及。",
+     "angles": [
+      "因为女性科学家在科学领域代表性不足，所以需要提高其在教育中的地位。",
+      "前提是增加女性科学家的教育宣传，才能激发女性对科学的兴趣。"
+     ],
+     "evidence": [
+      "GCSE",
+      "science curriculum",
+      "female scientists",
+      "education"
+     ],
+     "keywords": [
+      "culture",
+      "science education",
+      "gender representation",
+      "social participation",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-11-09 10:53"
+    }
+   ]
+  },
   {
    "date": "2026-11-08",
    "generated_at": "2026-11-08T10:38:57+08:00",
