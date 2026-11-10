@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-11-09T10:53:11+08:00",
+ "updated": "2026-11-10T12:44:19+08:00",
  "days": [
+  {
+   "date": "2026-11-10",
+   "generated_at": "2026-11-10T12:44:19+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "英国学校禁止学生携带手机",
+     "summary_zh": "英国政府加强了对学校的指导，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为手机分散注意力，所以禁止携带以提高学习效率。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "school",
+      "technology",
+      "ban",
+      "students",
+      "learning"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 22:51:09 GMT",
+     "collected_at": "2026-11-10 12:44"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "社会需采取措施帮助白人工人阶级学生",
+     "summary_zh": "教育部长支持调查，以了解阻碍儿童发展的障碍。",
+     "angles": [
+      "前提是社会需要认识到教育不平等，所以采取措施帮助弱势群体。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "society",
+      "education",
+      "students",
+      "inclusion",
+      "support"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Society needs to act to help white working-class pupils, inquiry says",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 01:52:32 GMT",
+     "collected_at": "2026-11-10 12:44"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "中学不应在10年级前教授GCSE",
+     "summary_zh": "政府表示，7至9年级的学生应该有更丰富、更有吸引力的学习内容，而不是为GCSE做准备。",
+     "angles": [
+      "因为过早的专业化可能限制学生的兴趣发展，所以应提供更广泛的学习机会。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "secondary",
+      "education",
+      "GCSE",
+      "curriculum",
+      "development"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Secondary schools told to stop teaching GCSEs before Year 10",
+     "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 08 Nov 2026 19:00:32 GMT",
+     "collected_at": "2026-11-10 12:44"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "议员警告，孩子们在TT Rockstars上花费时间过长",
+     "summary_zh": "数学应用程序TT Rockstars的制作者表示，他们正在引入宵禁和屏幕时间限制。",
+     "angles": [
+      "因为过度使用电子设备可能影响孩子的身心健康，所以需要限制使用时间。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "children",
+      "education",
+      "technology",
+      "screen-time",
+      "health"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Children spending too long on maths app TT Rockstars, MP warns",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 04 Nov 2026 11:31:39 GMT",
+     "collected_at": "2026-11-10 12:44"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Ofcom概述了针对16岁以下儿童的社交媒体禁令前的年龄验证方法",
+     "summary_zh": "Ofcom表示，照片和数字ID、银行检查或面部年龄估计可以帮助证明某人已满16岁。",
+     "angles": [
+      "因为保护未成年人免受网络不良信息的影响，所以需要有效的年龄验证方法。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "Ofcom",
+      "social media",
+      "age verification",
+      "children",
+      "protection"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+     "collected_at": "2026-11-10 12:44"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "研究发现GCSE科学考试中只有一位女性科学家被提及",
+     "summary_zh": "一项新的研究发现，罗莎琳德·富兰克林是唯一在4年级科学课程中被提及的女性。",
+     "angles": [
+      "因为性别平等在科学教育中的重要性，所以需要更多女性科学家的例子。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "science",
+      "education",
+      "gender equality",
+      "role models",
+      "GCSE"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Only one female scientist named in GCSEs, research finds",
+     "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 21 Oct 2026 23:02:45 GMT",
+     "collected_at": "2026-11-10 12:44"
+    }
+   ]
+  },
   {
    "date": "2026-11-09",
    "generated_at": "2026-11-09T10:53:11+08:00",
