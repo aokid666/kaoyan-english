@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-11-10T12:44:19+08:00",
+ "updated": "2026-11-11T10:54:59+08:00",
  "days": [
+  {
+   "date": "2026-11-11",
+   "generated_at": "2026-11-11T10:54:59+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "US Army soldier suspected of spying for Russia arrested in UK",
+     "summary_zh": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "US Army soldier suspected of spying for Russia arrested in UK",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+     "collected_at": "2026-11-11 10:54"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "summary_zh": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-11 10:54"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+     "summary_zh": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossi",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "The Guardian",
+     "source_title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+     "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+     "published": "Tue, 10 Nov 2026 15:39:26 GMT",
+     "collected_at": "2026-11-11 10:54"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+     "summary_zh": "Almost two-thirds of school leaders polled say new regime is much more intense than previous framework More than half of headteachers in England who were polled",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 教育",
+     "source_title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+     "url": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
+     "published": "Tue, 10 Nov 2026 00:01:22 GMT",
+     "collected_at": "2026-11-11 10:54"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+     "summary_zh": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Nvidia’s board needs to do some succession planning – sharp",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 科技",
+     "source_title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+     "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+     "published": "Tue, 10 Nov 2026 12:45:54 GMT",
+     "collected_at": "2026-11-11 10:54"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Jimmy Carter’s Georgia farm acquired by conservation group planning to open it to public",
+     "summary_zh": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a ",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 环境",
+     "source_title": "Jimmy Carter’s Georgia farm acquired by conservation group planning to open it to public",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
+     "published": "Tue, 10 Nov 2026 15:01:41 GMT",
+     "collected_at": "2026-11-11 10:54"
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "generated_at": "2026-11-10T12:44:19+08:00",
