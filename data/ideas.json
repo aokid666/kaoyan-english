@@ -1,7 +1,154 @@
 {
  "version": 1,
- "updated": "2026-11-11T10:54:59+08:00",
+ "updated": "2026-11-12T12:01:04+08:00",
  "days": [
+  {
+   "date": "2026-11-12",
+   "generated_at": "2026-11-12T12:01:04+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "福利体系改革",
+     "summary_zh": "英国提议对福利体系进行彻底改革，减少25岁以下人群的主要疾病福利。",
+     "angles": [
+      "因为福利体系改革，所以年轻人需要更多自我发展能力"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "welfare system",
+      "reform",
+      "youth",
+      "self-development"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Some under-25s should get fewer benefits, Milburn review to say",
+     "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 23:22:04 GMT",
+     "collected_at": "2026-11-12 12:01"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "尊重与秩序",
+     "summary_zh": "在退伍军人纪念日仪式后，包括国防部长在内的团体因在无名烈士墓前喧哗而被制止。",
+     "angles": [
+      "前提是尊重公共秩序，个人成长才能得到保障"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "respect",
+      "order",
+      "personal growth",
+      "public ceremony"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+     "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 21:43:35 GMT",
+     "collected_at": "2026-11-12 12:01"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "药品价格比较",
+     "summary_zh": "一些感冒和流感药物的价格是普通止痛药片的20倍。",
+     "angles": [
+      "因为药品价格差异，所以消费者需要更多价格比较信息"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "pharmaceuticals",
+      "price comparison",
+      "consumer",
+      "health care"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Are max strength cold and flu pills worth the money?",
+     "url": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 12 Nov 2026 00:12:28 GMT",
+     "collected_at": "2026-11-12 12:01"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "环境威胁与应对",
+     "summary_zh": "意大利、苏格兰和北爱尔兰的数千所学校因疑似炸弹威胁而关闭。",
+     "angles": [
+      "因为环境威胁，所以需要加强公共安全意识"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "environmental threat",
+      "public safety",
+      "school closure",
+      "emergency response"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 18:38:45 GMT",
+     "collected_at": "2026-11-12 12:01"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "化学物质污染下降",
+     "summary_zh": "英格兰河流中持久性有毒化学物质水平显著下降。",
+     "angles": [
+      "因为限制化学物质使用，所以环境质量得到改善"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "chemical pollution",
+      "environmental quality",
+      "regulation",
+      "improvement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+     "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 12 Nov 2026 00:12:59 GMT",
+     "collected_at": "2026-11-12 12:01"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "人工智能在学术评估中的应用",
+     "summary_zh": "学生使用人工智能完成大学评估，监管机构发出警告。",
+     "angles": [
+      "因为人工智能滥用，所以需要加强学术诚信教育"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "artificial intelligence",
+      "academic assessment",
+      "academic integrity",
+      "education"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-12 12:01"
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "generated_at": "2026-11-11T10:54:59+08:00",
