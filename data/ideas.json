@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-11-12T12:01:04+08:00",
+ "updated": "2026-11-13T11:31:05+08:00",
  "days": [
+  {
+   "date": "2026-11-13",
+   "generated_at": "2026-11-13T11:31:05+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "医生过劳风险",
+     "summary_zh": "初级医生因过度工作而面临过劳风险，这可能会危及产妇安全。",
+     "angles": [
+      "因为工作压力大，所以初级医生更容易过劳；前提是工作环境改善，过劳风险才能降低。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "doctor",
+      "burnout",
+      "risk",
+      "maternity",
+      "workload"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+     "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 13 Nov 2026 00:55:31 GMT",
+     "collected_at": "2026-11-13 11:31"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "白工阶级学生的教育奇迹",
+     "summary_zh": "一所学校在苏瑟兰地区帮助白工阶级学生克服教育障碍，取得优异成绩。",
+     "angles": [
+      "因为学校提供了针对性的支持，所以学生能够克服社会背景带来的挑战；前提是教育公平，每个学生都有成功的机会。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "white working-class",
+      "education",
+      "success",
+      "barriers",
+      "support"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The school where white working-class pupils defy the odds",
+     "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 13 Nov 2026 00:53:49 GMT",
+     "collected_at": "2026-11-13 11:31"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "AI辅助大学评估的争议",
+     "summary_zh": "使用AI完成大学评估引发担忧，监管机构警告学生可能使用AI作弊。",
+     "angles": [
+      "因为AI使用不当可能导致学术不诚实，所以需要加强监管；前提是学生诚信，AI才能作为辅助工具。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "AI",
+      "university",
+      "assessment",
+      "cheating",
+      "regulation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-13 11:31"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "英国学校手机禁令",
+     "summary_zh": "英国政府加强了对学校手机使用的指导，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为手机干扰学习，所以限制使用；前提是学生专注，学习效果才能提高。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "school",
+      "mobile phone",
+      "ban",
+      "distraction",
+      "focus"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-13 11:31"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "关注白工阶级学生的教育",
+     "summary_zh": "社会需要采取措施帮助白工阶级学生克服教育障碍。",
+     "angles": [
+      "因为社会不平等导致教育机会不均等，所以需要特别关注；前提是公平教育，每个孩子都有成长的机会。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "education",
+      "white working-class",
+      "inequality",
+      "opportunity",
+      "support"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Society needs to act to help white working-class pupils, inquiry says",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 01:52:32 GMT",
+     "collected_at": "2026-11-13 11:31"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "中学教育改革",
+     "summary_zh": "政府要求中学停止在10年级之前教授GCSE课程，以提供更丰富、更有吸引力的学习体验。",
+     "angles": [
+      "因为过早的专业化限制了学生的兴趣发展，所以需要更全面的教育；前提是学生兴趣，教育才能激发潜能。"
+     ],
+     "evidence": [],
+     "keywords": [
+      "secondary school",
+      "education reform",
+      "GCSE",
+      "interest",
+      "learning experience"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Secondary schools told to stop teaching GCSEs before Year 10",
+     "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 08 Nov 2026 19:00:32 GMT",
+     "collected_at": "2026-11-13 11:31"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "generated_at": "2026-11-12T12:01:04+08:00",
