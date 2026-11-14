@@ -1,7 +1,177 @@
 {
  "version": 1,
- "updated": "2026-11-13T11:31:05+08:00",
+ "updated": "2026-11-14T11:27:59+08:00",
  "days": [
+  {
+   "date": "2026-11-14",
+   "generated_at": "2026-11-14T11:27:59+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "SpaceX火箭测试失败",
+     "summary_zh": "SpaceX公司的Starship火箭在双重捕获测试中失败，火箭助推器未能被成功捕获。",
+     "angles": [
+      "因为SpaceX的技术尚未完善，所以火箭测试失败。",
+      "前提是SpaceX继续投资研发，才能提高火箭测试的成功率。"
+     ],
+     "evidence": [
+      "SpaceX"
+     ],
+     "keywords": [
+      "SpaceX",
+      "rocket",
+      "test",
+      "failure",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Setback for SpaceX Starship rocket's double-catch test",
+     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+     "collected_at": "2026-11-14 11:27"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "微软全球宕机事件",
+     "summary_zh": "微软全球服务出现故障，专家称这是对世界对大型科技公司依赖程度的提醒。",
+     "angles": [
+      "因为全球对大型科技公司的依赖，所以微软宕机事件影响广泛。",
+      "前提是提高对科技服务的监管，才能减少类似事件的发生。"
+     ],
+     "evidence": [
+      "Microsoft",
+      "global outage"
+     ],
+     "keywords": [
+      "Microsoft",
+      "outage",
+      "technology",
+      "reliance",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+     "collected_at": "2026-11-14 11:27"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "英国脱欧运动新活动",
+     "summary_zh": "新运动“Stay Out”在英国脱欧峰会前夕启动，旨在反对欧盟成员。",
+     "angles": [
+      "因为英国社会对欧盟成员存在分歧，所以新运动应运而生。",
+      "前提是公众对欧盟成员的看法，将影响脱欧后的英国政策。"
+     ],
+     "evidence": [
+      "UK-EU summit",
+      "Stay Out"
+     ],
+     "keywords": [
+      "UK",
+      "EU",
+      "campaign",
+      "society",
+      "culture"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "New campaign against EU membership launches ahead of UK-EU summit",
+     "url": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 13 Nov 2026 21:39:46 GMT",
+     "collected_at": "2026-11-14 11:27"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "大猩猩Jojo寻找伴侣",
+     "summary_zh": "被非法猎捕的大猩猩Jojo在动物园中孤独生活，其饲养员希望为他寻找伴侣。",
+     "angles": [
+      "因为Jojo的孤独生活可能影响其心理健康，所以寻找伴侣至关重要。",
+      "前提是动物福利应得到重视，动物园应努力改善动物的生活条件。"
+     ],
+     "evidence": [
+      "Jojo",
+      "gorilla",
+      "captivity",
+      "animal welfare"
+     ],
+     "keywords": [
+      "animal",
+      "growth",
+      "learning",
+      "welfare",
+      "environment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+     "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+     "collected_at": "2026-11-14 11:27"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "学生使用AI完成大学评估",
+     "summary_zh": "学生使用AI在几分钟内完成大学评估，监管机构发出警告。",
+     "angles": [
+      "因为AI的使用可能影响评估的公平性，所以监管机构发出警告。",
+      "前提是加强对AI在教育领域的监管，才能确保教育质量。"
+     ],
+     "evidence": [
+      "AI",
+      "university",
+      "assessment",
+      "regulation"
+     ],
+     "keywords": [
+      "technology",
+      "education",
+      "AI",
+      "assessment",
+      "quality"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-14 11:27"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "英国学校禁止学生携带手机",
+     "summary_zh": "英国政府加强了对学校的指导，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为手机过度使用可能影响学生健康，所以学校禁止学生携带手机。",
+      "前提是学校和家长应共同努力，减少学生对手机的依赖。"
+     ],
+     "evidence": [
+      "England",
+      "schools",
+      "phones",
+      "regulation"
+     ],
+     "keywords": [
+      "public service",
+      "quality of life",
+      "schools",
+      "regulation",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-14 11:27"
+    }
+   ]
+  },
   {
    "date": "2026-11-13",
    "generated_at": "2026-11-13T11:31:05+08:00",
