@@ -1,7 +1,170 @@
 {
  "version": 1,
- "updated": "2026-11-14T11:27:59+08:00",
+ "updated": "2026-11-15T10:56:58+08:00",
  "days": [
+  {
+   "date": "2026-11-15",
+   "generated_at": "2026-11-15T10:56:58+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "解决“无业者”问题的尝试",
+     "summary_zh": "英国政府尝试解决无业者（Neets）问题，而这次尝试有何不同。",
+     "angles": [
+      "因为缺乏有效措施，所以Neets问题长期存在。",
+      "前提是提供实用的就业技能，才能减少Neets人数。"
+     ],
+     "evidence": [
+      "Neets",
+      "Laura Kuenssberg"
+     ],
+     "keywords": [
+      "Neets",
+      "employment skills",
+      "government initiative",
+      "youth unemployment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+     "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+     "collected_at": "2026-11-15 10:56"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "SpaceX的火箭回收技术",
+     "summary_zh": "SpaceX成功使用机械臂回收Starship火箭的部分部件。",
+     "angles": [
+      "因为SpaceX的创新技术，所以火箭回收变得更加高效。",
+      "前提是持续的技术研发，才能实现火箭的重复使用。"
+     ],
+     "evidence": [
+      "SpaceX",
+      "Starship rocket",
+      "mechanical arms"
+     ],
+     "keywords": [
+      "SpaceX",
+      "rocket recovery",
+      "innovation",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+     "collected_at": "2026-11-15 10:56"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "学生就业技能培训",
+     "summary_zh": "英国十年级学生正在学习就业技能，以减少成为无业者的可能性。",
+     "angles": [
+      "因为就业技能培训，所以学生能更好地适应职场。",
+      "前提是早期培养，学生才能在职场中脱颖而出。"
+     ],
+     "evidence": [
+      "Year 10 pupils",
+      "employability skills"
+     ],
+     "keywords": [
+      "student employment",
+      "training",
+      "workplace readiness",
+      "youth development"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 00:05:56 GMT",
+     "collected_at": "2026-11-15 10:56"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "宫颈癌治疗后的幸运经历",
+     "summary_zh": "节目主持人Hannah Fry在接受了宫颈癌治疗后感到非常幸运。",
+     "angles": [
+      "因为现代医疗技术，所以患者有更好的生存机会。",
+      "前提是早期发现和治疗，癌症患者的生存率会提高。"
+     ],
+     "evidence": [
+      "Hannah Fry",
+      "cervical cancer treatment",
+      "five-year clear"
+     ],
+     "keywords": [
+      "cancer treatment",
+      "healthcare technology",
+      "patient survival",
+      "early detection"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+     "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 00:09:29 GMT",
+     "collected_at": "2026-11-15 10:56"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "埃博拉病毒幸存者的故事",
+     "summary_zh": "一名埃博拉病毒幸存者证明，即使面对恐惧和错误信息，也有生存的可能。",
+     "angles": [
+      "因为勇敢寻求治疗，所以患者得以幸存。",
+      "前提是正确的信息传播，人们才能做出正确的决定。"
+     ],
+     "evidence": [
+      "Ebola outbreak",
+      "Dr Kamwanga",
+      "misinformation"
+     ],
+     "keywords": [
+      "Ebola virus",
+      "survivor story",
+      "health crisis",
+      "correct information"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 00:06:55 GMT",
+     "collected_at": "2026-11-15 10:56"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI在大学评估中的使用",
+     "summary_zh": "英国学生使用AI完成大学评估的现象引起了监管机构的警告。",
+     "angles": [
+      "因为AI的使用，所以学术诚信受到挑战。",
+      "前提是严格的监管，才能确保学术评估的公正性。"
+     ],
+     "evidence": [
+      "Office for Students",
+      "AI in education",
+      "academic integrity"
+     ],
+     "keywords": [
+      "AI in education",
+      "academic assessment",
+      "regulation",
+      "technology ethics"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-15 10:56"
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "generated_at": "2026-11-14T11:27:59+08:00",
