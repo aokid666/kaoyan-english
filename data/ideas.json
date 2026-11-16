@@ -1,7 +1,169 @@
 {
  "version": 1,
- "updated": "2026-11-15T10:56:58+08:00",
+ "updated": "2026-11-16T10:57:43+08:00",
  "days": [
+  {
+   "date": "2026-11-16",
+   "generated_at": "2026-11-16T10:57:43+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "降低年轻人群保险以创造就业",
+     "summary_zh": "报告建议在未来五年内逐步降低雇佣成本，以创造更多就业机会。",
+     "angles": [
+      "因为降低保险成本，所以企业雇佣成本降低，从而增加就业机会。",
+      "前提是政府能够有效监管劳动力市场，避免劳动力市场失衡。"
+     ],
+     "evidence": [
+      "5年",
+      "降低雇佣成本"
+     ],
+     "keywords": [
+      "national insurance",
+      "employment",
+      "cost reduction",
+      "job creation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 22:30:03 GMT",
+     "collected_at": "2026-11-16 10:57"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "更多消化不良者将接受癌症检测",
+     "summary_zh": "一种新的“海绵”检测方法可以在诊所进行，而不是在医院，这可能会使更多消化不良者接受癌症检测。",
+     "angles": [
+      "因为新的检测方法方便快捷，所以更多人愿意接受检测。",
+      "前提是这种方法被证明是准确和有效的。"
+     ],
+     "evidence": [
+      "诊所",
+      "海绵检测"
+     ],
+     "keywords": [
+      "cancer test",
+      "digestive problems",
+      "GP surgery",
+      "screening"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 16 Nov 2026 00:47:04 GMT",
+     "collected_at": "2026-11-16 10:57"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "学生使用AI完成大学评估",
+     "summary_zh": "学生频繁使用AI完成大学评估，监管机构发出警告。",
+     "angles": [
+      "因为AI的使用难以检测，所以可能存在学术不端行为。",
+      "前提是教育机构需要加强对AI使用的监管。"
+     ],
+     "evidence": [
+      "AI",
+      "university assessments",
+      "academic integrity"
+     ],
+     "keywords": [
+      "AI usage",
+      "university education",
+      "academic dishonesty",
+      "regulation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-16 10:57"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "英国学校将禁止学生携带手机",
+     "summary_zh": "英国政府加强了对学校的规定，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为过度使用手机影响学习，所以政府采取措施限制使用。",
+      "前提是学校需要创造一个无干扰的学习环境。"
+     ],
+     "evidence": [
+      "手机",
+      "school rules",
+      "screen time"
+     ],
+     "keywords": [
+      "school rules",
+      "phone ban",
+      "screen time",
+      "education environment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-16 10:57"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "社会需帮助白工作阶级学生",
+     "summary_zh": "一项调查指出，社会需要采取措施帮助白工作阶级学生克服教育障碍。",
+     "angles": [
+      "因为社会不平等，所以白工作阶级学生在教育上面临更多障碍。",
+      "前提是政府和社会需要共同努力解决这些问题。"
+     ],
+     "evidence": [
+      "教育障碍",
+      "社会不平等"
+     ],
+     "keywords": [
+      "social inequality",
+      "education barriers",
+      "white working-class students",
+      "societal support"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Society needs to act to help white working-class pupils, inquiry says",
+     "url": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 09 Nov 2026 01:52:32 GMT",
+     "collected_at": "2026-11-16 10:57"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "中学不应在10年级前教授GCSE",
+     "summary_zh": "政府表示，7至9年级的学生应该有更丰富、更有吸引力的学习内容，而不是为GCSE做准备。",
+     "angles": [
+      "因为过早专注于考试，所以学生失去了学习的乐趣。",
+      "前提是教育应该注重学生的全面发展和兴趣培养。"
+     ],
+     "evidence": [
+      "GCSE",
+      "Year 10",
+      "education reform"
+     ],
+     "keywords": [
+      "GCSE education",
+      "early exams",
+      "student development",
+      "education reform"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Secondary schools told to stop teaching GCSEs before Year 10",
+     "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 08 Nov 2026 19:00:32 GMT",
+     "collected_at": "2026-11-16 10:57"
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "generated_at": "2026-11-15T10:56:58+08:00",
