@@ -1,7 +1,157 @@
 {
  "version": 1,
- "updated": "2026-11-16T10:57:43+08:00",
+ "updated": "2026-11-17T13:11:23+08:00",
  "days": [
+  {
+   "date": "2026-11-17",
+   "generated_at": "2026-11-17T13:11:23+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "青年就业改革",
+     "summary_zh": "英国报告称，需要全面改革教育、工作和福利系统，以帮助44万年轻人就业。",
+     "angles": [
+      "因为教育系统与工作需求脱节，所以需要改革以提升青年就业能力"
+     ],
+     "evidence": [
+      "44万",
+      "Alan Milburn"
+     ],
+     "keywords": [
+      "youth employment",
+      "reform",
+      "education system",
+      "workability"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 16 Nov 2026 22:32:47 GMT",
+     "collected_at": "2026-11-17 13:11"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "英国青年失业危机",
+     "summary_zh": "BBC报道指出，百万16至24岁年轻人未工作、未接受教育或培训。",
+     "angles": [
+      "因为缺乏工作机会，所以青年失业问题日益严重"
+     ],
+     "evidence": [
+      "百万",
+      "BBC News"
+     ],
+     "keywords": [
+      "youth unemployment",
+      "crisis",
+      "work opportunity",
+      "training"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The young people caught up in Britain's Neets crisis",
+     "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 00:06:34 GMT",
+     "collected_at": "2026-11-17 13:11"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "寻找工作指南",
+     "summary_zh": "BBC提供查找工具，帮助16-24岁年轻人了解当地就业市场。",
+     "angles": [
+      "因为了解就业市场，所以有助于年轻人找到合适的工作"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "job search",
+      "youth",
+      "local job market",
+      "information tool"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+     "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 00:00:03 GMT",
+     "collected_at": "2026-11-17 13:11"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "学生辍学问题",
+     "summary_zh": "英国政府认为，约三分之一经常缺课的青少年最终不会接受教育、就业或培训。",
+     "angles": [
+      "因为缺乏关注，所以学生辍学问题严重"
+     ],
+     "evidence": [
+      "三分之一",
+      "BBC News"
+     ],
+     "keywords": [
+      "student dropout",
+      "attention",
+      "education",
+      "training"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Children dropping out of school: What can politicians do about it?",
+     "url": "https://www.bbc.co.uk/news/articles/cje39lx9267vo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 16 Nov 2026 22:23:41 GMT",
+     "collected_at": "2026-11-17 13:11"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "减少屏幕考试和课程作业",
+     "summary_zh": "英国保守党承诺停止基于屏幕的考试并减少课程作业。",
+     "angles": [
+      "因为过度依赖屏幕，所以需要减少考试和课程作业"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "screen-based exams",
+      "coursework",
+      "over-reliance",
+      "conservative party"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Tories pledge to halt screen-based school exams and cut coursework",
+     "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 22:00:37 GMT",
+     "collected_at": "2026-11-17 13:11"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "AI辅助大学评估",
+     "summary_zh": "学生频繁使用AI完成大学评估，监管机构发出警告。",
+     "angles": [
+      "因为AI使用不当，所以可能影响评估的可靠性"
+     ],
+     "evidence": [
+      "BBC News"
+     ],
+     "keywords": [
+      "AI",
+      "university assessment",
+      "reliability",
+      "regulatory warning"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-17 13:11"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "generated_at": "2026-11-16T10:57:43+08:00",
