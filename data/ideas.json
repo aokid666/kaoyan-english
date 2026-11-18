@@ -1,7 +1,174 @@
 {
  "version": 1,
- "updated": "2026-11-17T13:11:23+08:00",
+ "updated": "2026-11-18T12:39:52+08:00",
  "days": [
+  {
+   "date": "2026-11-18",
+   "generated_at": "2026-11-18T12:39:52+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI芯片销售受限",
+     "summary_zh": "中国面临Nvidia间谍丑闻，可能加剧美国对高端芯片销售的限制。",
+     "angles": [
+      "因为间谍丑闻，所以中国AI梦想受挫"
+     ],
+     "evidence": [
+      "Nvidia",
+      "间谍丑闻"
+     ],
+     "keywords": [
+      "AI",
+      "芯片",
+      "限制",
+      "销售",
+      "间谍"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+     "collected_at": "2026-11-18 12:39"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "福利改革预防失落一代",
+     "summary_zh": "政府支持福利改革，将支出从福利转向就业支持，以预防‘失落一代’。",
+     "angles": [
+      "因为福利改革，所以提高就业机会"
+     ],
+     "evidence": [
+      "政府",
+      "福利改革",
+      "就业支持"
+     ],
+     "keywords": [
+      "福利",
+      "改革",
+      "就业",
+      "生活质量",
+      "政府政策"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Government backs welfare shake-up to prevent 'lost generation'",
+     "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 18:43:05 GMT",
+     "collected_at": "2026-11-18 12:39"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "无人驾驶出租车停运",
+     "summary_zh": "Waymo因交通事故被禁止在加州高速公路上运营无人驾驶出租车。",
+     "angles": [
+      "因为交通事故，所以停运无人驾驶出租车"
+     ],
+     "evidence": [
+      "Waymo",
+      "无人驾驶出租车",
+      "交通事故",
+      "加州"
+     ],
+     "keywords": [
+      "无人驾驶",
+      "出租车",
+      "科技",
+      "交通安全",
+      "加州"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Waymo pulls driverless taxis from all US freeways",
+     "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 18 Nov 2026 03:07:22 GMT",
+     "collected_at": "2026-11-18 12:39"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "解决警察不平等感知",
+     "summary_zh": "内政部长计划采取措施解决公众对警察存在两阶层的感知。",
+     "angles": [
+      "因为公众感知，所以需要改善警察不平等"
+     ],
+     "evidence": [
+      "内政部长",
+      "警察",
+      "不平等",
+      "公众感知"
+     ],
+     "keywords": [
+      "警察",
+      "公共服务",
+      "生活质量",
+      "不平等",
+      "感知"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Home secretary plans to tackle 'perception of two-tier policing'",
+     "url": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 22:31:32 GMT",
+     "collected_at": "2026-11-18 12:39"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "年轻人就业困难",
+     "summary_zh": "年轻人表示很难找到工作，政府提出广泛措施帮助他们就业。",
+     "angles": [
+      "因为就业困难，所以政府采取措施"
+     ],
+     "evidence": [
+      "政府",
+      "就业困难",
+      "年轻人"
+     ],
+     "keywords": [
+      "就业",
+      "困难",
+      "年轻人",
+      "能力发展",
+      "政府措施"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
+     "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 22:51:15 GMT",
+     "collected_at": "2026-11-18 12:39"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "教育系统改革",
+     "summary_zh": "大规模改革教育、工作和福利系统，以帮助44万年轻人就业。",
+     "angles": [
+      "因为教育系统问题，所以需要改革"
+     ],
+     "evidence": [
+      "教育系统",
+      "改革",
+      "就业",
+      "年轻人"
+     ],
+     "keywords": [
+      "教育",
+      "改革",
+      "系统",
+      "就业",
+      "年轻人"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 08:12:31 GMT",
+     "collected_at": "2026-11-18 12:39"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "generated_at": "2026-11-17T13:11:23+08:00",
