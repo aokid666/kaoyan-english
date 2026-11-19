@@ -1,7 +1,186 @@
 {
  "version": 1,
- "updated": "2026-11-18T12:39:52+08:00",
+ "updated": "2026-11-19T12:23:29+08:00",
  "days": [
+  {
+   "date": "2026-11-19",
+   "generated_at": "2026-11-19T12:23:29+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "麦当劳性侵事件",
+     "summary_zh": "麦当劳前员工呼吁公司改变对待年轻员工的方式，因为公司被判定可以继续法律诉讼。",
+     "angles": [
+      "因为麦当劳对待年轻员工不当，所以员工呼吁公司改变对待方式。",
+      "前提是麦当劳改变对待方式，员工的工作环境将得到改善。"
+     ],
+     "evidence": [
+      "McDonald's sex abuse",
+      "former McDonald's worker"
+     ],
+     "keywords": [
+      "McDonald's",
+      "sexual abuse",
+      "employee",
+      "workplace",
+      "reform"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+     "collected_at": "2026-11-19 12:23"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI巨头Anthropic估值高达1.5万亿美元",
+     "summary_zh": "成立仅五年的AI公司Anthropic在即将上市时估值高达1.5万亿美元，成为人工智能领域的巨头。",
+     "angles": [
+      "因为Anthropic在AI领域的创新，所以其估值高达1.5万亿美元。",
+      "前提是Anthropic持续创新，其市值有望继续增长。"
+     ],
+     "evidence": [
+      "Anthropic",
+      "artificial intelligence",
+      "valuation",
+      "IPO",
+      "1.5tn"
+     ],
+     "keywords": [
+      "Anthropic",
+      "AI",
+      "valuation",
+      "innovation",
+      "market"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 19 Nov 2026 02:20:15 GMT",
+     "collected_at": "2026-11-19 12:23"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "Anthropic的IPO能否阻止AI泡沫破裂？",
+     "summary_zh": "Anthropic备受期待的IPO预计使其成为最有价值的美国公司之一，但其未来充满不确定性。",
+     "angles": [
+      "因为Anthropic的IPO充满不确定性，所以AI泡沫可能破裂。",
+      "前提是投资者对Anthropic的未来持谨慎态度，AI泡沫将受到冲击。"
+     ],
+     "evidence": [
+      "Anthropic",
+      "IPO",
+      "US companies",
+      "uncertainty",
+      "AI bubble"
+     ],
+     "keywords": [
+      "Anthropic",
+      "IPO",
+      "uncertainty",
+      "investor",
+      "AI bubble"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+     "collected_at": "2026-11-19 12:23"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "Bayesian游艇事故调查：船员不知风险",
+     "summary_zh": "Bayesian游艇在意大利西西里岛附近沉没，造成七人死亡，包括英国科技大亨Mike Lynch，调查称船员不知风险。",
+     "angles": [
+      "因为船员不知风险，所以导致悲剧发生。",
+      "前提是提高船员的安全意识，可以减少此类事故。"
+     ],
+     "evidence": [
+      "Bayesian yacht accident",
+      "Sicily",
+      "Mike Lynch",
+      "investigation",
+      "risk unawareness"
+     ],
+     "keywords": [
+      "yacht accident",
+      "risk",
+      "safety",
+      "investigation",
+      "loss of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Crew unaware of risks before Bayesian yacht accident, say investigators",
+     "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 19 Nov 2026 00:05:31 GMT",
+     "collected_at": "2026-11-19 12:23"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "乌克兰在地下与俄罗斯作战",
+     "summary_zh": "BBC记者报道乌克兰军队在地下与俄罗斯作战，战斗在俄罗斯无人机视线之外。",
+     "angles": [
+      "因为乌克兰在地下与俄罗斯作战，所以提高了战斗的隐蔽性。",
+      "前提是地下战斗，乌克兰军队可以避免空中打击。"
+     ],
+     "evidence": [
+      "Ukraine",
+      "underground war",
+      "Russia",
+      "Ukrainian forces",
+      "drones"
+     ],
+     "keywords": [
+      "Ukraine",
+      "underground war",
+      "Russia",
+      "conflict",
+      "drone"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+     "collected_at": "2026-11-19 12:23"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "孩子撒谎可能不是坏事",
+     "summary_zh": "专家解释说，当孩子撒谎时，父母可能会生气，但撒谎是他们成长的一部分。",
+     "angles": [
+      "因为撒谎是孩子成长的一部分，所以父母应该理解并引导他们。",
+      "前提是父母正确引导，撒谎可以成为孩子社交技能的一部分。"
+     ],
+     "evidence": [
+      "child lying",
+      "parental understanding",
+      "development",
+      "social skills"
+     ],
+     "keywords": [
+      "child",
+      "lying",
+      "development",
+      "parent",
+      "social skills"
+     ],
+     "essay_type": "小作文",
+     "source": "BBC News",
+     "source_title": "Is your child lying to you? That might not be a bad thing",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 19 Nov 2026 00:12:57 GMT",
+     "collected_at": "2026-11-19 12:23"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "generated_at": "2026-11-18T12:39:52+08:00",
