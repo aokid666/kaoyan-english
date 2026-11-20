@@ -1,7 +1,159 @@
 {
  "version": 1,
- "updated": "2026-11-19T12:23:29+08:00",
+ "updated": "2026-11-20T12:09:53+08:00",
  "days": [
+  {
+   "date": "2026-11-20",
+   "generated_at": "2026-11-20T12:09:53+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "冰箱安全危机",
+     "summary_zh": "数以万计的英国冰箱在秘密全国行动中被保护免受黑客攻击。",
+     "angles": [
+      "因为网络攻击风险增加，所以加强设备安全至关重要"
+     ],
+     "evidence": [
+      "数以万计的冰箱"
+     ],
+     "keywords": [
+      "cybersecurity",
+      "fridge",
+      "hack",
+      "operation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+     "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+     "collected_at": "2026-11-20 12:09"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "英国与欧盟流动计划",
+     "summary_zh": "英国与欧盟的流动计划预计每年将惠及多达20万年轻人。",
+     "angles": [
+      "因为该计划提供更多交流机会，所以有助于促进跨文化理解"
+     ],
+     "evidence": [
+      "200,000 young people"
+     ],
+     "keywords": [
+      "mobility scheme",
+      "EU",
+      "youth",
+      "exchange"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 02:40:49 GMT",
+     "collected_at": "2026-11-20 12:09"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "胰腺癌新药试验",
+     "summary_zh": "一项试验显示，一种新的每日药物似乎可以缩小甚至消除某些胰腺癌患者的肿瘤。",
+     "angles": [
+      "因为新药的出现，所以胰腺癌的治疗前景更加乐观"
+     ],
+     "evidence": [
+      "Daily pill daraxonrasib",
+      "tumours vanish"
+     ],
+     "keywords": [
+      "pancreatic cancer",
+      "pharmaceutical",
+      "trial",
+      "treatment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 00:08:22 GMT",
+     "collected_at": "2026-11-20 12:09"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "Airbnb新规定",
+     "summary_zh": "Airbnb的新规定可能意味着客人需要承担更多责任，但费用可能更高。",
+     "angles": [
+      "因为新规定可能增加成本，所以消费者需权衡利弊"
+     ],
+     "evidence": [
+      "new house rules",
+      "higher costs"
+     ],
+     "keywords": [
+      "Airbnb",
+      "house rules",
+      "cost",
+      "consumer"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Airbnb's divisive new house rules come into force",
+     "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 00:12:28 GMT",
+     "collected_at": "2026-11-20 12:09"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "政府计划帮助年轻人就业",
+     "summary_zh": "一份政府支持的报告称，其建议可能帮助44万年轻人到2036年就业。",
+     "angles": [
+      "因为就业机会有限，所以政府计划至关重要"
+     ],
+     "evidence": [
+      "440,000 young people",
+      "2036"
+     ],
+     "keywords": [
+      "employment",
+      "government plan",
+      "youth",
+      "job"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 14:43:05 GMT",
+     "collected_at": "2026-11-20 12:09"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI在大学评估中的使用",
+     "summary_zh": "学生经常使用AI进行评估，监管机构警告称这些使用方式可能无法可靠检测。",
+     "angles": [
+      "因为AI的使用可能不公平，所以需要加强监管"
+     ],
+     "evidence": [
+      "AI",
+      "university assessments",
+      "unreliably detected"
+     ],
+     "keywords": [
+      "AI",
+      "assessment",
+      "university",
+      "regulation"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Students passing university assessments in minutes using AI, regulator warns",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+     "collected_at": "2026-11-20 12:09"
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "generated_at": "2026-11-19T12:23:29+08:00",
