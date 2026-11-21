@@ -1,7 +1,162 @@
 {
  "version": 1,
- "updated": "2026-11-20T12:09:53+08:00",
+ "updated": "2026-11-21T12:10:27+08:00",
  "days": [
+  {
+   "date": "2026-11-21",
+   "generated_at": "2026-11-21T12:10:27+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "英国与欧盟青年交流计划",
+     "summary_zh": "英国与欧盟达成协议，推出青年交流计划，允许年轻人到对方国家旅行、工作和学习。",
+     "angles": [
+      "因为青年交流计划提供更多国际视野，所以有助于个人成长。",
+      "前提是青年有意愿参与，否则计划难以发挥效果。"
+     ],
+     "evidence": [
+      "EU-UK youth experience scheme"
+     ],
+     "keywords": [
+      "youth exchange",
+      "international experience",
+      "personal growth"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+     "collected_at": "2026-11-21 12:10"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "科技股抛售导致市场下跌",
+     "summary_zh": "由于科技股抛售，美国股市受到压力，主要指数跌入修正区域。",
+     "angles": [
+      "因为科技股抛售，所以投资者对市场前景担忧。",
+      "前提是科技股在股市中占重要地位，其波动对市场有显著影响。"
+     ],
+     "evidence": [
+      "Anthropic shares slide",
+      "S&P 500",
+      "Dow Jones Industrial Average"
+     ],
+     "keywords": [
+      "tech stock",
+      "market correction",
+      "investor concern"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+     "collected_at": "2026-11-21 12:10"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "婴儿睡袋安全问题",
+     "summary_zh": "Next公司因婴儿睡袋安全问题暂停销售，引发公众对儿童产品安全的关注。",
+     "angles": [
+      "因为睡袋存在安全隐患，所以需要加强儿童产品监管。",
+      "前提是消费者对儿童产品的安全性有更高期待。"
+     ],
+     "evidence": [
+      "new mum raises alarm",
+      "sleeping bag neck hole"
+     ],
+     "keywords": [
+      "baby product safety",
+      "public concern",
+      "regulatory oversight"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+     "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 21 Nov 2026 00:02:09 GMT",
+     "collected_at": "2026-11-21 12:10"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI在黑色星期五购物中的应用",
+     "summary_zh": "测试AI模型是否能帮助消费者在黑色星期五找到更好的交易。",
+     "angles": [
+      "因为AI能够分析大量数据，所以有助于消费者找到更优惠的交易。",
+      "前提是消费者对AI的准确性有信心。"
+     ],
+     "evidence": [
+      "Black Friday deals",
+      "AI models",
+      "new TV"
+     ],
+     "keywords": [
+      "AI application",
+      "Black Friday",
+      "consumer savings"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+     "collected_at": "2026-11-21 12:10"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "音乐会禁止使用手机",
+     "summary_zh": "歌手Phoebe Bridgers在音乐会上禁止使用手机，鼓励粉丝通过艺术表达记忆。",
+     "angles": [
+      "因为禁止使用手机，所以音乐会体验更加专注。",
+      "前提是观众愿意参与艺术创作。"
+     ],
+     "evidence": [
+      "no-phone policy",
+      "artistic expression"
+     ],
+     "keywords": [
+      "music concert",
+      "phone ban",
+      "fan engagement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+     "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 21 Nov 2026 00:08:19 GMT",
+     "collected_at": "2026-11-21 12:10"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "宠物火化问题引发关注",
+     "summary_zh": "菲律宾宠物火化问题引发公众对宠物处理和环境保护的关注。",
+     "angles": [
+      "因为火化不当，所以需要加强对宠物处理行业的监管。",
+      "前提是公众对宠物和环境保护的意识提高。"
+     ],
+     "evidence": [
+      "grieving Filipinos",
+      "pet cremation",
+      "environmental concern"
+     ],
+     "keywords": [
+      "pet cremation",
+      "environmental protection",
+      "public awareness"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+     "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 20 Nov 2026 23:20:33 GMT",
+     "collected_at": "2026-11-21 12:10"
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "generated_at": "2026-11-20T12:09:53+08:00",
