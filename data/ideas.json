@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-11-21T12:10:27+08:00",
+ "updated": "2026-11-22T11:21:47+08:00",
  "days": [
+  {
+   "date": "2026-11-22",
+   "generated_at": "2026-11-22T11:21:47+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "癌症对个人影响的纪录片",
+     "summary_zh": "英国女王伊丽莎白二世在纪录片中公开谈论癌症如何改变她的人生。",
+     "angles": [
+      "因为癌症改变了生活，所以她选择公开分享自己的经历。",
+      "前提是癌症对个人的影响是深远的，值得分享。"
+     ],
+     "evidence": [
+      "BBC纪录片"
+     ],
+     "keywords": [
+      "cancer diagnosis",
+      "personal transformation",
+      "documentary",
+      "sharing experiences",
+      "deep impact"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+     "collected_at": "2026-11-22 11:21"
+    },
+    {
+     "topic": "人际与家庭",
+     "title_zh": "网络游戏中的救援行动",
+     "summary_zh": "一位青少年玩家和他的母亲通过在线游戏帮助FBI解救了一名失踪女孩。",
+     "angles": [
+      "因为网络游戏的社交功能，所以能帮助解决现实问题。",
+      "前提是玩家和母亲有足够的警觉性和行动力。"
+     ],
+     "evidence": [
+      "FBI救援行动"
+     ],
+     "keywords": [
+      "online gaming",
+      "social interaction",
+      "rescue",
+      "parental involvement",
+      "real-life application"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "How a teen gamer and his mother helped rescue a missing girl",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 00:09:58 GMT",
+     "collected_at": "2026-11-22 11:21"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "面试反馈的必要性",
+     "summary_zh": "求职者常常在申请工作后得不到回复，现在有呼声要求雇主对每位求职者给予反馈。",
+     "angles": [
+      "因为及时反馈对求职者很重要，所以雇主应该给予反馈。",
+      "前提是反馈能够帮助求职者改进和了解市场。"
+     ],
+     "evidence": [
+      "求职者反馈调查"
+     ],
+     "keywords": [
+      "interview feedback",
+      "job application",
+      "applicant experience",
+      "market understanding",
+      "improvement"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Employers are being asked to give interview feedback - here's what applicants want",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 00:04:07 GMT",
+     "collected_at": "2026-11-22 11:21"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "服务站的转变",
+     "summary_zh": "服务站从长途旅行中的短暂停留变成了自己的目的地。",
+     "angles": [
+      "因为科技进步，所以服务站的职能发生了变化。",
+      "前提是人们对于旅行体验的需求在变化。"
+     ],
+     "evidence": [
+      "服务站转型案例"
+     ],
+     "keywords": [
+      "service station",
+      "travel experience",
+      "technology advancement",
+      "function transformation",
+      "customer needs"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "From pit-stops to go-to destinations: The transformation of service stations",
+     "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 00:06:03 GMT",
+     "collected_at": "2026-11-22 11:21"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI在黑色星期五购物中的应用",
+     "summary_zh": "测试四种AI模型是否能帮助节省购买新电视的费用。",
+     "angles": [
+      "因为AI在购物中可以提供帮助，所以值得测试其效果。",
+      "前提是AI的准确性和实用性需要验证。"
+     ],
+     "evidence": [
+      "AI模型测试结果"
+     ],
+     "keywords": [
+      "AI application",
+      "Black Friday shopping",
+      "cost saving",
+      "model testing",
+      "accuracy"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+     "collected_at": "2026-11-22 11:21"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "网络跟踪的警告信号",
+     "summary_zh": "随着案例增加，专家解释了父母应认真对待的网络跟踪警告信号。",
+     "angles": [
+      "因为网络跟踪对个人安全构成威胁，所以需要提高警惕。",
+      "前提是父母应了解并识别潜在的危险。"
+     ],
+     "evidence": [
+      "网络跟踪案例增加"
+     ],
+     "keywords": [
+      "online stalking",
+      "warning signs",
+      "parental awareness",
+      "personal safety",
+      "identification"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Parents urged to spot online stalking warning signs as cases rise",
+     "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 00:07:32 GMT",
+     "collected_at": "2026-11-22 11:21"
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "generated_at": "2026-11-21T12:10:27+08:00",
