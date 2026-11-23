@@ -1,7 +1,177 @@
 {
  "version": 1,
- "updated": "2026-11-22T11:21:47+08:00",
+ "updated": "2026-11-23T11:54:25+08:00",
  "days": [
+  {
+   "date": "2026-11-23",
+   "generated_at": "2026-11-23T11:54:25+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI辅助乳腺癌筛查",
+     "summary_zh": "英国国家医疗服务体系（NHS）启动了世界上最大的AI辅助乳腺癌筛查试验，旨在通过技术减轻NHS的压力。",
+     "angles": [
+      "因为AI辅助筛查，所以可以减轻NHS压力",
+      "前提是技术准确可靠，才能提高早期诊断率"
+     ],
+     "evidence": [
+      "NHS",
+      "乳腺癌筛查"
+     ],
+     "keywords": [
+      "AI",
+      "breast cancer",
+      "screening",
+      "NHS",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+     "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+     "published": "Mon, 23 Nov 2026 00:49:22 GMT",
+     "collected_at": "2026-11-23 11:54"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "青少年游戏玩家协助解救失踪女孩",
+     "summary_zh": "一名16岁的青少年游戏玩家和他的母亲通过在线游戏结识了一个女孩，并协助FBI解救了她。",
+     "angles": [
+      "因为游戏玩家有洞察力，所以能发现异常",
+      "前提是游戏玩家有责任心，才能及时采取行动"
+     ],
+     "evidence": [
+      "FBI",
+      "kidnapping"
+     ],
+     "keywords": [
+      "teenager",
+      "gaming",
+      "rescue",
+      "FBI",
+      "responsibility"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "How a teen gamer and his mother helped rescue a missing girl",
+     "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 00:09:58 GMT",
+     "collected_at": "2026-11-23 11:54"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "AI生成角色盗用艺术家作品",
+     "summary_zh": "音乐家、喜剧演员和舞者等发现他们的作品被AI生成角色克隆。",
+     "angles": [
+      "因为AI技术发展迅速，所以艺术家作品易被克隆",
+      "前提是版权保护不足，艺术家利益受损"
+     ],
+     "evidence": [
+      "AI",
+      "art",
+      "cloning"
+     ],
+     "keywords": [
+      "AI",
+      "art",
+      "cloning",
+      "artists",
+      "intellectual property"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The real people finding their work copied and stolen by AI characters",
+     "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 22 Nov 2026 05:00:38 GMT",
+     "collected_at": "2026-11-23 11:54"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "政府计划帮助年轻人就业",
+     "summary_zh": "政府支持的报告称，其建议可能帮助44万年轻人到2036年找到工作。",
+     "angles": [
+      "因为就业市场变化，所以需要政府干预",
+      "前提是政府计划有效，年轻人才能受益"
+     ],
+     "evidence": [
+      "government",
+      "employment",
+      "2036"
+     ],
+     "keywords": [
+      "government",
+      "employment",
+      "youth",
+      "plan",
+      "2036"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 14:43:05 GMT",
+     "collected_at": "2026-11-23 11:54"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "教育、工作和福利系统需全面改革",
+     "summary_zh": "Alan Milburn的审查将呼吁对教育、工作和福利系统进行彻底改革。",
+     "angles": [
+      "因为现有系统存在缺陷，所以需要改革",
+      "前提是改革措施得当，才能提高就业率"
+     ],
+     "evidence": [
+      "Alan Milburn",
+      "reforms",
+      "employment"
+     ],
+     "keywords": [
+      "reforms",
+      "education",
+      "employment",
+      "welfare",
+      "system"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 08:12:31 GMT",
+     "collected_at": "2026-11-23 11:54"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "英国学校加强手机管理",
+     "summary_zh": "英国政府加强了对英格兰学校的指导，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为过度使用手机影响学习，所以需要限制",
+      "前提是限制措施得当，才能提高学习效率"
+     ],
+     "evidence": [
+      "government",
+      "schools",
+      "England",
+      "mobile phones"
+     ],
+     "keywords": [
+      "schools",
+      "England",
+      "mobile phones",
+      "restrictions",
+      "learning"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-23 11:54"
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "generated_at": "2026-11-22T11:21:47+08:00",
