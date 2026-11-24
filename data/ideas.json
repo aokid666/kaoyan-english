@@ -1,7 +1,160 @@
 {
  "version": 1,
- "updated": "2026-11-23T11:54:25+08:00",
+ "updated": "2026-11-24T15:02:18+08:00",
  "days": [
+  {
+   "date": "2026-11-24",
+   "generated_at": "2026-11-24T15:02:18+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "残疾人福利支付加速",
+     "summary_zh": "英国政府计划加快对某些残疾人的福利支付，无需重新评估。",
+     "angles": [
+      "前提是残疾人福利支付加速，可以减轻他们的经济压力。",
+      "因为福利支付加速，可以减少残疾人等待时间，提高生活质量。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "disabled people",
+      "welfare payment",
+      "accelerate",
+      "quality of life"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Benefits review to suggest quicker payment for some disabled people",
+     "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 24 Nov 2026 00:53:31 GMT",
+     "collected_at": "2026-11-24 15:02"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "阿富汗学生签证受阻",
+     "summary_zh": "英国暂停了阿富汗学生的学习签证，导致他们无法继续学业。",
+     "angles": [
+      "因为签证政策变化，阿富汗学生面临学业中断的风险。",
+      "前提是签证政策恢复，阿富汗学生可以继续他们的学术追求。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "Afghan students",
+      "study visa",
+      "visa brake",
+      "academic pursuit"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+     "url": "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 24 Nov 2026 06:00:47 GMT",
+     "collected_at": "2026-11-24 15:02"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "隐疾与职场",
+     "summary_zh": "许多有阅读障碍的人选择不向潜在雇主透露自己的情况，因为这可能影响他们的自信心。",
+     "angles": [
+      "因为隐瞒阅读障碍，求职者可能错失适合的工作机会。",
+      "前提是职场环境更加包容，人们更愿意公开自己的情况。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "dyslexia",
+      "workplace",
+      "confidence",
+      "employment opportunity"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Why I don't always tell potential employers I'm dyslexic",
+     "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 24 Nov 2026 00:00:47 GMT",
+     "collected_at": "2026-11-24 15:02"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "房东市场变化",
+     "summary_zh": "随着企业房东数量的增加，英国可能迎来双层租赁市场。",
+     "angles": [
+      "因为企业房东的增加，租房者可能面临更高的租金和更少的租赁选择。",
+      "前提是政府监管加强，可以保护租房者的权益。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "landlords",
+      "rental market",
+      "corporate landlords",
+      "rental choice"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+     "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 24 Nov 2026 00:28:48 GMT",
+     "collected_at": "2026-11-24 15:02"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "政府计划帮助年轻人就业",
+     "summary_zh": "政府支持的报告建议到2036年帮助44万年轻人就业。",
+     "angles": [
+      "因为政府计划，年轻人就业机会有望增加。",
+      "前提是计划得到有效执行，年轻人能够获得必要的技能培训。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "government plan",
+      "young people",
+      "employment",
+      "skill training"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 14:43:05 GMT",
+     "collected_at": "2026-11-24 15:02"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "学校手机禁令",
+     "summary_zh": "英国政府加强了对学校手机使用的指导，禁止学生在书包或口袋中携带手机。",
+     "angles": [
+      "因为手机禁令，学生可以更专注于学习。",
+      "前提是学校能够有效执行禁令，减少手机对学习的干扰。"
+     ],
+     "evidence": [
+      "2023"
+     ],
+     "keywords": [
+      "school",
+      "mobile phone ban",
+      "focus on learning",
+      "distraction"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+     "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+     "collected_at": "2026-11-24 15:02"
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "generated_at": "2026-11-23T11:54:25+08:00",
