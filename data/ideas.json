@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-11-24T15:02:18+08:00",
+ "updated": "2026-11-25T13:35:11+08:00",
  "days": [
+  {
+   "date": "2026-11-25",
+   "generated_at": "2026-11-25T13:35:11+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "待分类",
+     "title_zh": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+     "summary_zh": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC News",
+     "source_title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+     "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 24 Nov 2026 22:49:41 GMT",
+     "collected_at": "2026-11-25 13:35"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Out of work and not in college: How quickly could Milburn's plans help you?",
+     "summary_zh": "The government-backed report says its recommendations could help 440,000 young people into work by 2036.",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "BBC 教育",
+     "source_title": "Out of work and not in college: How quickly could Milburn's plans help you?",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&at_campaign=rss",
+     "published": "Tue, 17 Nov 2026 14:43:05 GMT",
+     "collected_at": "2026-11-25 13:35"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+     "summary_zh": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began b",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "The Guardian",
+     "source_title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+     "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+     "published": "Tue, 24 Nov 2026 16:00:50 GMT",
+     "collected_at": "2026-11-25 13:35"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Southport attack families’ fury after 13 survivors miss out on school funding",
+     "summary_zh": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist support Families of girls injured in the ",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 教育",
+     "source_title": "Southport attack families’ fury after 13 survivors miss out on school funding",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
+     "published": "Tue, 24 Nov 2026 16:37:27 GMT",
+     "collected_at": "2026-11-25 13:35"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+     "summary_zh": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Nvid",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 科技",
+     "source_title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
+     "published": "Tue, 24 Nov 2026 14:45:03 GMT",
+     "collected_at": "2026-11-25 13:35"
+    },
+    {
+     "topic": "待分类",
+     "title_zh": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
+     "summary_zh": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow Explainer: What to know about flooding in California over Thanksgi",
+     "angles": [],
+     "evidence": [],
+     "keywords": [],
+     "essay_type": "通用",
+     "source": "Guardian 环境",
+     "source_title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
+     "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+     "published": "Tue, 24 Nov 2026 23:20:24 GMT",
+     "collected_at": "2026-11-25 13:35"
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "generated_at": "2026-11-24T15:02:18+08:00",
