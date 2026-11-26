@@ -1,7 +1,173 @@
 {
  "version": 1,
- "updated": "2026-11-25T13:35:11+08:00",
+ "updated": "2026-11-26T13:18:32+08:00",
  "days": [
+  {
+   "date": "2026-11-26",
+   "generated_at": "2026-11-26T13:18:32+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "德国船只经销商涉嫌为偷渡团伙提供船只",
+     "summary_zh": "德国一名船只经销商被怀疑为偷渡团伙提供船只和引擎，约三分之一的偷渡行动涉及其公司产品。",
+     "angles": [
+      "因为偷渡团伙的需求增加，所以需要更多的船只和引擎来满足需求。",
+      "前提是严格的边境检查，否则偷渡活动难以遏制。"
+     ],
+     "evidence": [
+      "三分之一的偷渡行动",
+      "德国船只经销商"
+     ],
+     "keywords": [
+      "smuggling gangs",
+      "boats",
+      "engines",
+      "border checks",
+      "demand"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+     "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+     "collected_at": "2026-11-26 13:18"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "英国季节变化导致霜冻减少和高温增加",
+     "summary_zh": "英国气象办公室表示，季节变化导致霜冻减少，高温天数增加，这影响了野生动物和部分农民的作物选择。",
+     "angles": [
+      "因为气候变化，所以季节变化导致气候特征改变。",
+      "前提是采取有效措施应对气候变化，否则环境问题将加剧。"
+     ],
+     "evidence": [
+      "气象办公室",
+      "野生动物",
+      "农民作物选择"
+     ],
+     "keywords": [
+      "seasonal change",
+      "frost",
+      "hot days",
+      "wildlife",
+      "climate change"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+     "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 00:08:07 GMT",
+     "collected_at": "2026-11-26 13:18"
+    },
+    {
+     "topic": "科技与日常使用",
+     "title_zh": "美国批准SpaceX计划发射百万颗数据卫星",
+     "summary_zh": "美国批准SpaceX计划发射一百万颗数据卫星，旨在以成本和能源效率最高的方式满足不断增长的AI计算能力需求。",
+     "angles": [
+      "因为AI计算能力需求增长，所以需要更多的数据卫星来支持。",
+      "前提是技术进步，否则无法满足需求。"
+     ],
+     "evidence": [
+      "一百万颗数据卫星",
+      "AI计算能力需求"
+     ],
+     "keywords": [
+      "SpaceX",
+      "satellites",
+      "AI computing",
+      "demand",
+      "technology"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "US approves SpaceX plan to send a million data satellites to space",
+     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+     "collected_at": "2026-11-26 13:18"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "全球气温连续六天创下历史新高",
+     "summary_zh": "根据《卫报》报道，全球气温连续六天创下比工业化前水平高2摄氏度的新纪录。",
+     "angles": [
+      "因为全球气候变暖，所以气温持续升高。",
+      "前提是采取行动减少温室气体排放，否则气候变化将更加严重。"
+     ],
+     "evidence": [
+      "连续六天气温创纪录",
+      "工业化前水平"
+     ],
+     "keywords": [
+      "global temperature",
+      "record",
+      "climate change",
+      "greenhouse gas",
+      "action"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+     "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 05:17:12 GMT",
+     "collected_at": "2026-11-26 13:18"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "酒店需要最低安全标准以保障女性安全",
+     "summary_zh": "国会议员呼吁制定国家酒店安全标准，以保护女性免受性侵犯。",
+     "angles": [
+      "因为性侵犯事件频发，所以需要更高的安全标准。",
+      "前提是公众意识提高，否则安全问题难以解决。"
+     ],
+     "evidence": [
+      "性侵犯事件",
+      "国家酒店安全标准"
+     ],
+     "keywords": [
+      "hotel safety",
+      "sexual assault",
+      "public awareness",
+      "standard",
+      "women's safety"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Hotels need 'minimum standards' to keep women safe",
+     "url": "https://www.bbc.co.uk/news/articles/crgj3gnjeqe0o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 25 Nov 2026 20:45:18 GMT",
+     "collected_at": "2026-11-26 13:18"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "英国政府就欧盟学生学费问题与Burnham进行辩论",
+     "summary_zh": "英国首相表示，欧盟学生应支付与英国学生相同的学费，这是欧洲的立场。",
+     "angles": [
+      "因为学费问题影响教育公平，所以需要公平的学费政策。",
+      "前提是国际学生流动，否则教育机会不均等。"
+     ],
+     "evidence": [
+      "欧盟学生学费",
+      "教育公平"
+     ],
+     "keywords": [
+      "tuition fees",
+      "education equity",
+      "international students",
+      "policy",
+      "fairness"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Badenoch challenges Burnham over university fees for EU students",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 25 Nov 2026 16:46:17 GMT",
+     "collected_at": "2026-11-26 13:18"
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "generated_at": "2026-11-25T13:35:11+08:00",
