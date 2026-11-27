@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-11-26T13:18:32+08:00",
+ "updated": "2026-11-27T13:14:57+08:00",
  "days": [
+  {
+   "date": "2026-11-27",
+   "generated_at": "2026-11-27T13:14:57+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "误判案件影响",
+     "summary_zh": "一名肯尼亚男子因英国夫妇攻击案被错误定罪，英国警察证词导致其入狱。",
+     "angles": [
+      "因为误判，所以受害者生活受到严重影响。",
+      "前提是公正司法，才能保障公民生活质量。"
+     ],
+     "evidence": [
+      "2011年",
+      "英国警察证词"
+     ],
+     "keywords": [
+      "误判",
+      "生活影响",
+      "司法公正",
+      "公民权利"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 27 Nov 2026 00:48:11 GMT",
+     "collected_at": "2026-11-27 13:14"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "流感疫情警告",
+     "summary_zh": "英国国家卫生服务局警告流感病例激增，呼吁高风险人群尽快接种疫苗。",
+     "angles": [
+      "因为流感疫情严重，所以公共卫生服务面临挑战。",
+      "前提是疫苗接种，才能有效控制疫情。"
+     ],
+     "evidence": [
+      "NHS",
+      "病例激增"
+     ],
+     "keywords": [
+      "流感疫情",
+      "公共卫生",
+      "疫苗接种",
+      "生活质量"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 27 Nov 2026 00:20:10 GMT",
+     "collected_at": "2026-11-27 13:14"
+    },
+    {
+     "topic": "环境与健康生活",
+     "title_zh": "火灾后的反思",
+     "summary_zh": "香港火灾后，一名男子在灰烬中找到父亲去世时停止的表，城市纪念火灾周年。",
+     "angles": [
+      "因为火灾，所以人们反思生命和安全的珍贵。",
+      "前提是安全意识，才能减少灾难发生。"
+     ],
+     "evidence": [
+      "168人",
+      "火灾周年"
+     ],
+     "keywords": [
+      "火灾",
+      "生命反思",
+      "安全意识",
+      "健康生活"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+     "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 23:03:16 GMT",
+     "collected_at": "2026-11-27 13:14"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "户外徒步的益处",
+     "summary_zh": "年轻人在徒步活动中找到友谊和新鲜空气，感觉更好。",
+     "angles": [
+      "因为徒步，所以人们获得身心健康。",
+      "前提是户外活动，才能促进个人成长。"
+     ],
+     "evidence": [
+      "徒步活动"
+     ],
+     "keywords": [
+      "徒步",
+      "个人成长",
+      "身心健康",
+      "户外活动"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "The young hikers finding friendship and fresh air offline",
+     "url": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 27 Nov 2026 00:52:34 GMT",
+     "collected_at": "2026-11-27 13:14"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "独食现象",
+     "summary_zh": "独自用餐成为一种自我关爱趋势，正在重塑餐饮业。",
+     "angles": [
+      "因为独食，所以人们享受个人空间和时间。",
+      "前提是个人选择，才能满足不同需求。"
+     ],
+     "evidence": [
+      "自我关爱趋势",
+      "餐饮业"
+     ],
+     "keywords": [
+      "独食",
+      "个人空间",
+      "自我关爱",
+      "餐饮业"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+     "published": "Fri, 27 Nov 2026 00:54:45 GMT",
+     "collected_at": "2026-11-27 13:14"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "学校应对紧急情况",
+     "summary_zh": "英国学校被要求制定应急计划，以应对停电和极端天气等风险。",
+     "angles": [
+      "因为应急计划，所以学校能够保障学生安全。",
+      "前提是风险管理，才能提高生活质量。"
+     ],
+     "evidence": [
+      "停电",
+      "极端天气"
+     ],
+     "keywords": [
+      "应急计划",
+      "学校安全",
+      "风险管理",
+      "生活质量"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Schools given emergency action plans for power outages and extreme weather",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1y2d4yqno?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 17:51:49 GMT",
+     "collected_at": "2026-11-27 13:14"
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "generated_at": "2026-11-26T13:18:32+08:00",
