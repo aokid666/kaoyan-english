@@ -1,7 +1,170 @@
 {
  "version": 1,
- "updated": "2026-11-27T13:14:57+08:00",
+ "updated": "2026-11-28T12:52:16+08:00",
  "days": [
+  {
+   "date": "2026-11-28",
+   "generated_at": "2026-11-28T12:52:16+08:00",
+   "ai": true,
+   "model": "glm-4-flash",
+   "count": 6,
+   "items": [
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "阅读习惯的培养",
+     "summary_zh": "政府推出新课程，旨在提高阅读能力并减少无目的的屏幕时间。",
+     "angles": [
+      "因为阅读能力下降，所以政府采取措施鼓励阅读。",
+      "前提是学校和家庭共同努力，阅读习惯才能得到改善。"
+     ],
+     "evidence": [
+      "政府新课程",
+      "无目的的屏幕时间"
+     ],
+     "keywords": [
+      "reading habit",
+      "literacy rate",
+      "government policy",
+      "screen time"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "Set time aside for children to read for pleasure, schools to be told",
+     "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 28 Nov 2026 02:20:49 GMT",
+     "collected_at": "2026-11-28 12:52"
+    },
+    {
+     "topic": "个人成长与学习",
+     "title_zh": "ADHD和自闭症诊断的重新评估",
+     "summary_zh": "瑞典一家政府资助的诊所正在重新评估ADHD和自闭症的诊断。",
+     "angles": [
+      "因为重新评估可能加深污名化，所以需要谨慎对待。",
+      "前提是诊断准确，才能帮助患者。"
+     ],
+     "evidence": [
+      "瑞典政府资助的诊所",
+      "ADHD, autism diagnoses"
+     ],
+     "keywords": [
+      "ADHD",
+      "autism",
+      "diagnosis",
+      "stigma",
+      "reassessment"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC News",
+     "source_title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+     "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+     "published": "Sat, 28 Nov 2026 00:05:17 GMT",
+     "collected_at": "2026-11-28 12:52"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "学校的紧急行动计划",
+     "summary_zh": "英国学校被要求制定应对停电和极端天气的紧急行动计划。",
+     "angles": [
+      "因为网络安全攻击和建筑坍塌的风险，所以学校需要准备应对措施。",
+      "前提是学校有充分的准备，才能保障学生的安全。"
+     ],
+     "evidence": [
+      "网络安全攻击",
+      "建筑坍塌",
+      "英国学校"
+     ],
+     "keywords": [
+      "emergency action plan",
+      "school safety",
+      "cyber attack",
+      "building collapse"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Schools given emergency action plans for power outages and extreme weather",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1y2d4yqno?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 17:51:49 GMT",
+     "collected_at": "2026-11-28 12:52"
+    },
+    {
+     "topic": "就业与能力发展",
+     "title_zh": "青年失业率问题",
+     "summary_zh": "数据显示，英国的青年失业率仍然很高。",
+     "angles": [
+      "因为青年失业率高，所以需要重置就业政策。",
+      "前提是政府采取措施，青年就业率才能提高。"
+     ],
+     "evidence": [
+      "青年失业率",
+      "Milburn review"
+     ],
+     "keywords": [
+      "youth unemployment",
+      "employment policy",
+      "government intervention",
+      "Milburn review"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Number of young people out of work or training still stubbornly high, data shows",
+     "url": "https://www.bbc.co.uk/news/articles/cq62p64e13rno?at_medium=RSS&at_campaign=rss",
+     "published": "Thu, 26 Nov 2026 13:55:02 GMT",
+     "collected_at": "2026-11-28 12:52"
+    },
+    {
+     "topic": "文化与社会参与",
+     "title_zh": "性教育扩展到18岁",
+     "summary_zh": "一名真人秀明星支持将性教育扩展到18岁。",
+     "angles": [
+      "因为儿童容易接触到网络上的有害信息，所以性教育需要扩展。",
+      "前提是性教育内容适合青少年，才能有效预防不良行为。"
+     ],
+     "evidence": [
+      "性教育",
+      "online poison",
+      "sex education"
+     ],
+     "keywords": [
+      "sex education",
+      "youth",
+      "online safety",
+      "prevention"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Reality TV star backs extending sex education to 18",
+     "url": "https://www.bbc.co.uk/news/articles/cqgkl38j1r76o?at_medium=RSS&at_campaign=rss",
+     "published": "Wed, 25 Nov 2026 15:03:44 GMT",
+     "collected_at": "2026-11-28 12:52"
+    },
+    {
+     "topic": "公共服务与生活质量",
+     "title_zh": "减少屏幕时间",
+     "summary_zh": "保守党承诺将停止基于屏幕的考试并减少课程作业。",
+     "angles": [
+      "因为过度依赖屏幕和时间，所以需要减少屏幕时间。",
+      "前提是减少屏幕时间，才能提高学习效率。"
+     ],
+     "evidence": [
+      "基于屏幕的考试",
+      "课程作业",
+      "screen time"
+     ],
+     "keywords": [
+      "screen time",
+      "exam",
+      "coursework",
+      "learning efficiency"
+     ],
+     "essay_type": "大作文",
+     "source": "BBC 教育",
+     "source_title": "Tories pledge to halt screen-based school exams and cut coursework",
+     "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+     "published": "Sun, 15 Nov 2026 22:00:37 GMT",
+     "collected_at": "2026-11-28 12:52"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "generated_at": "2026-11-27T13:14:57+08:00",
